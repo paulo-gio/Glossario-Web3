@@ -1,0 +1,5 @@
+### Livro-Razão Distribuído (Distributed Ledger)
+
+Um livro-razão distribuído é um banco de dados que é compartilhado e sincronizado de forma consensual em vários sites, instituições ou geografias, acessível por várias pessoas. O livro-razão distribuído faz parte da essência da _blockchain_, pois permite que as transações tenham "testemunhas" públicas. O participante em cada nó da rede pode acessar as gravações compartilhadas nessa rede e pode possuir uma cópia idêntica dela. Quaisquer alterações ou adições feitas ao livro são refletidas e copiadas para todos os participantes em questão de segundos ou minutos. Um livro-razão distribuído contrasta com um livro-razão centralizado, que é o tipo de livro-razão que a maioria das empresas usa, porém este livro-razão centralizado é mais propenso a ataques cibernéticos e fraudes, por possuir somente um único ponto de falha centralizado.
+
+[Voltar ao Índice](../)

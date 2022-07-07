@@ -1,0 +1,5 @@
+### Criptografia, Encriptação, Cifragem (Cryptography, Encryption, Ciphering)
+
+A criptografia é o processo de usar um algoritmo para transformar texto simples em texto cifrado, a fim de garantir que os dados confidenciais permaneçam ilegíveis para usuários não autorizados. Os dados criptografados geralmente se parecem com uma longa sequência de letras e números aleatórios. Depois que os dados são criptografados, eles só podem ser transformados em texto simples e legíveis novamente usando a chave de criptografia correta. A criptografia é essencial para garantir a entrega e o armazenamento confiáveis de informações confidenciais.
+
+[Voltar ao Índice](../)

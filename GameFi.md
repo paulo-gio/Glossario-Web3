@@ -1,0 +1,5 @@
+### GameFi
+
+GameFi é uma combinação de videogames (_Gaming_) e finanças descentralizadas (DeFi). O conceito de GameFi se baseia na interseção da tecnologia _blockchain_, jogos e várias formas de produtos financeiros descentralizados, como _tokens_ não fungíveis (NFTs), _yield farming_, empréstimos e _stablecoins_ algorítmicas, etc. Um dos exemplos mais comuns de GameFi é a propriedade descentralizada de ativos no jogo. Por exemplo, os jogadores podem ser os únicos proprietários de armas, personagens, _skins_, imóveis digitais, etc. Os aplicativos GameFi também podem ser usados para incorporar sistemas de pagamento descentralizado em videogames. Os jogos P2E (_Play-to-Earn_), que usam esse sistema de pagamento, ganharam popularidade por volta de 2020. Ao contrário de alguns jogos tradicionais, que usam um modelo _pay-to-win_, os jogos P2E recompensam os jogadores por investirem tempo no jogo.
+
+[Voltar ao Índice](../)
