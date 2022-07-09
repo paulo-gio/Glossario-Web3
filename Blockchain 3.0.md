@@ -1,5 +1,3 @@
 ### Blockchain 3.0 (DApps)
 
 Aqui temos o DApp como personagem principal, que é uma forma abreviada para aplicação descentralizada que evita uma infraestrutura centralizada. Ele usa armazenamento descentralizado e comunicação descentralizada, então a maioria dos DApps tem seu código de _back-end_ rodando em uma rede ponto a ponto descentralizada, uma _blockchain_. Em contraste, um aplicativo tradicional tem seu código de _back-end_ rodando em servidores centralizados. Um DApp pode ter código de _front-end_ e interfaces de usuário escritas em qualquer linguagem que possa fazer chamadas para seu _back-end_, como um aplicativo tradicional. Mas um Dapp pode ter seu _front-end_ hospedado em armazenamentos descentralizados, como o Ethereum Swarm.
-
-[Voltar ao Índice](../)

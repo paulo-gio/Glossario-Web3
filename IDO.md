@@ -1,0 +1,3 @@
+### IDO, Initial Dex Offering (Oferta Inicial em DEX)
+
+Uma IDO (_Initial Dex Offering_) é um tipo de abordagem de arrecadação de fundos de _tokens_ que usa plataformas descentralizadas para facilitar a venda de _tokens_. Após a conclusão bem-sucedida da venda, o _token_ é lançado em uma _exchange_ descentralizada (DEX). Esse modelo contrasta com as ICOs tradicionais, onde a moeda geralmente é lançada em plataformas centralizadas. Esse tipo de empreendimento de captação de recursos depende muito de _pools_ de liquidez para criar liquidez pós-venda. Os projetos normalmente alocarão alguns dos fundos arrecadados durante a IDO à _pool_ de liquidez para garantir que o projeto tenha liquidez adequada no lançamento.

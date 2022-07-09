@@ -1,0 +1,3 @@
+### Lançamento Sigiloso (Stealth Launch)
+
+Nos lançamentos de criptomoedas, um lançamento sigiloso é uma técnica em que os desenvolvedores liberam o endereço do contrato de um projeto o mais próximo possível do horário de lançamento e após a definição da liquidez inicial. Isso é feito para evitar que _sniper bots_ maliciosos e bots de _front running_ sejam configurados antecipadamente. Os lançamentos sigilosos dão a todos uma chance justa de comprar _tokens_ do projeto de criptomoedas o mais cedo possível, sem ter que competir com _bots_ automatizados. Ao revelar o endereço do contrato o mais tarde possível, os programadores não têm tempo para configurar seus _bots_ antes do lançamento. Como tal, todos os investidores começam em pé de igualdade.

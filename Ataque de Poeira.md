@@ -1,5 +1,3 @@
-### Ataque de Poeira, Ataque de Empoeiramento, Ataque de Pó, Empoeiramento (Dusting Attack, Dust Attack, Dusting)
+### Ataque de Poeira, Ataque de Empoeiramento (Dusting Attack, Dust Attack)
 
 Um ataque de poeira é um ato malicioso em que _hackers_ / golpistas tentam descobrir suas informações pessoais enviando quantidades muito pequenas de criptomoedas (poeira). Os golpistas esperam que você tente vender ou interagir com os _tokens_ assim que notá-los em sua carteira. Se isso acontece, os golpistas conseguem rastrear sua carteira e atividade de transações com a esperança de “desmascarar” sua identidade. Outro tipo de ataque de poeira que se tornou bastante popular, especialmente na Binance Smart Chain (BSC), é a criação e distribuição de _tokens_ falsos. Os golpistas enviam _tokens_ falsos para milhares de endereços aleatórios de carteiras BSC. O ID dessas transações geralmente conterá um _link_ para um site malicioso no memorando da transação. A melhor defesa contra ataques de poeira é não interagir com criptomoedas desconhecidas ou enviadas aleatoriamente.
-
-[Voltar ao Índice](../)

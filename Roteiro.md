@@ -1,0 +1,3 @@
+### Roteiro (Roadmap)
+
+Um roteiro é um plano que uma _startup_ ou uma equipe de desenvolvedores cria para delinear como eles implementarão as metas específicas ou os principais indicadores de desempenho (KPIs) de um projeto dentro de um período de tempo distinto. Em particular, o roteiro especifica os marcos nos quais os investidores podem se interessar e quando devem ser alcançados em um cronograma claro.

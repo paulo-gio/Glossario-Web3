@@ -1,0 +1,3 @@
+### Blockchain Pública, Blockchain Não Permissionada (Public Blockchain, Permissionless Blockchain)
+
+Uma _blockchain_ pública é um tipo de sistema _blockchain_ onde qualquer pessoa pode entrar e interagir com a rede. Ou seja, qualquer participante disposto pode realizar várias atividades na rede, como criar um endereço, contribuir para o consenso da rede por mineração ou _staking_ ou criar contratos inteligentes.

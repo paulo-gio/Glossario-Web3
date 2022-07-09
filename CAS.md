@@ -1,0 +1,3 @@
+### CAS, Content Addressable Storage (Armazenamento Endereçável de Conteúdo)
+
+O armazenamento endereçável de conteúdo (CAS) é um mecanismo de armazenamento no qual os dados fixos são atribuídos a um local permanente em um disco rígido e endereçados com um nome, identificador ou endereço de conteúdo exclusivo. A EMC Corporation lançou inicialmente o CAS para seu _software_ de gerenciamento de dados distribuído (DDM). O CAS também é conhecido como armazenamento associativo, armazenamento com reconhecimento de conteúdo ou armazenamento de conteúdo fixo (FCS, _Fixed Content Storage_).

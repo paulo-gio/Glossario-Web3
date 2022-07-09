@@ -1,0 +1,3 @@
+### Código QR (QR Code)
+
+Um código QR, também conhecido como código de resposta rápida, é um tipo de código de barras projetado para ser reconhecido por uma ampla variedade de dispositivos eletrônicos de leitura. Ao contrário dos códigos de barras tradicionais, que são retangulares com linhas verticais, os códigos QR são quadrados com outros pequenos quadrados pretos sobre um fundo branco. Os códigos podem ser facilmente digitalizados com um dispositivo de imagem, como uma câmera de _smartphone_.

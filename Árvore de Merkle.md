@@ -1,0 +1,3 @@
+### Árvore de Merkle, Árvore de Dados, Árvore de Hash (Merkle Tree, Hash Tree)
+
+Uma árvore de Merkle, ou árvore de _hash_, é uma árvore na qual cada "folha" (nó) é rotulada com o _hash_ criptográfico de um bloco de dados, e cada nó que não é uma folha (chamado de ramo ou nó interno) é rotulado com o _hash_ criptográfico dos rótulos de seus nós filhos. Uma árvore de _hash_ permite a verificação eficiente e segura do conteúdo de uma grande estrutura de dados, como uma _blockchain_. Uma árvore de _hash_ é uma generalização de uma lista de _hash_ e uma cadeia de _hash_.

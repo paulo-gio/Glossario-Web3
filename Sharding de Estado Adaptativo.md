@@ -1,5 +1,3 @@
 ### Sharding de Estado Adaptativo (Adaptive State Sharding)
 
 _Sharding_ de estado adaptativo é uma técnica de particionamento fragmentativo que permite o dimensionamento horizontal de bancos de dados, movendo dados automaticamente entre servidores à medida que a carga no sistema aumenta ou diminui. No nível da rede, o _sharding_ ocorre para distribuir os nós em segmentos. No nível da transação, ocorre enquanto todos os nós, juntos, retêm a totalidade da _blockchain_. Outro que ocorre é em nível de estado. Este _sharding_ leva ao processamento e verificação de mais transações ao mesmo tempo. Este modelo de fragmentação de estado adaptativo dinâmico permite a adaptação a um número crescente ou decrescente de nós sem comprometer a descentralização e a segurança da rede.
-
-[Voltar ao Índice](../)

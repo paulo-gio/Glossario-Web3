@@ -1,0 +1,3 @@
+### Play2Earn, Play-to-Earn (Jogar para Ganhar)
+
+Play2Earn é um conceito em videogames onde os jogadores são recompensados por completar várias tarefas e objetivos no jogo, como desbloquear itens ocultos e vencer torneios. Esse conceito geralmente é encontrado em jogos baseados em _blockchain_, onde os jogadores podem ganhar criptomoedas e NFTs com valor no mundo real. NFTs que podem ser ganhos em jogos de Play2Earn incluem _skins_, armas, armaduras, imóveis, personagens, etc. Os jogadores podem então vender ou trocar o item como acharem melhor. Quanto mais raro o item, maior o seu valor percebido.

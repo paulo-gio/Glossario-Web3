@@ -1,0 +1,3 @@
+### Layout Avançado de Dados (ADL, Advanced Data Layout)
+
+Layout Avançado de Dados (ADL) é um conceito em IPLD (_Interplanetary Linked Data_) que descreve quando algum código plugável é usado para criar estruturas de dados que agem como se fossem os nós típicos de modelo de dados (o que significa que o código genérico pode funcionar tanto sobre eles como sobre os nós simples), enquanto possui uma estrutura interna que é gerenciada pelo código do _plugin_. As ADLs são normalmente usadas para fazer coisas como criar grandes estruturas de dados fragmentadas que podem ser acessadas da mesma maneira que estruturas mais simples, mas a definição é bastante aberta.

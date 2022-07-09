@@ -1,5 +1,3 @@
 ### Licença Pública Geral (General Public License, GPL)
 
 Uma Licença Pública Geral é uma licença que permite que as pessoas usem, copiem e compartilhem um _software_ sem a permissão do desenvolvedor original. A pessoa que projeta o _software_ ou aplicativo escolhe voluntariamente registrá-lo sob esta licença para que outros possam usá-lo como quiserem. Um exemplo de _software_ registrado sob uma Licença Pública Geral (GPL) é o _software_ Bitcoin Core. Ao registrá-lo sob uma GPL, Satoshi Nakamoto, o inventor do Bitcoin, voluntariamente optou por não limitar como os outros usam o _software_. No entanto, ele também garantiu que ninguém mais pudesse reivindicar os direitos de sua propriedade intelectual. Como resultado dessa decisão, muitas pessoas foram inovadoras com a tecnologia, dando origem a milhares de outras aplicações de _blockchain_.
-
-[Voltar ao Índice](../)

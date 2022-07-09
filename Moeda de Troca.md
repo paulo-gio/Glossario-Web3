@@ -1,5 +1,3 @@
 ### Moeda de Troca (Currency) 
 
 Moeda é qualquer coisa que seja geralmente aceita como meio de troca para que possa ser trocada por bens e serviços. O sistema de comércio dentro de uma economia é baseado em sua moeda, que geralmente é específica de um país e emitida pelo governo desse país. A moeda pode ou não ter uma representação física; dinheiro, por exemplo, é moeda na forma de notas e moedas que têm valor em relação a bens e serviços, bem como outras moedas. Moedas digitais, como bitcoin, existem em _software_ e são geradas, armazenadas e transferidas eletronicamente. A moeda também pode se referir a ativos não monetários que geram outros benefícios. Conhecimento especializado ou informação é muitas vezes considerado um tipo de moeda. Aqueles que o possuem podem usá-lo para adquirir outras coisas – como um emprego, uma promoção ou uma audiência.
-
-[Voltar ao Índice](../)

@@ -1,0 +1,3 @@
+### IPLD, Interplanetary Linked Data (Dados Vinculados Interplanetários) 
+
+O modelo_ InterPlanetary Linked Data_ (IPLD) é um conjunto de especificações em suporte de estruturas de dados descentralizadas para a _web_ endereçável por conteúdo. Os principais recursos são protocolos interoperáveis, facilmente atualizáveis e compatíveis com versões anteriores. Um único espaço de nomes para todos os protocolos baseados em _hash_. Ele permite tratar todas as estruturas de dados vinculadas a _hashes_ como subconjuntos de um espaço de informação unificado, unificando todos os modelos de dados, que vinculam dados com _hashes_, como instâncias de IPLD.

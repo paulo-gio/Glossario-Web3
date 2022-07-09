@@ -1,0 +1,3 @@
+### Minerador (Miner)
+
+Um minerador é um indivíduo, empresa ou instituição que minera criptomoedas. Em outras palavras, eles usam seus computadores para processar as transações de outras pessoas e adicioná-las à _blockchain_. Os mineradores são essenciais, pois são responsáveis por executar a rede _blockchain_ e mantê-la segura. Os mineradores geralmente são recompensados com moedas ou _tokens_ por seu trabalho.

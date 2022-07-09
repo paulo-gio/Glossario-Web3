@@ -1,0 +1,3 @@
+### Proof-of-Developer, PoD (Prova de Desenvolvedor)
+
+_Proof-of-Developer_ é um mecanismo de verificação destinado a descobrir a identidade do desenvolvedor de _software_ humano por trás de uma nova criptomoeda. Esse processo ajuda a proteger os investidores de desenvolvedores fraudulentos que querem roubar dinheiro fingindo que têm projetos viáveis. Para manter os _hackers_ afastados, o processo é mantido em sigilo, e o perfil do desenvolvedor é compartilhado apenas com investidores.

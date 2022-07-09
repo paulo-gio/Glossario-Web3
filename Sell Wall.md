@@ -1,0 +1,3 @@
+### Sell Wall (Parede de Venda, Muro de Venda)
+
+Uma _sell wall_ é uma grande ordem de venda colocada em um livro de ordens para evitar que uma criptomoeda suba acima de um determinado preço. Ao colocar uma grande ordem de venda a um preço especificado no livro de ordens, um indivíduo (ou grupo de indivíduos) pode garantir que o preço não aumente acima de um preço definido, a menos que a ordem de venda seja completamente preenchida.

@@ -1,0 +1,3 @@
+### Reflexão (Reflection)
+
+No mundo cripto, as reflexões são recompensas pagas aos detentores de um _token_ específico. Os _tokens_ que distribuem esse pagamento aos titulares são chamados de _tokens_ de reflexão. Esse recurso permite que os _tokens_ gerem renda passiva para seus proprietários. Para participar do programa de reflexão, os titulares simplesmente precisam manter essa moeda ou _token_ específico em sua carteira. As reflexões são um conceito relativamente novo no espaço DeFi, aumentando o número de maneiras pelas quais os investidores podem ganhar recompensas em seus _tokens_.

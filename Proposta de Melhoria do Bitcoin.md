@@ -1,5 +1,3 @@
 ### Proposta de Melhoria do Bitcoin (Bitcoin Improvement Proposal, BIP)
 
 A Proposta de Melhoria do Bitcoin (BIP) é um projeto para apresentar recursos ou informações ao Bitcoin. O BIP deve fornecer uma especificação técnica concisa do atributo e uma justificativa para o recurso. Esta é a maneira padrão de comunicar ideias, já que o Bitcoin não tem estrutura formal. Existem três tipos principais de BIPs: BIPs de rastreamento de padrões, BIPs informativos e BIPs de processo. De acordo com o tipo de BIP, pode-se exigir consenso da comunidade. Mas mesmo antes desse consenso, quando qualquer um dos tipos mencionados de BIPs é submetido, eles passam por vários status como – elaborado, verificado, aceito, rejeitado ou substituído.
-
-[Voltar ao Índice](../)

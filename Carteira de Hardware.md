@@ -1,0 +1,3 @@
+### Carteira de Hardware (Hardware Wallet)
+
+Uma carteira de _hardware_ é um dispositivo físico que pode armazenar criptomoedas com segurança. Esta é uma das maneiras mais seguras de gerenciar seus criptoativos. A carteira de _hardware_ obtém sua segurança do fato de que as chaves privadas dos usuários são armazenadas em uma área protegida do microcontrolador e não podem ser extraídas como texto simples. Além disso, a carteira de _hardware_ funciona _offline_, o que significa que as chaves privadas nunca são expostas a possíveis _hackers_.

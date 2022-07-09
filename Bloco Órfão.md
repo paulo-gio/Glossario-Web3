@@ -1,0 +1,3 @@
+### Bloco Órfão (Orphan Block)
+
+Um bloco órfão é um bloco resolvido ou validado na _blockchain_ que é posteriormente rejeitado pela rede. Assim sendo, esses blocos não fazem mais parte da _blockchain_ principal. Blocos órfãos são formados em diversas situações. Uma das causas mais comuns de blocos órfãos ocorre quando dois mineradores resolvem um bloco simultaneamente. O minerador que apresentar a prova de trabalho (POW) mais detalhada recebe a recompensa do bloco enquanto o outro bloco é rejeitado. Blocos órfãos também são conhecidos como blocos obsoletos ou blocos desanexados.

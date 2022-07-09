@@ -1,0 +1,3 @@
+### Sistema de Necessidade Mínima de Confiança (Trustless System)
+
+Um sistema de necessidade mínima de confiança é aquele que não depende de uma entidade central confiável para conduzir e verificar as transações; em vez disso, o poder e a confiança são distribuídos entre as partes interessadas da rede. Em redes descentralizadas, como as encontradas em criptomoedas, as transações são verificadas de forma segura por meio de uma rede global de participantes que contribuem com seus recursos computacionais para executar e manter o sistema.

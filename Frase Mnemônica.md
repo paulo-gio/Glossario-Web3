@@ -1,0 +1,3 @@
+### Frase Mnemônica, Frase-Semente (Mnemonic Phrase, Seed Phrase)
+
+Uma frase mnemônica é uma lista de palavras aleatórias geradas quando você cria uma carteira de criptomoedas. Essas palavras representam sua chave privada e são usadas principalmente para recuperar carteiras e fundos de criptomoedas. Sua frase mnemônica, como sua chave privada, não deve ser compartilhada com ninguém e deve ser mantida em segurança. Se alguém colocar as mãos nessa lista de palavras, poderá controlar sua carteira e roubar seus fundos. Uma frase mnemônica é conhecida por muitos outros termos, como palavras-semente, palavras secretas, frase-semente, semente mnemônica ou chave-semente.

@@ -1,0 +1,3 @@
+### Alavancagem (Leverage)
+
+Na negociação de criptomoedas, a alavancagem refere-se ao uso de capital emprestado para fazer negócios. A negociação de alavancagem pode ampliar seu poder de compra ou venda, permitindo que você negocie quantias maiores. Portanto, mesmo que seu capital inicial seja pequeno, você pode usá-lo como garantia para fazer negócios alavancados. Embora a negociação alavancada possa multiplicar seus lucros potenciais, ela também está sujeita a alto risco, especialmente no volátil mercado de criptomoedas. Tenha cuidado ao usar alavancagem para negociar criptomoedas, pois pode levar a perdas substanciais se o mercado se mover contra a sua posição.

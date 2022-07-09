@@ -1,0 +1,3 @@
+### Prova de Conhecimento Zero, Protocolo de Conhecimento Zero (Zero Knowledge Proof, ZKP)
+
+Em criptografia, uma prova de conhecimento zero ou protocolo de conhecimento zero é um método pelo qual uma parte (quem prova) pode provar a outra parte (quem verifica) que uma determinada declaração é verdadeira enquanto quem prova evita transmitir qualquer informação adicional além do fato de que a afirmação é realmente verdadeira. A essência das provas de conhecimento zero é que é trivial provar que se possui conhecimento de certa informação simplesmente revelando-a. O desafio é provar tal posse sem revelar a própria informação ou qualquer informação adicional.

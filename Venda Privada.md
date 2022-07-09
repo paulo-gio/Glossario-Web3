@@ -1,0 +1,3 @@
+### Venda Privada (Private Sale)
+
+Uma venda privada, como o próprio nome sugere, é a venda de moedas ou _tokens_ para investidores iniciais específicos. Esses tipos de vendas geralmente não são anunciados e não são revelados ao público em geral. As empresas de _blockchain_ que realizam vendas privadas escolhem quais investidores desejam convidar para o evento. O objetivo é atrair investidores iniciais proeminentes para financiar o projeto em troca de criptomoedas que podem gerar altos retornos.

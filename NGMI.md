@@ -1,0 +1,3 @@
+### NGMI, Not Going to Make It (Não Vou Conseguir)
+
+NGMI é uma abreviação que significa "_Not Going to Make It_" (não vou conseguir). No espaço das criptomoedas, essa gíria é usada para se referir a alguém que toma uma decisão impopular ou ruim. Como resultado dessa decisão, espera-se que a pessoa sofra perdas e, portanto, não fará investimentos ou negociações. NGMI também é usado quando alguém expressa uma opinião que não segue a opinião popular.

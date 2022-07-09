@@ -1,0 +1,3 @@
+### DDM, Distributed Data Management (Gerenciamento de Dados Distribuídos)
+
+O DDM é uma arquitetura de protocolo de dados da IBM para serviços de gerenciamento de dados em sistemas distribuídos em um ambiente SNA. O DDM fornece uma linguagem de gerenciamento de dados comum para intercâmbio de dados entre diferentes plataformas de sistema IBM. O DDM controla o processamento remoto de arquivos e permite que programas executados em um sistema AS/400 acessem arquivos de dados armazenados em outro sistema que suporte DDM. Da mesma forma, outros sistemas que possuem DDM podem acessar arquivos no banco de dados do sistema local. O DDM facilita a distribuição do processamento de arquivos entre dois ou mais sistemas.

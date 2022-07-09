@@ -1,5 +1,3 @@
 ### Níveis de Retração de Fibonacci (Fibonacci Retracement Level)
 
 Os níveis de retração de Fibonacci - decorrentes da sequência de Fibonacci - são linhas horizontais que indicam onde o suporte e a resistência provavelmente ocorrerão. Cada nível está associado a uma porcentagem. A porcentagem é quanto de um movimento anterior o preço refez. Os níveis de retração de Fibonacci são 23,6%, 38,2%, 61,8% e 78,6%. Embora não seja oficialmente uma proporção de Fibonacci, 50% também é usado. O indicador é útil porque pode ser desenhado entre quaisquer dois pontos de preço significativos, como um alto e um baixo. O indicador irá então criar os níveis entre esses dois pontos. Suponha que o preço de uma criptomoeda suba $10 e depois caia $2,36. Nesse caso, ele retrocedeu 23,6%, que é um nível de retração de Fibonacci. Os números de Fibonacci são encontrados em toda a natureza. Portanto, muitos _traders_ acreditam que esses números também têm relevância nos mercados financeiros.
-
-[Voltar ao Índice](../)

@@ -1,0 +1,3 @@
+### Bytecode
+
+_Bytecode_ é um código de programação orientada a objetos (OOP) compilado para ser executado em uma máquina virtual (VM) em vez de uma unidade de processamento central (CPU). A VM transforma o código do programa em linguagem de máquina legível para a CPU porque as plataformas utilizam diferentes técnicas de interpretação de código. Uma VM converte _bytecode_ para a interoperabilidade de plataforma, mas o _bytecode_ não é específico da plataforma. _Bytecode_ está em um formato compilado Java e tem a extensão .class executada pela Java _Virtual Machine_ (JVM).

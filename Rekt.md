@@ -1,0 +1,3 @@
+### Rekt
+
+_Rekt_ é um erro ortográfico deliberado da palavra _wrecked_ (naufragado, destruído). Pode ser usado para se referir a alguém que faz uma má negociação, resultando em grandes perdas. Também pode ser usado para se referir a qualquer redução significativa no valor do portfólio como resultado de condições de mercado desfavoráveis, sentimento negativo do mercado e despejos sem precedentes. Rekt originou-se como um termo de jogos _online_ para se referir a alguém que foi severamente espancado por um oponente. Quando usado em criptomoedas, é usado para se referir a uma pessoa ou portfólio que sofreu grandes perdas financeiras.

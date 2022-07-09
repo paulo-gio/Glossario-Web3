@@ -1,0 +1,3 @@
+### Chave Pública (Public Key)
+
+Uma chave pública é uma cadeia alfanumérica de caracteres que é matematicamente derivada de uma chave privada específica. Em outras palavras, a chave pública é vinculada às chaves privadas usando funções matemáticas criptográficas. As chaves públicas devem ser compartilhadas para receber moedas ou _tokens_ (assim como um endereço de e-mail precisa ser compartilhado para receber e-mails).

@@ -1,5 +1,3 @@
 ### Queima de Moedas, Queima de Tokens (Coin Burn, Token Burn)
 
 A queima de moedas ou _tokens_ é o processo de mover moedas para um endereço público onde as chaves privadas não podem ser obtidas, tornando as moedas impossíveis de serem gastas. Os usuários removem _tokens_ de circulação, pra que o número de moedas em uso seja reduzido. Os _tokens_ são enviados para um endereço de carteira que não pode ser usado para transações além do recebimento das moedas. A carteira está fora da rede e os _tokens_ não podem mais ser negociados. A queima efetivamente remove moedas ou _tokens_ de circulação, assim, reduzindo a oferta circulante total. Por exemplo, se a oferta circulante de uma criptomoeda for de 10.000 e 1.000 moedas forem queimadas, a nova oferta circulante agora será de 9.000.
-
-[Voltar ao Índice](../)

@@ -1,5 +1,3 @@
 ### Consenso (Consensus)
 
 O consenso é o processo pelo qual as transações são confirmadas por todos os nós, alcançando assim a validade. Alcançar o consenso é um componente crítico das transações de criptomoeda, pois é um dos elementos fundamentais da descentralização e da tecnologia _blockchain_. O consenso é usado para chegar a um acordo sobre os vários aspectos de uma transação digital, garantindo assim a credibilidade da rede. O consenso é alcançado por vários tipos de mecanismos conhecidos como algoritmos de consenso que funcionam por diferentes princípios operacionais. Os dois tipos mais comuns de algoritmos de consenso são a _Proof-of-Work_ (POW) e a _Proof-of-Stake_ (POS).
-
-[Voltar ao Índice](../)

@@ -1,0 +1,3 @@
+### Shitcoin (Moeda “Inferior”)
+
+_Shitcoin_ é um termo depreciativo para uma _altcoin_. Os critérios para ser chamado de _shitcoin_ variam de acordo com o indivíduo. Na maioria das vezes, é usado para se referir a uma moeda com pouco ou nenhum valor percebido. Outros podem, no entanto, usar o termo para se referir a moedas fora das 50 ou 100 principais classificações em termos de capitalização de mercado.

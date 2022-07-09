@@ -1,0 +1,3 @@
+### Software de Código Aberto (Open Source Software)
+
+_Software_ de código aberto descreve qualquer aplicativo de _software_ cujo código-fonte seja gratuito e disponível ao público. Como o código é de domínio público, qualquer pessoa pode usar, modificar, aprimorar ou compartilhar o _software_ como achar melhor. Projetos de código aberto prosperam em troca aberta, colaboração, transparência e desenvolvimento orientado para a comunidade. Alguns dos exemplos mais populares de projetos de código aberto bem-sucedidos incluem Linux, Ubuntu e Mozilla Firefox.

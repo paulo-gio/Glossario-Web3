@@ -1,0 +1,3 @@
+### Bitswap
+
+Bitswap é o protocolo central de trocas de blocos do IPFS. Ele lida com as solicitações feitas por um usuário IPFS, humano ou aplicativo, para buscar blocos de dados da rede. Ele interage com outros agentes Bitswap presentes em outros nós IPFS, trocando (buscando + servindo) blocos conforme sua necessidade. Bitswap é um protocolo baseado em mensagens, ao contrário de protocolos de perguntas, respostas e réplicas. Todas as mensagens contêm listas de desejos ou blocos. Ao receber uma lista de desejos, um nó IPFS deve considerar o envio dos blocos desejados, se os tiver. Ao receber os blocos, o nó deve enviar uma notificação chamada _Cancel_, indicando que não deseja mais  blocos. No nível do protocolo, o Bitswap tem um mecanismo muito simples.

@@ -1,0 +1,3 @@
+### Média Móvel (Moving Average, MA)
+
+Em estatística, uma média móvel é um cálculo usado para analisar pontos de dados criando uma série de médias de diferentes subconjuntos do conjunto de dados completo. Em finanças, uma média móvel é um indicador para gerenciamento de ativos que é comumente usado em análises técnicas. A razão para calcular a média móvel de um ativo é ajudar a suavizar os dados de preço, criando um preço médio constantemente atualizado. Ao calcular a média móvel, os impactos de flutuações aleatórias de curto prazo no preço de um ativo em um período de tempo especificado são mitigados.

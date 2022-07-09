@@ -1,0 +1,3 @@
+### Formador de Mercado (Market Maker)
+
+O papel de um formador de mercado no sistema financeiro tradicional é criar as condições para que um comprador e um vendedor negociem moedas, ações ou _commodities_ ao melhor preço. O formador de mercado consegue isso concordando em ser o comprador padrão de um ativo no preço de mercado atual ou abaixo dele, com o objetivo de revender esse ativo a um comprador disposto a pagar um preço um pouco mais alto, para que eles possam lucrar embolsando a diferença (ou seja, um _bid-ask spread_).

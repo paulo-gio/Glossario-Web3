@@ -1,0 +1,3 @@
+### Retorno Sobre Investimento (Return on Investment, ROI)
+
+O retorno sobre investimento é definido como uma medida do desempenho esperado de um ativo em termos de ganhos financeiros. O ROI é calculado dividindo o retorno de um investimento em criptomoeda específico pelo seu custo inicial e normalmente é expresso como uma porcentagem. Por exemplo, uma criptomoeda com um ROI de 100% tem o potencial de dobrar o dinheiro de alguém.

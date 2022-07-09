@@ -1,5 +1,3 @@
 ### Certificado de Depósito (Certificate of Deposit, CD)
 
 Um certificado de depósito geralmente é emitido por bancos e outras instituições financeiras quando um cliente faz um depósito substancial. Este depósito é então deixado nas mãos da instituição para uso, enquanto o cliente recebe um prêmio de taxa de juros baseado em porcentagem. Os certificados de depósito podem ter prazos e condições variados, dependendo da instituição emissora, bem como do valor que o cliente está disposto a depositar. Ainda hoje, com a séria diversificação que estamos vendo no mundo financeiro e de investimentos, os CDs continuam sendo uma das formas mais populares de obter renda passiva de suas economias.
-
-[Voltar ao Índice](../)

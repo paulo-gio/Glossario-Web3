@@ -1,0 +1,3 @@
+### Uniswap
+
+Uniswap é uma _exchange_ descentralizada que permite aos usuários trocar seus _tokens_ ERC20 sem necessidade de terceiros por outros _tokens_ ERC20. Ao contrário das _exchanges_ tradicionais, que combinam compradores e vendedores por meio de um livro de ordens, a Uniswap agrupa _tokens_ em _pools_ para fornecer liquidez para os usuários negociarem. Qualquer pessoa pode contribuir para a _pool_ de liquidez, permitindo que os _tokens_ sejam trocados sem a necessidade de compradores e vendedores criarem demanda.

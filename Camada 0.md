@@ -1,0 +1,3 @@
+### Camada 0 (Layer 0)
+
+A _Blockchain_ em si é chamada de Camada Zero. Os componentes necessários para tornar a _blockchain_ real são a internet, o _hardware_ e muitas outras conexões. A camada 0 é o estágio inicial da _blockchain_ que permite que várias redes funcionem, como Bitcoin, Ethereum, etc. A camada 0 também fornece à _blockchain_ uma facilidade de interoperabilidade de comunicação _cross-chain_ entre as camadas de cima para diferentes camadas. A Camada 0 fornece a infraestrutura subjacente para a _blockchain_.

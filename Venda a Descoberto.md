@@ -1,0 +1,3 @@
+### Venda a Descoberto, Posição Curta (Short Position, Shorting, Short-Selling)
+
+Uma venda a descoberto é uma estratégia de negociação em que um investidor vende criptomoedas emprestadas na esperança de que o preço diminua. Alguém que adota uma posição curta toma emprestado uma criptomoeda específica, vendendo-a enquanto o preço está alto e recompra quando o valor diminui, obtendo assim um lucro líquido sobre o investimento.

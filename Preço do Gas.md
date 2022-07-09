@@ -1,5 +1,3 @@
 ### Preço do Gas (Gas price)
 
 Uma referência geral para taxas de transação aproximadas na _blockchain_ Ethereum, o preço do _gas_ refere-se à quantidade de ETH (em uma pequena unidade chamada gwei) que deve ser paga aos mineradores para processar transações na rede. Um gwei é igual a 0,000000001 ou 10-9 ETH. O preço do _gas_ é determinado por um mecanismo do tipo leilão, onde os mineradores procuram as taxas mais altas associadas a uma transação e processam essas transações a partir daí em ordem decrescente. Os preços do _gas_ flutuam consideravelmente ao longo do tempo e são naturalmente mais altos durante os períodos de alta atividade e diminuem durante os períodos em que a rede está subutilizada. A maioria das carteiras Ethereum fornece referências gerais para preços de _gas_, com comparações de tempo de processamento com diferentes gweis.
-
-[Voltar ao Índice](../)

@@ -1,0 +1,3 @@
+### Token Metrics (Métricas dos Tokens)
+
+_Token Metrics_ são planos sobre como liberar _tokens_ e compartilhá-los entre as partes interessadas. Em particular, é a porcentagem de _tokens_ atribuídos a diferentes categorias de investidores e partes interessadas. As métricas dos _tokens_ também são conhecidas como _Tokenomics_ ou _Coin Economics_. Estes planos geralmente são incluídos em _whitepapers_ ou em sites de venda de _tokens_ para que os investidores possam ver o potencial de valorização da moeda ao longo do tempo.

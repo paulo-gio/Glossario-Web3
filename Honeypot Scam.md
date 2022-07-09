@@ -1,0 +1,3 @@
+### Honeypot Scam (Golpe Honeypot, Golpe do Pote de Mel)
+
+Em criptomoedas, um golpe _honeypot_ é um tipo de golpe em que você pode comprar um _token_, mas não pode vendê-lo. Em outras palavras, o dinheiro que você investe é essencialmente roubado, te deixando com uma sacola de moedas que você não pode negociar. Os golpes _honeypot_ provavelmente receberam o nome de alguém que ficou com a mão presa em uma jarra ou pote de mel. O mel representa algo doce e sedutor, como uma moeda em ascensão. No entanto, uma vez que sua mão está dentro da jarra, ela fica presa.

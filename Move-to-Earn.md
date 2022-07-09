@@ -1,0 +1,3 @@
+### Move-to-Earn (Mover para Ganhar)
+
+Fazer com que as pessoas se movimentem e ganhem moedas pode ser um modelo de negócios viável. Ao contrário do _Play-to-Earn_, os projetos _Move-to-Earn_ não requerem nenhum investimento inicial. Em vez disso, os usuários recebem recompensas monetárias por se deslocarem a pé, de bicicleta ou de outras maneiras. Quanto mais tempo se gasta em movimento, mais se pode ganhar. É um conceito simples que pode não ser necessariamente sustentável a longo prazo. No entanto, há mais projetos neste espaço do que se imagina.

@@ -2,5 +2,3 @@
 
 Como o nome indica, o livro-razão de atestação confirma a autenticidade de uma transação realizada. Ele atua como prova legal de todas as transações financeiras que existem dentro de uma empresa. Um livro de atestação nada mais é do que um livro contábil destinado a fornecer evidências de transações que vêm a acontecer. As transações individuais são transações financeiras que precisam ser registradas até mesmo pela contabilidade simples. 
 O livro-razão geral de qualquer empresa não é o livro-razão de atestação, mas um livro-razão especial vinculado a uma única conta. A conta única pode ser uma conta bancária ou uma conta de comércio eletrônico, como PayPal ou uma carteira de criptomoedas. Um livro de caixa ou um livro-razão deve ser preparado para cada conta, que neste caso é um livro-razão de atestação. É vital que a cada transação financeira seja atribuído um documento. As transferências e outros movimentos de dinheiro sem papel devem ter seu próprio livro-razão de atestação, de acordo com sua finalidade.
-
-[Voltar ao Índice](../)

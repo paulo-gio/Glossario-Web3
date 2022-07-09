@@ -1,0 +1,3 @@
+### Nó Principal (Masternode)
+
+Um Nó Principal é um tipo de nó de criptomoedas que é incentivado a operar e manter a rede _blockchain_. Nós principais são normalmente encontrados em sistemas _proof-of-stake_, onde os nós são obrigados a "bloquear" uma quantidade específica de moedas como garantia (esse processo é conhecido como _staking_). Dependendo das regras da _blockchain_ em particular, os nós principais podem executar várias funções, incluindo governança/votação, habilitar transações instantâneas e aumentar a privacidade das transações.

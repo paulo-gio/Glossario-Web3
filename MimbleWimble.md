@@ -1,0 +1,3 @@
+### MimbleWimble (MW)
+
+MimbleWimble (MW) é um projeto de _blockchain_ que estrutura e armazena transações de forma diferente da rede Bitcoin. É essencialmente uma variação da _blockchain_ tradicional _proof-of-work_ (POW), que permite melhor escalabilidade de rede, maior privacidade e fungibilidade. Comparado com a rede Bitcoin, o MimbleWimble requer 90% menos armazenamento. Isso o torna altamente escalável, consideravelmente mais rápido e menos centralizado.

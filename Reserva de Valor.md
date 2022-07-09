@@ -1,0 +1,3 @@
+### Reserva de Valor (Store of Value)
+
+Uma reserva de valor descreve um ativo que mantém seu valor por um longo período de tempo. Em outras palavras, o ativo pode ser armazenado, recuperado e trocado ou vendido posteriormente. Metais preciosos (ouro, prata, etc.) e imóveis são boas reservas de valor, pois não se degradam. Por outro lado, itens perecíveis (como leite e outros alimentos) são reservas de valor pobres, pois podem se deteriorar com o tempo.

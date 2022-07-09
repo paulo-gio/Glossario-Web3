@@ -1,0 +1,3 @@
+### Silk Road
+
+Silk Road foi um mercado negro _online_ que se tornou famoso por vender drogas ilegais e hospedar atividades de lavagem de dinheiro. Lançado em 2011, foi amplamente considerado o primeiro mercado da _dark web_. Além de promover atividades ilícitas, permitia que os usuários operassem anonimamente sem que seu tráfego fosse monitorado. O serviço acabou sendo fechado pelo FBI e seu fundador preso.

@@ -1,5 +1,3 @@
 ### Correção (Correction)
 
 Uma correção é uma diminuição no preço de mercado de uma criptomoeda, ou de todo o mercado, após um período de aumento de preço. As correções geralmente ocorrem como resultado da diminuição da atividade de compra ou aumento da atividade de venda dos investidores. Essa mudança no comportamento de compra leva a um retrocesso em direção aos níveis de resistência ou suporte. As correções podem ser tão pequenas quanto 10% do preço de mercado de pico, mas podem ser maiores dependendo de vários fatores. No mercado de criptomoedas, mudanças de preços significativas e agressivas geralmente são seguidas por correções mais substanciais.
-
-[Voltar ao Índice](../)

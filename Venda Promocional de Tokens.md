@@ -1,0 +1,3 @@
+### Venda Promocional de Tokens (Token Sale)
+
+Uma venda promocional de _tokens_ é um processo de criação de _tokens_ na _blockchain_ e vendê-los para investidores. O dinheiro arrecadado é então usado para projetar e lançar um produto. Em troca, os investidores têm acesso ao serviço ou podem até receber uma participação nos lucros. As vendas promocionais de _tokens_ também são chamadas de oferta inicial de moedas (ICO), ou oferta de token de segurança (STO).

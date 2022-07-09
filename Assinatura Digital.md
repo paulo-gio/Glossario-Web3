@@ -1,5 +1,3 @@
 ### Assinatura Digital (Digital Signature)
 
-A Assinatura Digital é o equivalente eletrônico da assinatura física de uma pessoa. A assinatura digital é também uma garantia de que a informação não foi modificada, como se estivesse protegida por um selo inviolável que se rompe se o conteúdo for alterado.
-
-[Voltar ao Índice](../)
+Uma assinatura digital é uma sequência de texto criptografada e gerada matematicamente, criada como resultado da combinação de uma solicitação de transação com a chave privada do remetente. Semelhante às assinaturas físicas, as assinaturas digitais oferecem segurança ao vincular uma pessoa ou entidade ao conteúdo da transação.

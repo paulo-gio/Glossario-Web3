@@ -1,0 +1,3 @@
+### Volatilidade (Volatility)
+
+A volatilidade em criptomoedas descreve o valor pelo qual o preço de negociação de uma moeda ou _token_ varia ao longo do tempo. Dito de outra forma, indica a quantidade de incerteza da mudança do valor do ativo. Quanto maior o intervalo (ou _spread_) do preço, maior a volatilidade da criptomoeda. Uma moeda com alta volatilidade tem uma faixa de preço errática e instável, enquanto uma moeda menos volátil pode manter uma faixa de preço mais estável por um período de tempo. Por exemplo, uma moeda altamente volátil pode ser negociada a R$1,00 em um dia e R$3,00 no dia seguinte, enquanto uma moeda menos volátil pode ser negociada entre R$1,00 e R$1,10 durante o mesmo período.

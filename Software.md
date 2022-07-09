@@ -1,0 +1,3 @@
+### Software
+
+_Software_, em seu sentido mais geral, é um conjunto de instruções ou programas que instruem um computador a realizar tarefas específicas. _Software_ é um termo genérico usado para descrever programas de computador executados em PCs, telefones celulares, tablets ou outros dispositivos inteligentes. O _software_ é frequentemente usado para descrever todos os aspectos funcionais de um computador que não se referem aos seus componentes físicos (_hardware_). _Scripts_, aplicativos, programas e um conjunto de instruções são termos frequentemente usados para descrever _software_. Tudo o que é executado em um computador, desde um sistema operacional, até uma ferramenta de diagnóstico, videogame ou aplicativo, pode ser definido como _software_.

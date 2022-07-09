@@ -1,0 +1,3 @@
+### SegWit
+
+_SegWit_ é uma solução de dimensionamento de _blockchains_. É um código de _software_ que permite que blocos na _blockchain_ do Bitcoin acomodem mais transações, reduzindo a quantidade de dados de cada transação que entra em um bloco. _SegWit_ é a forma abreviada de _Segregated Witness_. Nesse contexto, _Segregated_ tem o mesmo significado de segregado, separado, e _Witness_ significa assinaturas. Em uma _blockchain_ típica, os dados de uma transação e suas assinaturas vão para o bloco. Com a implementação do _SegWit_, no entanto, os dados da assinatura não vão para o bloco. Isso cria espaço para mais transações e dimensiona a capacidade da _blockchain_ para verificar e confirmar mais transações por segundo.

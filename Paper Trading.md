@@ -1,0 +1,3 @@
+### Paper Trading (Trading Simulado, Trading no Papel)
+
+_Paper Trading_ é uma negociação simulada que permite que um investidor pratique compra e venda sem arriscar dinheiro real. O termo remete a uma época em que, antes da proliferação das plataformas de negociação _online_, os aspirantes a _traders_ praticavam no papel antes de arriscar dinheiro nos mercados oficiais. Enquanto aprendia, um _trader_ registrava todas as negociações manualmente para acompanhar as posições hipotéticas de negociação, carteiras e lucros ou perdas. Hoje, a maioria das negociações de prática envolve o uso de simuladores de _exchanges_ de criptomoedas, que se parecem com plataformas de negociação real.

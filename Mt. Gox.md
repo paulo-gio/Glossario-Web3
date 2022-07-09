@@ -1,0 +1,3 @@
+### Mt. Gox
+
+Mt. Gox foi uma _exchange_ de criptomoedas que operou entre 2010 e 2014. Já foi considerada uma das _exchanges_ mais populares e bem-sucedidas, lidando com mais de 70% de todas as transações de Bitcoin em seu pico. A _exchange_, que tinha sua sede em Tóquio, ficou conhecida por ser vítima de um dos golpes a _exchanges_ mais notórios até o momento. No início de fevereiro de 2014, a _exchange_ descobriu que mais de 850.000 Bitcoins foram roubados. Logo depois, a empresa suspendeu as negociações, encerrou seu serviço de câmbio e entrou com pedido de falência. Embora o golpe do Mt.Gox não seja o maior em termos de valor, é de longe a maior quantidade de Bitcoins já roubada de uma única _exchange_.

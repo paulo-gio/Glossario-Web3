@@ -1,0 +1,3 @@
+### Stablecoin
+
+_Stablecoins_ são criptomoedas cujo valor está atrelado ou vinculado ao de outra moeda, _commodity_ ou instrumento financeiro. As _stablecoins_ visam fornecer uma alternativa à alta volatilidade das criptomoedas mais populares, incluindo o Bitcoin (BTC), que tornou esses investimentos menos adequados para uso amplo em transações. É destinada a manter um valor constante, independentemente das condições do mercado. Por exemplo, o Tether (USDT) é classificado como uma moeda estável, pois se destina a espelhar o valor do dólar americano, ou seja, 1 Tether = 1 USD. Portanto, o Tether é chamado de _stablecoin_, pois está atrelado ao dólar americano e mantém esse valor o tempo todo.

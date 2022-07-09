@@ -1,0 +1,3 @@
+### BitTorrent
+
+BitTorrent é um protocolo de comunicação para compartilhamento de arquivos ponto a ponto (P2P), que permite aos usuários distribuir dados e arquivos eletrônicos pela Internet de forma descentralizada. Para enviar ou receber arquivos, os usuários usam um cliente BitTorrent em seu computador conectado à Internet. Um cliente BitTorrent é um programa de computador que implementa o protocolo BitTorrent. Os clientes BitTorrent estão disponíveis para uma variedade de plataformas de computação e sistemas operacionais, incluindo um cliente oficial lançado pela BitTorrent, Inc.
