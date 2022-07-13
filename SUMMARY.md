@@ -68,7 +68,7 @@
 * [Blockchain Empresarial (Enterprise Blockchain)](Blockchain%20Empresarial.md)
 * [Blockchain Permissionada (Permissioned Blockchain)](Blockchain%20Permissionada.md)
 * [Blockchain Privada (Private Blockchain)](Blockchain%20Privada.md)
-* [Blockchain Blockchain Pública, Blockchain Não Permissionada (Public Blockchain, Permissionless Blockchain)](Blockchain%20P%C3%BAblica.md)
+* [Blockchain Pública, Blockchain Não Permissionada (Public Blockchain, Permissionless Blockchain)](Blockchain%20P%C3%BAblica.md)
 * [Blockchain Transmission Protocol, BTP (Protocolo de Transmissão da Blockchain)](Blockchain%20Transmission%20Protocol.md)
 * [Blockfolio](Blockfolio.md)
 * [Bloco](Bloco.md)
