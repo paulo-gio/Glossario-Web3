@@ -1,6 +1,6 @@
 ## A
 
-* [ABI](ABI.md)
+* [ABI, Application Binary Interface (Interface Binária de Aplicativos)](ABI.md)
 * [Abstração](Abstra%C3%A7%C3%A3o.md)
 * [Adoção em Massa](Ado%C3%A7%C3%A3o%20em%20Massa.md)
 * [Aeternity Blockchain](Aeternity%20Blockchain.md)
