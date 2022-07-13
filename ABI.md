@@ -1,2 +1,3 @@
-## ABI, Application Binary Interface (Interface Binária de Aplicativos)
+#
+# ABI, Application Binary Interface (Interface Binária de Aplicativos)
 Na ciência de computadores, uma interface binária de aplicativos (ABI) é uma interface entre dois módulos de programas binários. Muitas vezes, um desses módulos é uma biblioteca ou instalação do sistema operacional, e o outro é um programa que está sendo executado por um usuário. Uma ABI define como as estruturas de dados ou rotinas computacionais são acessadas em código de máquina, que é um formato de baixo nível e dependente de _hardware_. Em contraste, uma API define esse acesso no código-fonte, que é um formato de nível relativamente alto, independente de _hardware_ e geralmente legível por humanos. Um aspecto comum de uma ABI é a convenção de chamada, que determina como os dados são fornecidos como entrada ou lidos como saída de rotinas computacionais. Exemplos disso são as convenções de chamada x86.
