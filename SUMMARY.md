@@ -1,4 +1,4 @@
-## A
+# A
 
 * [ABI](ABI.md)
 * [Abstração](Abstra%C3%A7%C3%A3o.md)
@@ -36,7 +36,7 @@
 * [AutoNAT](AutoNAT.md)
 * [Autoridade de Certificação](Autoridade%20de%20Certifica%C3%A7%C3%A3o.md)
 
-## B
+# B
 
 * [BaaS](BaaS.md)
 * [Bag](Bag.md)
@@ -85,7 +85,7 @@
 * [Buy Wall](Buy%20Wall.md)
 * [Bytecode](Bytecode.md)
 
-## C
+# C
 
 * [Cadeia Cruzada]()
 * [Camada 0]()
