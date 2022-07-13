@@ -1,4 +1,3 @@
-##
 ### Aeternity Blockchain
 
 Aeternity Blockchain é uma plataforma de aplicativos descentralizados de código aberto que utiliza uma tecnologia _blockchain_ de última geração altamente escalável. Seus contratos inteligentes _off-chain_ usam dados do mundo real e em tempo real, interagindo com oráculos integrados. Seus principais objetivos são fornecer eficiência incomparável, governança transparente e escalabilidade global. A Aeternity utiliza um mecanismo de consenso híbrido, que mescla _Proof-of-Work_ com _Proof-of-Stake_.
