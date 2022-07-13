@@ -1,3 +1,3 @@
-### Pools de Liquidez (Liquidity Pools)
+### Pool de Liquidez (Liquidity Pools)
 
 Uma _pool_ de liquidez é essencialmente uma “piscina” de _tokens_ bloqueados por um contrato inteligente. O principal objetivo das _pools_ de liquidez é ajudar a fornecer liquidez e facilitar a negociação em _exchanges_. Elas fazem isso dando aos usuários da _exchange_ um meio de comprar e vender. Como tal, as _pools_ de liquidez são usados pelo protocolo DEX “Automated Market Makers” (AMM) para minimizar mudanças drásticas de preços (volatilidade) em _exchanges_ de criptomoedas. Essa característica torna as _pools_ de liquidez ideais para novas moedas ou _tokens_ que não possuem uma grande base de usuários.

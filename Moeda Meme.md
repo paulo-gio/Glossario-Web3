@@ -1,3 +1,3 @@
-### Moedas Meme (Meme Coin)
+### Moeda Meme (Meme Coin)
 
 As moedas meme, como o próprio nome indica, são criptos inspiradas em memes e piadas nas redes sociais e na internet. Dogecoin (DOGE) é um exemplo de moeda meme, pois é baseado no popular meme Doge de um cão japonês Shiba Inu. Ao contrário de outros projetos de criptomoeda, a maioria das moedas meme geralmente não possui um modelo de negócios sólido. Em vez disso, a atividade de mídia social e os sentimentos da comunidade influenciam amplamente seu valor e preço percebidos. Como tal, essas moedas tendem a ser mais voláteis do que outras criptomoedas estabelecidas, como Bitcoin (BTC) e Ethereum (ETC). Esses tipos de moedas são, portanto, considerados investimentos de alto risco.
