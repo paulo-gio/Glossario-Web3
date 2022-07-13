@@ -1,0 +1,6 @@
+root: ./
+
+​structure:  
+    readme: ./products/README.md  
+    summary: ./products/SUMMARY.md​
+
