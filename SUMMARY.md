@@ -216,6 +216,288 @@
 
 ## H
 
+* [Hal Finney]()
+* [Halving]()
+* [Hard Cap]()
+* [Hard Fork]()
+* [Hardware]()
+* [Hiperinflação]()
+* [HODL]()
+* [Honeypot Scam]()
+* [Hyperledger]()
+
+## I
+
+* [ICO]()
+* [ID de Transação]()
+* [Identidade Digital]()
+* [IDO]()
+* [IEO]()
+* [Imutável]()
+* [Indicador Aroon]()
+* [Indicador de Acumulação]()
+* [Índice de Referência]()
+* [Índice Direcional Médio]()
+* [Inflação]()
+* [Instamine]()
+* [Investidor Anjo]()
+* [IPC]()
+* [IPFS]()
+* [IPLD]()
+* [IPNS]()
+* [IPO]()
+
+## J
+
+* [Java]()
+* [JOMO]()
+* [Json]()
+
+## K
+
+* [KPI]()
+* [KYC]()
+
+## L
+
+* [Lambo]()
+* [Lançamento Justo]()
+* [Lançamento Sigiloso]()
+* [Latência]()
+* [Launchpad]()
+* [Layout Avançado de Dados]()
+* [libp2p]()
+* [Licença Pública Geral]()
+* [Lightning Network]()
+* [Limite de Gas]()
+* [Liquidação]()
+* [Liquidez]()
+* [Liquidez Bloqueada]()
+* [Lista de Controle de Acesso]()
+* [Listagem]()
+* [Litecoin]()
+* [Livro de Ordens]()
+* [Livro-Razão]()
+* [Livro-Razão de Atestação]()
+* [Livro-Razão Distribuído]()
+
+## M
+
+* [Mainnet]()
+* [Maior Alta de Todos os Tempos]()
+* [Maior Baixa de Todos os Tempos]()
+* [Mão Forte]()
+* [Mão Fraca]()
+* [Margem Cruzada]()
+* [Mecanismo de Consenso]()
+* [Média do Custo do Dólar]()
+* [Média Móvel]()
+* [Média Móvel Exponencial]()
+* [Mempool]()
+* [Mercado de Balcão]()
+* [Mercado em Alta]()
+* [Mercado em Baixa]()
+* [Mergulho]()
+* [Metamask]()
+* [Metaverso]()
+* [Mew]()
+* [Microtransação]()
+* [MimbleWimble]()
+* [Mineração]()
+* [Mineração com CPU]()
+* [Mineração em Nuvem]()
+* [Minerador]()
+* [Moeda de Privacidade]()
+* [Moeda de Troca]()
+* [Moeda Fiduciária]()
+* [Moeda]()
+* [Moedas Meme]()
+* [Moon]()
+* [Move-to-Earn]()
+* [Mt. Gox]()
+* [Multiassinatura]()
+
+## N
+
+* [Não Bancarizado]()
+* [Negociação Algorítmica]()
+* [Negociação de Lavagem]()
+* [Negociação de Margem]()
+* [Negociação em Bloco]()
+* [NFT]()
+* [NGMI]()
+* [Níveis de Retração de Fibonacci]()
+* [Nível de Suporte]()
+* [Nó]()
+* [Nó de Inicialização]()
+* [Nó Principal]()
+
+## O
+
+* [Oferta Circulante]()
+* [Oferta Máxima]()
+* [Oferta Total]()
+* [Off-Chain]()
+* [On-Chain]()
+* [OpenSea]()
+* [Operações de Mercado Algorítmicas]()
+* [Oracle]()
+* [Oráculos]()
+* [Ordem de Compra]()
+* [Ordem de Mercado]()
+* [Ordem Limite]()
+
+## P
+
+* [Padeiros]()
+* [PancakeSwap]()
+* [Paper Trading]()
+* [Parede de Vendas]()
+* [Pares de Criptomoedas]()
+* [Pares de Negociação]()
+* [Perda Impermanente]()
+* [Período de Vesting]()
+* [Play2Earn]()
+* [Poeira]()
+* [Políticas de Antidumping]()
+* [Pontes]()
+* [Ponto a Ponto]()
+* [Pools de Liquidez]()
+* [Portfólio]()
+* [Posição Longa]()
+* [Pré-Mineração]()
+* [Pré-Venda]()
+* [Preço de Venda]()
+* [Preço do Gas]()
+* [Problema dos Generais Bizantinos]()
+* [Proof-of-Burn]()
+* [Proof-of-Developer]()
+* [Proof-of-Stake]()
+* [Proof-of-Work]()
+* [Proposta de Melhoria do Bitcoin]()
+* [Prova de Conhecimento Zero]()
+* [Pulo do Gato Morto]()
+
+## Q
+
+* [Queima de Moedas]()
+
+## R
+
+* [RandomX]()
+* [Ransomware]()
+* [Recompensa]()
+* [Recompensa de Bloco]()
+* [Recompensa de Falhas]()
+* [Recompensa de Mineração]()
+* [Recompra]()
+* [Recuo]()
+* [Referência]()
+* [Reflexão]()
+* [Rekt]()
+* [Reserva de Valor]()
+* [Resistência]()
+* [Resistente ao ASIC]()
+* [Retorno Sobre Investimento]()
+* [Reversão]()
+* [Roteiro]()
+* [Rug Pull]()
+
+## S
+
+* [Satoshi]()
+* [Satoshi Nakamoto]()
+* [Scamcoin]()
+* [SegWit]()
+* [Sell Wall]()
+* [SHA-256]()
+* [Sharding]()
+* [Sharding de Estado Adaptativo]()
+* [Shilling]()
+* [Shitcoin]()
+* [Sidechain]()
+* [Silk Road]()
+* [Sistema de Necessidade Mínima de Confiança]()
+* [Sniper Bot]()
+* [Sniping]()
+* [Sobrevendido]()
+* [Soft Cap]()
+* [Soft Fork]()
+* [Software]()
+* [Software de Código Aberto]()
+* [Solidity]()
+* [Stabelcoin]()
+* [Stabelcoin Algorítmica]()
+* [Staking]()
+* [Staking Pool]()
+
+## T
+
+* [Tabela de Hash Distribuída]()
+* [Tamanho de Bloco]()
+* [Taxa de Emissão]()
+* [Taxa de Hash]()
+* [Taxa de Transação]()
+* [Tempo de Bloco]()
+* [Temporada de Alt]()
+* [Teoria do Mais Tolo]()
+* [Testnet]()
+* [Tether]()
+* [The Flippening]()
+* [Ticker]()
+* [Timestamp]()
+* [Token]()
+* [Token de Ajuste de Base]()
+* [Token de Reflexão]()
+* [Token de Segurança]()
+* [Token Encapsulado]()
+* [Token Metrics]()
+* [Token Utilitário]()
+* [Tokenização]()
+* [Tokenomics]()
+* [Touro]()
+* [TPS]()
+* [Trading Bot]()
+* [Transação Não Confirmada]()
+* [Trilema de Escalabilidade]()
+
+## U
+
+* [Uniswap]()
+* [Urso]()
+* [UTXO]()
+
+## V
+
+* [Vaporware]()
+* [Velocidade do Token]()
+* [Venda a Descoberto]()
+* [Venda de Pânico]()
+* [Venda Privada]()
+* [Venda Promocional de Tokens]()
+* [Vitalik Buterin]()
+* [Volatilidade]()
+* [Volume de Criptomoedas]()
+
+## W
+
+* [WAGMI]()
+* [Web 1.0]()
+* [Web 2.0]()
+* [Web 3.0]()
+* [Web3Dev]()
+* [Whitelist]()
+* [Whitepaper]()
+
+## Y
+
+* [Yield Farming]()
+
+
+
+
+
+
 * []()
 * []()
 * []()
@@ -280,20 +562,10 @@
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+
+
+
 
 
 
