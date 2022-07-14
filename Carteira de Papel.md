@@ -1,3 +1,3 @@
 ### Carteira de Papel (Paper Wallet)
 
-Uma carteira de papel é um pedaço de papel que contém informações impressas necessárias para acessar sua moeda e _tokens_. Apesar do nome, as carteiras de papel não armazenam criptomoedas. Em vez disso, as informações impressas neles são usadas para acessar a _blockchain_ onde seus saldos de criptomoedas podem ser visualizados. Como as carteiras de papel não se conectam a nenhuma rede, elas são consideradas um dos tipos de carteiras mais seguras.
+Uma carteira de papel é um pedaço de papel que contém informações impressas necessárias para acessar sua moeda e _tokens_. Apesar do nome, as carteiras de papel não armazenam criptomoedas. Em vez disso, as informações impressas no papel são usadas para acessar a _blockchain_ onde seus saldos de criptomoedas podem ser visualizados. Como as carteiras de papel não se conectam a nenhuma rede, elas são consideradas um dos tipos de carteiras mais seguras.
