@@ -1,3 +1,3 @@
-### Tether
+### Tether, USDT
 
 Tether é um _token_ de tipo _stablecoin_ destinado a espelhar o valor do dólar americano. Em outras palavras, 1 Tether deve ser igual a 1 USD. O conceito por trás do Tether era criar uma moeda estável que pudesse ser usada como dólares digitais. Atualmente, o Tether é uma das moedas estáveis mais populares do mercado e é até usado como substituto do dólar americano em muitas _exchanges_.
