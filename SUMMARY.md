@@ -28,7 +28,7 @@
 * [Astroturfing](Astroturfing.md)
 * [Ataque de Força Bruta (Brute Force Attack, BFA)](Ataque%20de%20For%C3%A7a%20Bruta.md)
 * [Ataque de Poeira, Ataque de Empoeiramento (Dusting Attack, Dust Attack)](Ataque%20de%20Poeira.md)
-* [Ataque dos 51%](Ataque%20dos%2051%25.md)
+* [Ataque dos 51% (51% Attack, Majority Attack)](Ataque%20dos%2051%25.md)
 * [Atomic Swap](Atomic%20Swap.md)
 * [Ator (Actor)](Ator.md)
 * [Auditoria de Tokens (Token Audit)](Auditoria%20de%20Tokens.md)
