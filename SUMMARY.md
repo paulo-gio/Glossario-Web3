@@ -118,6 +118,7 @@
 * [Chave Pública (Public Key)](Chave%20P%C3%BAblica.md)
 * [CID, Content Identifier (Identificador de Conteúdo)](CID.md)
 * [Circuit Relay (Retransmissão de Circuito)](Circuit%20Relay.md)
+* [Cluster](Cluster.md)
 * [Codec](Codec.md)
 * [Código QR (QR Code)](C%C3%B3digo%20QR.md)
 * [Código-Fonte (Source Code)](C%C3%B3digo-Fonte.md)
