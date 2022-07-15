@@ -2,6 +2,7 @@
 
 * [ABI, Application Binary Interface (Interface Binária de Aplicativos)](ABI.md)
 * [Abstração (Abstraction)](Abstra%C3%A7%C3%A3o.md)
+* [Abstrato (Abstract)](Abstrato.md)
 * [Adoção em Massa (Mass Adoption)](Ado%C3%A7%C3%A3o%20em%20Massa.md)
 * [Aeternity Blockchain](Aeternity%20Blockchain.md)
 * [Airnode](Airnode.md)
@@ -96,6 +97,7 @@
 * [Capital](Capital.md)
 * [Capitalização de Mercado (Market Capitalization)](Capitaliza%C3%A7%C3%A3o%20de%20Mercado.md)
 * [Capitulação (Capitulation)](Capitula%C3%A7%C3%A3o.md)
+* [CAPM, Capital Asset Pricing Model (Modelo de Precificação de Ativos Financeiros)](CAPM.md)
 * [Carteira (Wallet)](Carteira.md)
 * [Carteira Daedalus (Daedalus Wallet)](Carteira%20Daedalus.md)
 * [Carteira de Custódia (Custodial Wallet)](Carteira%20de%20Cust%C3%B3dia.md)
