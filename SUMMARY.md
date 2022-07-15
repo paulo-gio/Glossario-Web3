@@ -174,6 +174,7 @@
 * [Endereço Blockchain (Blockchain Address)](Endere%C3%A7o%20Blockchain.md)
 * [Endereço Personalizado (Vanity Address)](Endere%C3%A7o%20Personalizado.md)
 * [Endereço Sigiloso (Stealth Address)](Endere%C3%A7o%20Sigiloso.md)
+* [Epoch](Epoch.md)
 * [Equipamento de Mineração (Mining Rig, Mining Equipment)](Equipamento%20de%20Minera%C3%A7%C3%A3o.md)
 * [ERC-20](ERC-20.md)
 * [ERC-721](ERC-721.md)

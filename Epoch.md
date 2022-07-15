@@ -1,0 +1,3 @@
+### Epoch
+
+Dentro de uma rede _blockchain_, um _epoch_ é considerado um período específico de tempo. Esse período de tempo é usado para especificar quando ocorrerão eventos específicos em uma rede _blockchain_, como quando os incentivos serão distribuídos ou quando um novo grupo de validadores será designado para validar transações. Cada protocolo _blockchain_ define esse período de tempo de forma diferente. Geralmente é referido como o tempo que leva para que uma certa quantidade de blocos de uma _blockchain_ seja concluída. No protocolo Ethereum (ETH), por exemplo, um _epoch_ é o tempo necessário para que 30.000 blocos sejam concluídos na cadeia. A duração de um _epoch_ é determinada pelo ritmo com que as transações são processadas e os acordos são alcançados.
