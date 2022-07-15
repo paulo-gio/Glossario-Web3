@@ -122,7 +122,7 @@
 * [Codec](Codec.md)
 * [Código QR (QR Code)](C%C3%B3digo%20QR.md)
 * [Código-Fonte (Source Code)](C%C3%B3digo-Fonte.md)
-* [Coin Mixers](Coin%20Mixers.md)
+* [Coin Mixers (Misturadores de Moedas, Mescladores de Moedas)](Coin%20Mixers.md)
 * [Coinbase](Coinbase.md)
 * [CoinMarketCap](CoinMarketCap.md)
 * [Compound Finance](Compound%20Finance.md)
@@ -150,8 +150,8 @@
 * [Daemon](Daemon.md)
 * [DAI](DAI.md)
 * [DAO, Decentralized Anonymous Organization (Organização Anônima Descentralizada)](DAO.md)
-* [dApp, Decentralized Application (Aplicativo Descentralizado)](DApi.md)
-* [DApp, Decentralized Application (Aplicativo Descentralizado)](DApp.md)
+* [dAPI, Decentralized API (API Descentralizada)](dAPI.md)
+* [dApp, Decentralized Application (Aplicativo Descentralizado)](DApp.md)
 * [Dark Web](Dark%20Web.md)
 * [Day Trading](Day%20Trading.md)
 * [DDM, Distributed Data Management (Gerenciamento de Dados Distribuídos)](DDM.md)
@@ -357,7 +357,7 @@
 * [Oráculos (Oracles)](Or%C3%A1culos.md)
 * [Ordem de Compra (Buy Order)](Ordem%20de%20Compra.md)
 * [Ordem de Mercado (Market Order)](Ordem%20de%20Mercado.md)
-* [Ordem Limite (Limit Order)](Ordem%20Limite.md)
+* [Ordem-Limite (Limit Order)](Ordem%20Limite.md)
 
 ## P
 
