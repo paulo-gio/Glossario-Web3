@@ -1,0 +1,3 @@
+### dAPI, Decentralized API (API Descentralizada)
+
+As APIs são a espinha dorsal da nova economia digital, servindo como um componente fundamental das soluções digitais. As APIs são centralizadas há muito tempo, no entanto, muitas plataformas descentralizadas usam a tecnologia _blockchain_ para fornecer APIs completamente descentralizadas. Um ótimo exemplo disso são os aplicativos descentralizados (dApps) que funcionam em um sistema descentralizado, graças às dAPIs. Embora uma dAPI seja comparável à uma API convencional em termos de funcionalidade, as APIs são centralizadas e não são inerentemente compatíveis com a tecnologia _blockchain_.
