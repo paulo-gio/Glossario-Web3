@@ -51,7 +51,7 @@
 * [BEP-20](BEP-20.md)
 * [BEP-95 (Bruno Hard Fork Upgrade)](BEP-95.md)
 * [BEP-721](BEP-721.md)
-* [Bid-Ask Spread (Spread Bid-Ask)](Bit-Ask%20Spread.md.md)
+* [Bid-Ask Spread (Spread Bid-Ask)](Bid-Ask%20Spread.md.md)
 * [Binance](Binance.md)
 * [Binance Labs](Binance%20Labs.md)
 * [Binace Launchpad](Binance%20Launchpad.md)
