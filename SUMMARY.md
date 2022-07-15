@@ -51,6 +51,7 @@
 * [BEP-20](BEP-20.md)
 * [BEP-95 (Bruno Hard Fork Upgrade)](BEP-95.md)
 * [BEP-721](BEP-721.md)
+* [Bid-Ask Spread (Spread Bid-Ask)](Bit-Ask%20Spread.md.md)
 * [Binance](Binance.md)
 * [Binance Labs](Binance%20Labs.md)
 * [Binace Launchpad](Binance%20Launchpad.md)
@@ -77,8 +78,6 @@
 * [Bloco Gênesis (Genesis Block)](Bloco%20G%C3%AAnesis.md)
 * [Bloco Órfão (Orphan Block)](Bloco%20%C3%93rf%C3%A3o.md)
 * [Bolha (Bubble)](Bolha.md)
-* [Bombeamento (Pump)](Bombeamento.md)
-* [Bombeamento e Despejo (Pump and Dump)](Bombeamento%20e%20Despejo.md)
 * [Bored Ape Yatch Club](Bored%20Ape%20Yacht%20Club.md)
 * [Bot](Bot.md)
 * [BTD, Buy the Dip (Comprar o Mergulho)](BTD.md)
@@ -238,6 +237,7 @@
 * [Identidade Digital (Digital Identity)](Identidade%20Digital.md)
 * [IDO, Initial Dex Offering (Oferta Inicial em DEX)](IDO.md)
 * [IEO, Initial Exchange Offering (Oferta Inicial em Exchange)](IEO.md)
+* [IFO, Initial Farm Offering (Oferta Inicial de Farm)](IFO.md)
 * [Imutável (Immutable)](Imut%C3%A1vel.md)
 * [Indicador Aroon (Aroon Indicator)](Indicador%20Aroon.md)
 * [Indicador de Acumulação - Distribuição (A/D, Accumulation - Distribution Indicator)](Indicador%20de%20Acumula%C3%A7%C3%A3o.md)
@@ -383,6 +383,8 @@
 * [Proposta de Melhoria do Bitcoin (Bitcoin Improvement Proposal, BIP)](Proposta%20de%20Melhoria%20do%20Bitcoin.md)
 * [Prova de Conhecimento Zero, Protocolo de Conhecimento Zero (Zero Knowledge Proof, ZKP)](Prova%20de%20Conhecimento%20Zero.md)
 * [Pulo do Gato Morto, Salto do Gato Morto, Repique do Gato Morto (Dead Cat Bounce)](Pulo%20do%20Gato%20Morto.md)
+* [Pump (Bombeamento)](Bombeamento.md)
+* [Pump and Dump (Bombeamento e Despejo)](Bombeamento%20e%20Despejo.md)
 
 ## Q
 
@@ -431,6 +433,7 @@
 * [Software](Software.md)
 * [Software de Código Aberto (Open Source Software)](Software%20de%20C%C3%B3digo%20Aberto.md)
 * [Solidity](Solidity.md)
+* [Spread](Spread.md)
 * [Stablecoin (Moeda Estável)](Stablecoin.md)
 * [Stablecoin Algorítmica, Moeda Estável Algorítmica (Algorithmic Stablecoin)](Stablecoin%20Algor%C3%ADtmica.md)
 * [Staking (Participação)](Staking.md)
