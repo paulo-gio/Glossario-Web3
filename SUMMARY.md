@@ -3,6 +3,8 @@
 * [ABI, Application Binary Interface (Interface Binária de Aplicativos)](ABI.md)
 * [Abstração (Abstraction)](Abstra%C3%A7%C3%A3o.md)
 * [Abstrato (Abstract)](Abstrato.md)
+* [Accrual (Acumulação)](Accrual.md)
+* [Adam Back](Adam%20Back.md)
 * [Adoção em Massa (Mass Adoption)](Ado%C3%A7%C3%A3o%20em%20Massa.md)
 * [Aeternity Blockchain](Aeternity%20Blockchain.md)
 * [Airnode](Airnode.md)
@@ -32,6 +34,7 @@
 * [Ataque de Poeira, Ataque de Empoeiramento (Dusting Attack, Dust Attack)](Ataque%20de%20Poeira.md)
 * [Ataque dos 51% (51% Attack, Majority Attack)](Ataque%20dos%2051%25.md)
 * [Atomic Swap](Atomic%20Swap.md)
+* [AtomicDEX](AtomicDEX.md)
 * [Ator (Actor)](Ator.md)
 * [Auditoria de Tokens (Token Audit)](Auditoria%20de%20Tokens.md)
 * [Autenticação (Authentication)](Autentica%C3%A7%C3%A3o.md)
@@ -57,13 +60,15 @@
 * [Binance](Binance.md)
 * [Binance Labs](Binance%20Labs.md)
 * [Binace Launchpad](Binance%20Launchpad.md)
-* [Bitcoin (BTC)](Bitcoin.md)
+* [Bitcoin, BTC](Bitcoin.md)
 * [Bitcoin ATM (BTM)](Bitcoin%20ATM.md)
+* [Bitcoin NFT](Bitcoin%20NFT.md)
 * [Bitcoin Pizza](Bitcoin%20Pizza.md)
 * [Bitcoiner](Bitcoiner.md)
 * [Bitcointalk](Bitcointalk.md)
 * [Bitswap](Bitswap.md)
 * [BitTorrent](BitTorrent.md)
+* [Block Trade (Ordem em Bloco)](Block%20Trade.md)
 * [Blockchain](Blockchain.md)
 * [Blockchain 1.0 (Criptomoedas)](Blockchain%201.0.md)
 * [Blockchain 2.0 (Contratos Inteligentes)](Blockchain%202.0.md)
@@ -74,6 +79,7 @@
 * [Blockchain Privada (Private Blockchain)](Blockchain%20Privada.md)
 * [Blockchain Pública, Blockchain Não Permissionada (Public Blockchain, Permissionless Blockchain)](Blockchain%20P%C3%BAblica.md)
 * [Blockchain Transmission Protocol, BTP (Protocolo de Transmissão da Blockchain)](Blockchain%20Transmission%20Protocol.md)
+* [Blockchain-Enabled Smart Lock (Fechadura Inteligente Habilitada para Blockchain)](Blockchain-Enabled%20Smart%20Lock.md)
 * [Blockfolio](Blockfolio.md)
 * [Bloco](Bloco.md)
 * [Bloco Canônico (Canonical Block)](Bloco%20Can%C3%B4nico.md)
@@ -89,6 +95,7 @@
 
 ## C
 
+* [Cabeçalho do Bloco (Block Header)](Cabe%C3%A7alho%20do%20Bloco.md)
 * [Cadeia Cruzada (Cross-Chain)](Cadeia%20Cruzada.md)
 * [Camada 0 (Layer 0)](Camada%200.md)
 * [Camada 1 (Layer 1)](Camada%201.md)
@@ -114,6 +121,7 @@
 * [CeFi, Centralized Finance (Finanças Centralizadas)](CeFi.md)
 * [Centralização (Centralization)](Centraliza%C3%A7%C3%A3o.md)
 * [Certificado de Depósito (Certificate of Deposit, CD)](Certificado%20de%20Dep%C3%B3sito.md)
+* [Cesta (Basket)](Cesta.md)
 * [CEX, Centralized Exchange (Exchanges Centralizadas)](CEX.md)
 * [Changpeng Zhao](Changpeng%20Zhao.md)
 * [Chave Privada, Chave Secreta (Private Key, Secret Key)](Chave%20Privada.md)
@@ -122,6 +130,7 @@
 * [Circuit Relay (Retransmissão de Circuito)](Circuit%20Relay.md)
 * [Cluster](Cluster.md)
 * [Codec](Codec.md)
+* [Código Binário (Binary Code)](C%C3%B3digo%20Bin%C3%A1rio.md)
 * [Código QR (QR Code)](C%C3%B3digo%20QR.md)
 * [Código-Fonte (Source Code)](C%C3%B3digo-Fonte.md)
 * [Coin Mixers (Misturadores de Moedas, Mescladores de Moedas)](Coin%20Mixers.md)
@@ -132,6 +141,7 @@
 * [Confirmações de Bloco (Block Confirmations)](Confirma%C3%A7%C3%B5es%20de%20Bloco.md)
 * [Consenso (Consensus)](Consenso.md)
 * [ConsenSys](ConsenSys.md)
+* [Conta (Account)](Conta.md)
 * [Conta-Contrato (Contract Account)](Conta-Contrato.md)
 * [Contato Inteligente (Smart Contract)](Contrato%20Inteligente.md)
 * [Correção (Correction)](Corre%C3%A7%C3%A3o.md)
@@ -145,6 +155,7 @@
 * [Cryptjacking](Cryptojacking.md)
 * [CryptoPunks](CryptoPunks.md)
 * [Cunhagem (Minting)](Cunhagem.md)
+* [Curva de Adoção (Adoption Curve)](Curva%20de%20Ado%C3%A7%C3%A3o.md)
 * [Cypherpunk](Cypherpunk.md)
 
 ## D
@@ -212,6 +223,7 @@
 
 ## G
 
+* [GAFAM (Big Tech)](GAFAM.md)
 * [GameFi](GameFi.md)
 * [Ganhos (Gains)](Ganhos.md)
 * [Gas](Gas.md)
@@ -226,6 +238,8 @@
 
 ## H
 
+* [Hacker Black Hat, Hacker de Chapéu Preto (Black Hat Hacker)](Hacker%20Black%20Hat.md)
+* [Hacker White Hat, Hacker de Chapéu Branco (White Hat Hacker)](Hacker%20White%20Hat.md)
 * [Hal Finney](Hal%20Finney.md)
 * [Halving (Redução à Metade)](Halving.md)
 * [Hard Cap (Limite Máximo de Capitalização)](Hard%20Cap.md)
@@ -247,6 +261,7 @@
 * [Imutável (Immutable)](Imut%C3%A1vel.md)
 * [Indicador Aroon (Aroon Indicator)](Indicador%20Aroon.md)
 * [Indicador de Acumulação - Distribuição (A/D, Accumulation - Distribution Indicator)](Indicador%20de%20Acumula%C3%A7%C3%A3o.md)
+* [Índice de Miséria do Bitcoin (BMI, Bitcoin Misery Index)](Indice%20de%20Mis%C3%A9ria%20do%20Bitcoin.md)
 * [Índice de Referência (Benchmark Index)](Indice%20de%20Refer%C3%AAncia.md)
 * [Índice Direcional Médio (ADX, Average Directional Index, DMI, Directional Movement Index)](Indice%20Direcional%20M%C3%A9dio.md)
 * [Inflação (Inflation)](Infla%C3%A7%C3%A3o.md)
@@ -385,6 +400,7 @@
 * [Preço do Gas (Gas price)](Pre%C3%A7o%20do%20Gas.md)
 * [Princípio de Pareto, Regra dos 80/20 (80/20 Rule, Pareto Principle)](Princ%C3%ADpio%20de%20Pareto.md)
 * [Problema dos Generais Bizantinos (The Byzantine Generals Problem)](Problema%20dos%20Generais%20Bizantinos.md)
+* [Produtor de Bloco (Block Producer)](Produtor%20de%20Bloco.md)
 * [Proof-of-Burn, PoB (Prova de Queima)](Proof-of-Burn.md)
 * [Proof-of-Developer, PoD (Prova de Desenvolvedor)](Proof-of-Developer.md)
 * [Proof-of-Stake, PoS (Prova de Stake, Prova de Participação)](Proof-of-Stake.md)
@@ -423,6 +439,7 @@
 
 ## S
 
+* [Saldo da Conta (Account Balance)](Saldo%20da%20Conta.md)
 * [Satoshi](Satoshi.md)
 * [Satoshi Nakamoto](Satoshi%20Nakamoto.md)
 * [Scamcoin (Moeda de Golpe, Token de Golpe)](Scamcoin.md)
@@ -470,6 +487,7 @@
 * [Token de Reflexão (Reflection Token)](Token%20de%20Reflex%C3%A3o.md)
 * [Token de Segurança (Security Token)](Token%20de%20Seguran%C3%A7a.md)
 * [Token Encapsulado (Wrapped Token)](Token%20Encapsulado.md)
+* [Token Lastreado (Asset-Backed Token)](Token%20Lastreado.md)
 * [Token Metrics (Métricas de Divisão de Tokens)](Token%20Metrics.md)
 * [Token Utilitário (Utility Token)](Token%20Utilit%C3%A1rio.md)
 * [Tokenização (Tokenization)](Tokeniza%C3%A7%C3%A3o.md)

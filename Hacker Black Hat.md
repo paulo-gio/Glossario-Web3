@@ -1,0 +1,3 @@
+### Hacker Black Hat, Hacker de Chapéu Preto (Black Hat Hacker)
+
+_Hackers_ _Black Hat_ geralmente usam _malware_ para penetrar em redes e sistemas computadorizados para, na maioria dos casos, roubar dados. Suas ações são motivadas principalmente por ganhos pessoais ou financeiros. Eles podem variar de indivíduos inexperientes a altamente qualificados com o objetivo de espalhar _malware_ e roubar informações confidenciais, como senhas de _login_, além de dados financeiros e pessoais. Os _hackers_ _black hat_ podem roubar, modificar ou excluir dados do sistema depois de obter acesso aos seus alvos, dependendo de suas motivações.

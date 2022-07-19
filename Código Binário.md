@@ -1,0 +1,3 @@
+### Código Binário (Binary Code)
+
+O código binário é a forma mais básica de programação de dados que um computador pode compreender diretamente. É composto por uma série de 0s e 1s que são organizados e estruturados para que possam ser recebidos e processados como parte de uma aplicação maior. É o resultado de um processo de composição multifásica que converte o código-fonte escrito em uma linguagem de alto nível como C ou Java em código de máquina adaptado à arquitetura do processador em que o aplicativo de computador é executado. De certa forma, pode ser denominado como a linguagem central do computador, convertida de código-fonte legível por humanos.
