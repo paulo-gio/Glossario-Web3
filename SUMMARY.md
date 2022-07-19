@@ -150,6 +150,7 @@
 * [Criptomoeda (Cryptocurrency)](Criptomoedas.md)
 * [Crowdfunding (Financiamento Coletivo)](Crowdfunding.md)
 * [Crowdsale (Venda Coletiva)](Crowdsale.md)
+* [Crowdsourcing (Terceirização Coletiva)](Crowdsourcing.md)
 * [Cruz da Morte (Death Cross)](Cruz%20da%20Morte.md)
 * [Cruz Dourada (Golden Cross)](Cruz%20Dourada.md)
 * [Cryptjacking](Cryptojacking.md)
