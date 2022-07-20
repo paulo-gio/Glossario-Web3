@@ -1,3 +1,4 @@
+
 ## Glossário Blockchain   :blue_book:  
 
 Bem-vindo! 
