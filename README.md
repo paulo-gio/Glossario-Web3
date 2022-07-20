@@ -1,4 +1,6 @@
-## Glossário Blockchain
+## Glossário
+
+## Glossário Blockchain   :blue_book:  
 
 Bem-vindo! 
 
@@ -10,4 +12,6 @@ Por aqui no GitBook é possível utilizar a lupa para buscar os termos ou palavr
 
 Qualquer dúvida ou sugestão, me envie uma mensagem pelo [Discord](https://discordapp.com/users/935759887835734076)
 
-Obrigado por ler!
+Obrigado por ler!    :white_check_mark:
+
+Paulo Gio
