@@ -1,6 +1,6 @@
 # Glossário Web3
 
-* [Read Me](readme.md)
+* [Bem vindos!](Bem%20Vindo.md)
 
 ## A
 
