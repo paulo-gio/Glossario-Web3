@@ -1,6 +1,6 @@
 # Índice
 
-* [Bem-vindos ao Glossário Web3! :blue_book:](Bem%20Vindo.md)
+* [Bem-vindos ao Glossário Web3!](Bem%20Vindo.md)
 
 ## A
 
