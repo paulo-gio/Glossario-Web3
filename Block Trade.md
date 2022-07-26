@@ -1,3 +1,3 @@
-### Block Trade (Ordem em Bloco)
+# Block Trade (Ordem em Bloco)
 
 _Block trading_ é um método em que os _traders_ compram e vendem simultaneamente um número significativo de títulos sem afetar o preço de mercado. A ordem em bloco geralmente é feita por instituições e fundos de _hedge_ devido à enorme magnitude das transações. Esta forma de negociação é comparável ao mercado de balcão (OTC) devido à sua natureza confidencial. Investidores individuais não se interessam em fazer ordens em bloco por causa da magnitude dos negócios nos mercados de dívida e ações. Na prática, geralmente grandes fundos de _hedge_ e investidores de grande porte compram e vendem enormes quantidades de títulos e ações em ordens em bloco por meio de bancos de investimento e outros mediadores.

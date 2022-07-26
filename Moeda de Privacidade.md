@@ -1,3 +1,3 @@
-### Moeda de Privacidade (Privacy Coin)
+# Moeda de Privacidade (Privacy Coin)
 
 Uma moeda de privacidade, como o próprio nome indica, é um tipo de criptomoeda que oculta dados sobre seus usuários. Algumas das informações que as moedas de privacidade ocultam incluem identidades de usuários, localização e saldos de carteira. Embora as moedas de privacidade usem a mesma tecnologia _blockchain_ que outras criptomoedas, elas usam vários métodos para proteger remetentes e destinatários durante as transações. Um exemplo de uma moeda de privacidade é a Monero (XMR).

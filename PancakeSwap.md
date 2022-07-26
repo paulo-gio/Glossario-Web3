@@ -1,3 +1,3 @@
-### PancakeSwap
+# PancakeSwap
 
 PancakeSwap é uma das _exchanges_ descentralizadas (DEX) mais populares em execução na Binance Smart Chain (BSC). Sua enorme liquidez, base de usuários e conjunto de recursos contribuíram fortemente para sua popularidade. Em sua forma mais simples, a PancakeSwap permite que os usuários negociem de forma rápida e segura entre vários _tokens_ BEP-20 sem depender de serviços centralizados. Como a plataforma é descentralizada, ela não controla nem obtêm propriedade sobre as chaves privadas de seus usuários. Todas as atividades de negociação são executadas automaticamente por contratos inteligentes, eliminando a dependência de terceiros.

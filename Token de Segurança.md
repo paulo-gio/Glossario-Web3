@@ -1,3 +1,3 @@
-### Token de Segurança (Security Token)
+# Token de Segurança (Security Token)
 
 Um _token_ de segurança é um tipo de criptomoeda que atua como uma representação digital de instrumentos financeiros. Estes incluem direitos a dividendos, propriedade parcial de um ativo ou empreendimento de terceiros (imóveis, ações, títulos), direitos de participação nos lucros e/ou relacionamento de credor com um órgão/corporação governamental. Ao contrário de moedas, como Bitcoin, que podem ser usadas para comprar e vender bens ou serviços, os _tokens_ de segurança não devem ser utilizados como uma forma de moeda digital. Por representarem títulos e instrumentos digitais financeiros, estão sujeitos a diversas leis e regulamentos.

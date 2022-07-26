@@ -1,3 +1,3 @@
-### Cabeçalho do Bloco (Block Header)
+# Cabeçalho do Bloco (Block Header)
 
 Um cabeçalho de bloco é um meio para identificar blocos individuais gerados dentro de uma rede _blockchain_, com cada bloco contendo seu próprio cabeçalho personalizado para facilitar o rastreamento de modificações de protocolo. Ele é usado para lidar com todos os blocos em uma _blockchain_, que também são conhecidos como nós. Começando com o 'Bloco Gênesis', os blocos são empilhados em sequência, com cada cabeçalho de bloco incluindo três conjuntos de informações de bloco e outros componentes exclusivos, incluindo o _hash_ do bloco anterior, o _nonce_ usado por mineradores, o número da versão do Bitcoin,  o carimbo de data e hora do bloco, a raiz Merkle e o alvo de dificuldade do bloco.

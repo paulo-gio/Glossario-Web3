@@ -1,3 +1,3 @@
-### Liquidação (Liquidation)
+# Liquidação (Liquidation)
 
 Liquidação é o processo de conversão de criptoativos, como Bitcoin, em moeda fiduciária. O processo pode ser descrito como fácil e rápido (fácil de liquidar) ou difícil e lento (difícil de liquidar). Quando investidores experientes compram ativos de qualquer tipo, um dos fatores que eles consideram é a capacidade de venda, ou seja, de liquidação do ativo. Ativos que você pode vender em minutos ou horas são descritos como mais fáceis de liquidar do que aqueles que podem levar semanas ou meses para serem vendidos.

@@ -1,3 +1,3 @@
-### Liquidez (Liquidity)
+# Liquidez (Liquidity)
 
 A liquidez descreve a facilidade com que uma criptomoeda pode ser comprada ou vendida em _exchanges_ ao seu preço de mercado. Em outras palavras, esse termo nos diz com que rapidez uma moeda digital pode ser negociada. Uma moeda ou _token_ de liquidez pode ser facilmente convertido em outra forma de moeda ou _token_. Por outro lado, uma moeda ou _token_ com pouca liquidez é difícil de comprar ou vender. A liquidez de uma moeda ou _token_ específico pode depender da _exchange_ em que está listada. Por exemplo, embora haja uma grande demanda por Bitcoin, pode ser difícil negociá-lo em uma _exchange_ de baixo volume.

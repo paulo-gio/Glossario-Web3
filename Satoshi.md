@@ -1,3 +1,3 @@
-### Satoshi
+# Satoshi
 
 O satoshi (ou sat) é a menor unidade de um Bitcoin que pode ser registrada na _blockchain_. Um satoshi é igual a um centésimo milionésimo de um único bitcoin. A unidade recebeu o nome do criador original do Bitcoin, Satoshi Nakamoto. 1 BTC = 100.000.000 sats, 1 sat = 0,00000001 BTC. Embora um sat seja presumivelmente o menor valor que pode ser registrado na _blockchain_, alguns canais de pagamento que precisam fazer pagamentos granulares podem usar a denominação milisatoshi (cem bilionésimos de um único bitcoin).

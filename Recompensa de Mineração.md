@@ -1,3 +1,3 @@
-### Recompensa de Mineração (Mining Reward)
+# Recompensa de Mineração (Mining Reward)
 
 Uma recompensa de mineração, também conhecida como recompensa de bloco, é a quantidade de criptomoedas que você obtém por minerar com sucesso um bloco da moeda em questão. Por exemplo, você pode ser recompensado com 6,25 Bitcoins quando minerar com sucesso um bloco e adicioná-lo à _blockchain_. O valor da recompensa na verdade é reduzido pela metade a cada 210.000 blocos em termos de Bitcoin, e estima-se que isso ocorra uma vez a cada quatro anos. A quantidade deve chegar a zero no ano de 2140.

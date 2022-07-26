@@ -1,3 +1,3 @@
-### Bitcoin NFTs
+# Bitcoin NFTs
 
 _Tokens_ não fungíveis (NFTs) foram introduzidos pela primeira vez na _blockchain_ do Bitcoin antes da funcionalidade operacional de contratos inteligentes na rede. De fato, antes que alguém soubesse o que era um "NFT", colecionáveis digitais (principalmente cartões) foram tokenizados e compartilhados pelo Counterparty, um protocolo construído no Bitcoin, que registra dados do próprio Bitcoin. Esse esforço inicial começou em 2016, quando os cartões colecionáveis digitais “Rare Pepes” foram popularizados pela primeira vez na _blockchain_ Bitcoin. No entanto, devido às limitações do Bitcoin e à crescente popularidade da Ethereum, o projeto migrou para a Ethereum e outras redes.

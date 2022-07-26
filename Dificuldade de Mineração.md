@@ -1,3 +1,3 @@
-### Dificuldade de Mineração (Mining Difficulty)
+# Dificuldade de Mineração (Mining Difficulty)
 
 A dificuldade de mineração de uma rede de criptomoedas é a medida de quão difícil é resolver um _hash_ abaixo de um alvo específico. O primeiro minerador a encontrar um _hash_ abaixo do nível de dificuldade adiciona seu bloco ao final da _blockchain_. A rede ajusta automaticamente a dificuldade de mineração para garantir que o tempo médio entre os blocos permaneça estável à medida que a taxa de _hash_ da rede muda.

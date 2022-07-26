@@ -1,3 +1,3 @@
-### Taxa de Transação, Taxa da Blockchain (Transaction Fee, Blockchain Fee)
+# Taxa de Transação, Taxa da Blockchain (Transaction Fee, Blockchain Fee)
 
 Uma taxa de transação, também conhecida como taxa de _blockchain_, é um valor cobrado dos usuários que realizam uma transação de criptomoedas. Esta taxa é necessária para processar transações na rede. A taxa de transação geralmente é adicionada ao valor do envio ou deduzida do valor recebido. Em alguns casos, você pode definir a taxa que deseja pagar. Quanto maior a taxa de transação, mais rápido sua transação é processada.

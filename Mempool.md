@@ -1,3 +1,3 @@
-### Mempool (Pool de Memória)
+# Mempool (Pool de Memória)
 
 Uma _mempool_ é o mecanismo que um nó de criptomoedas usa para armazenar transações não confirmadas. A palavra é uma contração das duas palavras “_memory_ e _pool_” (memória e piscina). A _mempool_ pode ser vista como uma “área de espera” onde essas transações não confirmadas são mantidas até serem coletadas por um minerador que as coloca em um bloco. Nesse ponto, a transação é retirada da _pool_. Assim como uma piscina real, as _mempools_ podem ficar lotadas. Por exemplo, se novas transações chegarem mais rápido do que são liberadas da _pool_, pode ocorrer um “engarrafamento”, onde as transações podem demorar mais para serem aprovadas.

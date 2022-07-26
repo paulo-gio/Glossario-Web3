@@ -1,3 +1,3 @@
-### JOMO, Joy Of Missing Out (Alegria de Perder Uma Oportunidade)
+# JOMO, Joy Of Missing Out (Alegria de Perder Uma Oportunidade)
 
 _Joy Of Missing Out_ (JOMO) é o oposto de _Fear Of Missing Out_ (FOMO). É frequentemente usado por pessoas que declaram sua felicidade por não estarem envolvidas em criptomoedas, geralmente quando os preços estão caindo ou uma ICO fraudulenta é revelada. O preço dos criptoativos – particularmente o Bitcoin – é altamente volátil. Isso significa que os investidores que evitaram investir em BTC e outras criptomoedas provavelmente sentirão uma sensação de JOMO quando os preços caírem. JOMO está relacionado ao conceito de um _trader_ que está feliz por não estar participando de uma tendência atual de criptomoeda ou se envolver em vendas de pânico.

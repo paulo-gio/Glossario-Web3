@@ -1,3 +1,3 @@
-### Hyperledger
+# Hyperledger
 
 O Hyperledger é um projeto global de _blockchain_ empresarial que oferece a estrutura, padrões, diretrizes e ferramentas necessários para criar _blockchains_ de código aberto e aplicativos relacionados para uso em vários setores. Os projetos da Hyperledger incluem uma variedade de plataformas de _blockchain_ com permissão prontas para empresas, onde os participantes da rede são conhecidos uns dos outros e, portanto, têm um interesse intrínseco em participar do processo de consenso.

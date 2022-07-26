@@ -1,3 +1,3 @@
-### Bloco Gênesis (Genesis Block)
+# Bloco Gênesis (Genesis Block)
 
 O primeiro bloco em uma _blockchain_. O Bloco Gênesis tem um valor de altura zero e, portanto, está diretamente vinculado a todos os blocos subsequentes. O bloco imediatamente subsequente ao bloco Gênesis tem um valor de altura 1, o próximo 2, e assim por diante. Uma _blockchain_ consiste em uma série de blocos que são usados para armazenar informações relacionadas a transações que ocorrem na rede. Cada um dos blocos contém um cabeçalho único, e cada um desses blocos é identificado por seu _hash_ de cabeçalho de bloco individualmente. Esses blocos são colocados em camadas - um em cima do outro, sendo o bloco Gênesis a base - e crescem em altura até que o final da _blockchain_ seja alcançado e a sequência esteja completa. As camadas de blocos e o histórico detalhado e criptografado de cada sequência são uma das coisas que tornam uma criptomoeda baseada em _blockchain_ tão segura.

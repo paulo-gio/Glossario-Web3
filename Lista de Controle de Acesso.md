@@ -1,3 +1,3 @@
-### Lista de Controle de Acesso (ACL, Access Control List)
+# Lista de Controle de Acesso (ACL, Access Control List)
 
 Em segurança de computadores, uma lista de controle de acesso (ACL) é uma lista de permissões associadas a um recurso do sistema (objeto). Uma ACL especifica quais usuários ou processos do sistema recebem acesso a objetos, bem como quais operações são permitidas em determinados objetos. Cada entrada em uma ACL típica especifica um assunto e uma operação. Por exemplo, se um objeto de arquivo tiver uma ACL que contenha (Alice: ler, escrever; Bob: ler), isso daria permissão a Alice para ler e gravar o arquivo e apenas a Bob permissão para lê-lo.

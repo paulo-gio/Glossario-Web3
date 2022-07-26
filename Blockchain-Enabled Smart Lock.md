@@ -1,3 +1,3 @@
-### Blockchain-Enabled Smart Lock (Fechadura Inteligente Habilitada para Blockchain)
+# Blockchain-Enabled Smart Lock (Fechadura Inteligente Habilitada para Blockchain)
 
 Uma fechadura inteligente é um dispositivo conectado que pode ser controlado digitalmente a partir de outro dispositivo, como um telefone celular. As fechaduras inteligentes se tornaram cada vez mais populares em residências nos últimos anos, mas são vulneráveis a possíveis problemas de segurança cibernética. As fechaduras inteligentes habilitadas para _blockchain_ resolvem muitos desses problemas de segurança e podem ser bloqueadas ou desbloqueadas com base no estado de uma variável incorporada em um contrato inteligente. A programabilidade quase ilimitada e o fato de você poder vincular facilmente qualquer tipo de método de pagamento (por exemplo, _tokens_ ou oráculos) ao estado da fechadura abre novos modelos incríveis de negócios que antes eram impossíveis devido a questões de segurança.

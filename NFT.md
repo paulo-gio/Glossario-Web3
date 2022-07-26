@@ -1,3 +1,3 @@
-### NFT, Non-Fungible Token (Token Não Fungível)
+# NFT, Non-Fungible Token (Token Não Fungível)
 
 Um _token_ não fungível é um tipo de _token_ de criptomoedas que representa um ativo exclusivo. Como cada _token_ é único, eles não são mutuamente intercambiáveis. Em outras palavras, um _token_ não fungível não pode ser trocado por outro _token_ não fungível do mesmo tipo. Esses _tokens_ são análogos a itens não fungíveis do mundo real, como carros, cartões de beisebol e outros ativos físicos.

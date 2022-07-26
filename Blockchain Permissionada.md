@@ -1,3 +1,3 @@
-### Blockchain Permissionada (Permissioned Blockchain)
+# Blockchain Permissionada (Permissioned Blockchain)
 
 As _blockchains_ permissionadas permitem uma mistura entre as _blockchains_ públicas e privadas, e suportam muitas opções de personalização. Isso inclui permitir que qualquer pessoa ingresse na rede após a verificação adequada de sua identidade e a alocação de permissões selecionadas e designadas para realizar apenas determinadas atividades na rede. Por exemplo, Ripple, uma das maiores criptomoedas da atualidade, suporta funções baseadas em permissão para os participantes.

@@ -1,3 +1,3 @@
-### Pump (Bombeamento)
+# Pump (Bombeamento)
 
 Um bombeamento refere-se ao rápido aumento no preço de uma moeda devido à atividade de compra irregular ou sem precedentes. Os bombeamentos geralmente ocorrem quando um indivíduo (ou indivíduos) compra uma quantidade considerável de criptomoedas a preço de mercado na tentativa de aumentar o preço. Os bombeamentos também podem ocorrer devido ao afluxo de novos investidores resultantes de notícias positivas e condições de mercado favoráveis.

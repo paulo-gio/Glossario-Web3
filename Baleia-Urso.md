@@ -1,3 +1,3 @@
-### Baleia-Urso (Bearwhale)
+# Baleia-Urso (Bearwhale)
 
 Uma baleia-urso é uma pessoa que possui um grande número de criptomoedas e usa sua enorme conta para reduzir o preço e lucrar com isso. Um trader que foi apelidado de “_BearWhale_” foi avistado em 2014. Essa pessoa era colecionadora de criptomoedas e estava tentando vender 30.000 Bitcoin de uma só vez a um preço de US$300 por moeda, ou US$9 milhões no total. Ninguém na época sabia por que isso estava acontecendo, ou por que ele estava tão ansioso para vender suas moedas. Essa imensa venda, no entanto, foi feita através do Bitstamp e foi tão grande que acabou distorcendo os mercados de Bitcoin e temporariamente ergueu um muro que fez com que o preço do Bitcoin ficasse parado em US$300 por horas, enquanto todas as 30.000 moedas do vendedor começaram a ser vendidas.

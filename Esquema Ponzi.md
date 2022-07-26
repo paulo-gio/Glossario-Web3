@@ -1,3 +1,3 @@
-### Esquema Ponzi (Ponzi Scheme)
+# Esquema Ponzi (Ponzi Scheme)
 
 Um esquema Ponzi é um tipo de fraude do tipo esquema em pirâmide em que os retornos financeiros são pagos a investidores mais antigos usando o dinheiro investido por investidores mais novos. Esse tipo de golpe pode ser realizado por um indivíduo ou uma empresa e geralmente é caracterizado por um forte foco na conquista de novos investidores, enquanto promete retornos anormalmente altos.

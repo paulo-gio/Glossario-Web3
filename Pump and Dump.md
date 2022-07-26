@@ -1,3 +1,3 @@
-### Pump and Dump (Bombeamento e Despejo)
+# Pump and Dump (Bombeamento e Despejo)
 
 Bombeamento e despejo é um tipo de golpe em que o preço de uma moeda é aumentado por notícias falsas ou enganosas, seguidas por uma rápida venda das moedas. A primeira parte do golpe, o bombeamento, refere-se ao aumento acelerado de preços. Enquanto a segunda parte, o despejo, refere-se à rápida liquidação. Os esquemas de bombeamento e despejo são usados por golpistas para obter lucros fáceis com o aumento da atividade de compra de investidores desavisados.

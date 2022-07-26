@@ -1,3 +1,3 @@
-### Código-Fonte (Source Code)
+# Código-Fonte (Source Code)
 
 Um código-fonte é um conjunto de comandos ou instruções escritos em uma linguagem que um computador entende. O computador usa essas instruções para executar funções específicas. Os códigos-fonte são, portanto, o melhor lugar para procurar se você quiser entender o funcionamento interno de um projeto de _software_. No entanto, você precisará ter as habilidades relevantes de desenvolvimento de _software_ para estudá-lo.

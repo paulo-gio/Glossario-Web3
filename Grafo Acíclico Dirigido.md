@@ -1,3 +1,3 @@
-### Grafo Acíclico Dirigido (DAG, Directed Acyclic Graph)
+# Grafo Acíclico Dirigido (DAG, Directed Acyclic Graph)
 
 Um grafo acíclico dirigido (DAG) é um grafo direcionado sem ciclos direcionados. Ou seja, consiste em vértices e arestas (também chamados de arcos), com cada aresta direcionada de um vértice a outro, de modo que seguir essas direções nunca formará um laço fechado. Os dados do IPLD no IPFS são naturalmente um DAG, de acordo com os desenvolvedores do IPFS.

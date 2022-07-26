@@ -1,3 +1,3 @@
-### Média do Custo do Dólar (Dollar Cost Averaging)
+# Média do Custo do Dólar (Dollar Cost Averaging)
 
 A média do custo do dólar é uma estratégia de investimento de baixo risco. Envolve dividir o valor total que você deseja investir em um ativo cripto e fazer compras incrementais ao longo de um período de tempo. Essa técnica de investimento visa reduzir o impacto da volatilidade dos preços das criptomoedas na compra geral. Durante a média do custo do dólar, você investe uma quantia fixa de dinheiro em um ativo criptográfico em intervalos regulares, independentemente do preço. No final do período especificado, você teria comprado as moedas ou _tokens_ a um custo médio. Esse método evita que os investidores cometam o erro de fazer um investimento de montante fixo que pode ser mal cronometrado, dependendo do preço do ativo.

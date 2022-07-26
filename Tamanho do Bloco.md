@@ -1,3 +1,3 @@
-### Tamanho do Bloco (Block Size)
+# Tamanho do Bloco (Block Size)
 
 O explicação de tamanho do bloco é bastante simples - é a quantidade de dados que um único bloco pode conter. Por exemplo, a partir de maio de 2021, um bloco na _blockchain_ do Bitcoin pode conter dados equivalentes a 1 MB. Essa limitação foi aplicada em 2010, em um esforço para limitar a oportunidade de sobrecarregar a _blockchain_ e impedir possíveis ataques DoS. Inicialmente, a _blockchain_ do Bitcoin foi projetada para funcionar com blocos de até 36 MB de tamanho; no entanto, as preocupações de segurança reforçaram a necessidade de tamanhos de bloco significativamente menores.

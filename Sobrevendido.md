@@ -1,3 +1,3 @@
-### Sobrevendido (Oversold)
+# Sobrevendido (Oversold)
 
 Sobrevendido refere-se a uma condição em que uma criptomoeda está sendo negociada a um preço abaixo de seu valor assumido. Durante as condições de sobrevenda, o ativo tem o potencial de subir (aumento no preço). A duração de uma condição de sobrevenda pode variar significativamente dependendo do mercado. Portanto, se uma criptomoeda for vendida em excesso, isso não significa necessariamente que uma alta ou tendência de alta ocorrerá em breve.

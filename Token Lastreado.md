@@ -1,3 +1,3 @@
-### Token Lastreado (Asset-Backed Token)
+# Token Lastreado (Asset-Backed Token)
 
 Os _tokens_ lastreados são reivindicações digitais em um ativo físico e são garantidos por esse ativo. Ouro, petróleo bruto, imóveis, ações, soja ou praticamente qualquer outro ativo físico real pode ser tokenizado e se tornar um _token_ lastreado. A próxima iteração de inovações em criptomoedas traz essa interface para o universo do prático e do físico, com _tokens_ lastreados que representam ativos do mundo real. O valor de um _token_ lastreados é diretamente afetado pelo valor de seu ativo subjacente e geralmente é classificado como um título pelos reguladores financeiros. A propriedade do _token_ geralmente representa um direito de propriedade sobre o ativo e, dependendo do ativo, pode vir com a expectativa de retornos futuros quando o ativo se valorizar. À medida que o próprio ativo se valoriza, o mesmo acontece com o _token_.

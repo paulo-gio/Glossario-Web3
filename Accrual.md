@@ -1,3 +1,3 @@
-### Accrual (Acumulação)
+# Accrual (Acumulação)
 
 Em termos simples, um _accrual_ é o valor acumulado a ser pago ou recebido, geralmente na forma de receita, juros ou despesa que ocorreu no passado. Um exemplo seria uma empresa enviando mercadorias ou serviços para um cliente no mês de dezembro, mas recebendo o pagamento no mês de fevereiro, portanto, o valor devido pelo cliente à empresa é acumulado. Uma acumulação geralmente ocorre em um negócio quando as vendas são feitas a crédito a clientes ou a matéria-prima é comprada a crédito de um fornecedor.

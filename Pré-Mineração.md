@@ -1,3 +1,3 @@
-### Pré-Mineração (Premining)
+# Pré-Mineração (Premining)
 
 Pré-mineração é a mineração ou criação de todas ou um certo número de certa moeda antes que a mesma seja lançada ao público. Nesse processo, as moedas são normalmente extraídas pelos próprios desenvolvedores e alocadas para um endereço específico. A pré-mineração normalmente carrega uma conotação negativa, pois os desenvolvedores podem minerar e arrecadar moedas para si antes que alguém na comunidade tenha a oportunidade de minerar. Isso muitas vezes levou a sentimentos de desconfiança devido à aparente falta de transparência associada ao processo.

@@ -1,3 +1,3 @@
-### Mainnet (Rede Principal)
+# Mainnet (Rede Principal)
 
 _Mainnet_ é o termo usado para descrever quando um protocolo _blockchain_ é totalmente desenvolvido e implantado, o que significa que as transações de criptomoeda estão sendo transmitidas, verificadas e registradas em uma tecnologia de contabilidade distribuída (_blockchain_). Em contraste com as redes _mainnet_, o termo _testnet_ (rede de teste) descreve quando um protocolo ou rede _blockchain_ ainda não está funcionando em sua capacidade total. Uma rede de teste é usada por programadores e desenvolvedores para testar e solucionar todos os aspectos e recursos de uma rede _blockchain_ antes de terem certeza de que o sistema está seguro e pronto para o lançamento da rede principal.

@@ -1,3 +1,3 @@
-### Token de Reflexão (Reflection Token)
+# Token de Reflexão (Reflection Token)
 
 Um _token_ de reflexão é uma criptomoeda que distribui recompensas para investidores que possuem esse _token_ específico. Essas recompensas são conhecidas como reflexões. Os _tokens_ de reflexão são conhecidos por sua capacidade de gerar renda passiva. Uma das características definidoras dos _tokens_ de reflexão é o seu modelo tributário. Os impostos são aplicados nas transações de compra e venda, e uma parte da receita arrecadada com os impostos é redistribuída aos detentores. Parte da receita também pode ser usada para ajudar a fornecer liquidez. Os _tokens_ de reflexão são relativamente novos no espaço DeFi e fornecem outra maneira para os investidores ganharem recompensas com seus investimentos.

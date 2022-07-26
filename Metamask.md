@@ -1,3 +1,3 @@
-### MetaMask
+# MetaMask
 
 MetaMask é uma carteira de _software_ usada para interagir com a _blockchain_ Ethereum. Ela permite que os usuários acessem sua carteira Ethereum por meio de uma extensão do navegador ou aplicativo móvel, que pode ser usado para interagir com aplicativos descentralizados. A carteira MetaMask é desenvolvida pela ConsenSys Software Inc., uma empresa de _software_ _blockchain_ com foco em ferramentas e infraestrutura baseadas em Ethereum. A MetaMask permite que os usuários armazenem e gerenciem chaves de conta, transmitam transações, enviem e recebam criptomoedas e _tokens_ baseados em Ethereum, e se conectem com segurança a aplicativos descentralizados por meio de um navegador da _Web_ compatível ou do aplicativo móvel.

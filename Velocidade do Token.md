@@ -1,3 +1,3 @@
-### Velocidade do Token (Token Velocity)
+# Velocidade do Token (Token Velocity)
 
 A velocidade do _token_ é o número médio de vezes que um _token_ ou moeda muda de mãos dentro de um período definido. Se a velocidade de uma moeda digital for alta, a criptomoeda se move de pessoa para pessoa com frequência. Por outro lado, se a velocidade for baixa, a moeda raramente muda de dono. A velocidade do _token_ influencia o valor não especulativo de longo prazo de um ativo.

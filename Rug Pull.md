@@ -1,3 +1,3 @@
-### Rug Pull (Puxão de Tapete)
+# Rug Pull (Puxão de Tapete)
 
 Um _Rug Pull_, ou puxão de tapete, é um tipo de golpe em que os desenvolvedores de uma criptomoeda de repente abandonam o projeto e fogem com o dinheiro dos investidores. O termo vem da frase “puxar o tapete” (debaixo dos pés de alguém), significando retirar abruptamente o apoio de alguém. Durante um _rug pull_, os desenvolvedores de golpes criam um _token_ usando um protocolo _blockchain_ de código aberto, como Ethereum ou Binance Smart Chain, e o promovem nas mídias sociais. Uma vez que o projeto ganha força, eles o listam em uma _exchange_ e permitem que investidores comprem o _token_. Uma vez que um número significativo de investidores trocou seu ETH ou BNB pelo _token_, eles removem toda a liquidez, fazendo com que o preço caia para zero. Os desenvolvedores fogem e somem com os fundos investidos, deixando os investidores com sacolas de _tokens_ inúteis.

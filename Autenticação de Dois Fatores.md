@@ -1,3 +1,3 @@
-### Autenticação de Dois Fatores, Autenticação Multifator (Two-Factor Authentication, 2FA)
+# Autenticação de Dois Fatores, Autenticação Multifator (Two-Factor Authentication, 2FA)
 
 A autenticação de dois fatores (2FA), também conhecida como autenticação multifator, é uma camada adicional de segurança adicionada às contas de usuário. Envolve a inserção de outra informação (geralmente um código numérico), além de uma senha, para obter acesso com sucesso a uma conta. Esses códigos geralmente são recebidos em um smartphone por meio de um aplicativo ou mensagem SMS.

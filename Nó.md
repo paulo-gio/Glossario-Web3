@@ -1,4 +1,4 @@
-### Nó, Nó Completo,  (Node, Full Node)
+# Nó, Nó Completo,  (Node, Full Node)
 
 Um nó é um computador, servidor ou qualquer dispositivo que armazena uma cópia completa de uma _blockchain_. Esses nós também podem validar totalmente os blocos de uma transação. Da mesma forma, um nó regular é qualquer computador conectado a uma _blockchain_. Para verificar as transações, um nó completo baixa novos blocos de dados e verifica se eles estão em conformidade com as regras de consenso dessa _blockchain_. Esses nós armazenam, validam e compartilham dados para manter a _blockchain_ funcionando. Os nós são parte integrante das redes descentralizadas e são necessários para garantir que o sistema permaneça seguro e protegido. Eles executam o _software_-cliente necessário e são encarregados principalmente de manter uma cópia da _blockchain_ e verificar se as transações estão em conformidade com protocolos específicos.
 

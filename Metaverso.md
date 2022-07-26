@@ -1,3 +1,3 @@
-### Metaverso (Metaverse)
+# Metaverso (Metaverse)
 
 O metaverso é uma realidade digital que combina aspectos de mídia social, jogos _online_, realidade aumentada (AR), realidade virtual (VR) e criptomoedas para permitir que os usuários interajam virtualmente. A realidade aumentada sobrepõe elementos visuais, som e outras entradas sensoriais em configurações do mundo real para aprimorar a experiência do usuário. Em contraste, a realidade virtual é inteiramente virtual e aprimora as realidades ficcionais.

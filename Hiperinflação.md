@@ -1,3 +1,3 @@
-### Hiperinflação (Hyperinflation)
+# Hiperinflação (Hyperinflation)
 
 A hiperinflação é definida como uma quantidade excessivamente alta de inflação. Em outras palavras, é o movimento ascendente extremo do preço de uma mercadoria, ativo ou moeda, particularmente em um curto espaço de tempo. A hiperinflação geralmente se deve a um aumento na demanda da _commodity_ ou ativo em questão. Hiperinflação também significa uma perda de valor ou poder de compra.

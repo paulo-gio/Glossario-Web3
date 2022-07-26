@@ -1,3 +1,3 @@
-### Hardware
+# Hardware
 
 _Hardware_, no contexto da tecnologia, refere-se aos elementos físicos que compõem um computador ou sistema eletrônico e tudo o mais envolvido que seja fisicamente tangível. Isso inclui o monitor, disco rígido, memória e CPU. O _hardware_ trabalha lado a lado com o _firmware_ e o _software_ para fazer um computador funcionar. Embora os mesmos componentes principais sejam compartilhados entre computadores _desktop_ e _laptops_, suas características e design diferem por vários motivos (tamanho, recursos de dissipação de calor, requisitos de energia etc.). No entanto, o _hardware_ é sempre necessário para executar o _software_ essencial (sistema operacional) que faz os computadores funcionarem.

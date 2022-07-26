@@ -1,3 +1,3 @@
-### Proof-of-Burn, PoB (Prova de Queima)
+# Proof-of-Burn, PoB (Prova de Queima)
 
 _Proof-of-Burn_ está entre os mecanismos de consenso mais populares usados pelas redes _blockchain_. O conceito por trás desse mecanismo é que os mineradores precisam queimar algumas de suas moedas ou _tokens_ e provar que fizeram isso para ter a chance de minerar um novo bloco. Esse mecanismo de consenso geralmente é visto como uma versão energeticamente eficiente do _Proof-of-Work_.

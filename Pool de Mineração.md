@@ -1,3 +1,3 @@
-### Pool de Mineração (Mining Pool)
+# Pool de Mineração (Mining Pool)
 
 Uma _pool_ de mineração é um serviço online onde os mineradores combinam seus recursos computacionais para minerar criptomoedas. Todos os mineradores conectados à _pool_ contribuem para o poder geral de _hash_ da rede. As recompensas recebidas pela _pool_ são compartilhadas entre os mineradores na proporção da quantidade de poder de processamento fornecida por cada minerador.

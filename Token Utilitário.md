@@ -1,3 +1,3 @@
-### Token Utilitário (Utility Token)
+# Token Utilitário (Utility Token)
 
 Um _token_ utilitário é um tipo de _token_ de criptomoedas usado principalmente para acessar o produto ou serviço de uma empresa. Eles não devem ser usados como investimento ou reserva de valor (como Bitcoin). Em vez disso, eles podem ser considerados como moeda digital para um aplicativo específico. Por exemplo, para usar o aplicativo descentralizado GNT, deve-se usar _tokens_ GNT. Os _tokens_ utilitários não devem ser confundidos com os _tokens_ de segurança, que são usados para representar a propriedade de ativos e instrumentos financeiros do mundo real, como ações da empresa, direitos a dividendos, direitos de participação nos lucros, etc.

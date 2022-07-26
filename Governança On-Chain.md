@@ -1,3 +1,3 @@
-### Governança On-Chain (On-Chain Governance)
+# Governança On-Chain (On-Chain Governance)
 
 A governança _on-chain_ é um sistema para gerenciar e implementar mudanças em _blockchains_. Nesse tipo de governança, as regras para instituir mudanças são codificadas no protocolo _blockchain_, onde os desenvolvedores propõem alterações por meio de atualizações de código e cada nó vota se aceita ou rejeita a alteração que foi proposta. Ao contrário dos sistemas de governança informais, que usam uma combinação de coordenação _offline_ e modificações de código _online_ para efetuar mudanças, os sistemas de governança _on-chain_ funcionam apenas _online_. Se a alteração for aceita, ela será incluída na _blockchain_ e implementada. Em alguns casos de implementação de governança _on-chain_, o código atualizado pode ser revertido para sua versão anterior a uma linha de base, se a alteração proposta não for bem-sucedida.

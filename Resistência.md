@@ -1,3 +1,3 @@
-### Resistência (Resistance)
+# Resistência (Resistance)
 
 Resistência é um termo usado na análise técnica de uma criptomoeda ou qualquer outro ativo. A resistência descreve a faixa de preço em que uma criptomoeda encontra resistência à medida que sobe. À medida que o preço atinge sua resistência, é altamente provável que ele não passe desse nível (diminuição do preço), ao invés de continuar subindo. No entanto, é possível que, uma vez que o preço ultrapasse sua resistência, ele continue subindo até encontrar outro nível de resistência.

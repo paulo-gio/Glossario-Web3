@@ -1,3 +1,3 @@
-### Hal Finney
+# Hal Finney
 
 Hal Finney é uma das pessoas suspeitas de ser Satoshi Nakamoto, o inventor do Bitcoin. Essa suspeita surge de suas qualificações técnicas, bem como de seu envolvimento inicial com o Bitcoin. Ele também era um conhecido membro ativo do movimento Cypherpunk. Satoshi Nakamoto publicou pela primeira vez o _whitepaper_ do Bitcoin na lista de discussão do movimento e também se comunicava frequentemente com outros membros do grupo.

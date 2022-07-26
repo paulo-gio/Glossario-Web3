@@ -1,3 +1,3 @@
-### Instamine, Instamining, Instant Mine (Mina Instantânea)
+# Instamine, Instamining, Instant Mine (Mina Instantânea)
 
 O termo _instamine_ vem da combinação de duas palavras: _instant_ (instantâneo) e _mine_ (mina). Uma _instamine_ ocorre quando uma grande quantidade de _tokens_ ou moedas é criada instantaneamente. Isso contrasta com o lançamento programado da maioria das criptomoedas com base em um protocolo de consenso _Proof-of-Work_. Fazer _instamining_ torna excessivamente fácil a produção de moedas para uma criptomoeda durante um período específico, muitas vezes levando a uma distribuição injusta ou desigual de moedas concentrada entre desenvolvedores ou fundadores de um projeto. Normalmente, uma criptomoeda que passa por um período de _instamine_ oferece uma grande parte de suas moedas no início, quando o interesse do investidor provavelmente será alto.

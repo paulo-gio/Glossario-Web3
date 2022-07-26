@@ -1,3 +1,3 @@
-### Tokenomics (Tokenomia)
+# Tokenomics (Tokenomia)
 
 _Tokenomics_, ou tokenomia é o estudo de como as criptomoedas funcionarão dentro de um determinado ecossistema. O termo é a combinação de duas palavras: “_Token_” e “Economia”. A tokenomia cobre vários aspectos de uma moeda ou _token_, incluindo sua criação, gerenciamento, distribuição e até mesmo remoção da rede. Em outras palavras, qualquer coisa que tenha o potencial de afetar o valor de uma criptomoeda faz parte de sua tokenomia.

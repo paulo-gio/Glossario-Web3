@@ -1,3 +1,3 @@
-### Mercado de Balcão (Over-the-Counter, OTC)
+# Mercado de Balcão (Over-the-Counter, OTC)
 
 O Mercado de Balcão (OTC) é um tipo de atividade de negociação que ocorre entre duas partes fora de uma _exchange_ de criptomoedas. Em outras palavras, OTC é a troca direta de moedas digitais entre compradores e vendedores. Esses negócios geralmente envolvem um corretor, que fornece serviços de custódia (_Escrow_) durante a transação. Como esses tipos de negócios não são monitorados pelas _exchanges_, sua atividade não é listada publicamente; portanto, suas transações não afetam o volume geral.

@@ -1,3 +1,3 @@
-### Blockchain Privada (Private Blockchain)
+# Blockchain Privada (Private Blockchain)
 
 A criação de uma _blockchain _privada é executada para fins bem mais específicos do que a mineração de criptomoedas, por exemplo. Se for necessário executar uma _blockchain_ que permita apenas a entrada selecionada de participantes verificados, como os de uma empresa privada, pode-se optar por uma implementação de _blockchain_ privada. Um participante pode ingressar nessa rede privada apenas por meio de um convite devidamente verificado. Uma validação também é necessária pelo(s) operador(es) da rede ou por um protocolo claramente definido implementado pela rede.

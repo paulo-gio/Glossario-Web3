@@ -1,3 +1,3 @@
-### Computação Quântica (Quantum Computing)
+# Computação Quântica (Quantum Computing)
 
 A computação quântica é uma área da computação focada no uso de tecnologia baseada nos princípios da teoria quântica. Esse tipo de computação usa conceitos da mecânica quântica, como superposição e emaranhamento, para realizar cálculos altamente complexos. Essa tecnologia tem potencial para resolver problemas computacionais, como fatoração de inteiros, consideravelmente mais rápido que os computadores convencionais.

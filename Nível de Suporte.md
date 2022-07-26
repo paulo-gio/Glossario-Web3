@@ -1,3 +1,3 @@
-### Nível de Suporte (Support Level)
+# Nível de Suporte (Support Level)
 
 Suporte é um termo usado na análise técnica de uma criptomoeda ou qualquer outro ativo. Ele descreve a faixa de preço em que uma criptomoeda encontra suporte à medida que cai. Quando o preço atinge seu nível de suporte, é altamente provável que ele salte desse nível (aumento no preço) em vez de continuar a diminuir. No entanto, é possível que, uma vez que o preço ultrapasse seu suporte, ele continue caindo até encontrar outro nível de suporte.

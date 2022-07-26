@@ -1,3 +1,3 @@
-### Bid-Ask Spread (Spread Bid-Ask)
+# Bid-Ask Spread (Spread Bid-Ask)
 
 Um _spread bid-ask_ é o valor pelo qual o melhor preço de venda excede o melhor preço de compra de um ativo no mercado. O _spread bid-ask_ é essencialmente a diferença entre o preço mais alto que um comprador está disposto a pagar por um ativo e o preço mais baixo que um vendedor está disposto a aceitar. O _spread bid-ask_ pode ser considerado uma medida da oferta e demanda de um determinado ativo. Pode-se dizer que o _bid_ representa a demanda por um ativo e o _ask_ representa a oferta; portanto, quando esses dois preços se afastam, a ação do preço reflete uma mudança na oferta e na demanda.

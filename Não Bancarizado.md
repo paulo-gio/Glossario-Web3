@@ -1,3 +1,3 @@
-### Não Bancarizado (Unbanked)
+# Não Bancarizado (Unbanked)
 
 Não bancarizado é um termo usado para se referir a indivíduos que não têm acesso a um banco ou qualquer outra instituição financeira. Essas pessoas normalmente operam usando dinheiro ou outros métodos de pagamento alternativos diariamente. Além disso, indivíduos não bancarizados também podem ter acesso limitado a serviços, como seguros, cartões de crédito, pensões e aposentadorias.

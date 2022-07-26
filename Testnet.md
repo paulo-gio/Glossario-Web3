@@ -1,3 +1,3 @@
-### Testnet (Rede de Testes)
+# Testnet (Rede de Testes)
 
 Uma _testnet_ é uma _blockchain_ alternativa usada para realizar experimentos sem usar moeda real. Este termo significa o mesmo que “rede de teste”, portanto, quaisquer alterações feitas nesta rede não afetam a _blockchain_ principal. As redes de teste são úteis, pois permitem que os desenvolvedores façam alterações sem se preocupar em afetar a cadeia principal. As moedas usadas nesta rede separada não possuem nenhum valor. Endereços de carteira separados também devem ser criados para usar moedas na _testnet_. Portanto, quaisquer moedas extraídas ou obtidas na rede de teste não podem ser usadas no mundo real ou na _blockchain_ principal.

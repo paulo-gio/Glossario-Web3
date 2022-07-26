@@ -1,3 +1,3 @@
-### Transação Protegida (Shielded Transaction)
+# Transação Protegida (Shielded Transaction)
 
 Os endereços protegidos são aqueles que usam provas de conhecimento zero para permitir que os dados da transação sejam criptografados, permanecendo verificáveis pelos nós da rede. Uma transação protegida é essencialmente uma transação que ocorre entre dois endereços protegidos. Isso basicamente manterá os endereços, o valor da transação e o campo de informações protegidos do público, com exceção de transações protegidas originadas de fundos migrados entre os endereços protegidos do protocolo Sprout e do protocolo Sapling. Indiscutivelmente a melhor implementação em termos de transações protegidas atualmente está no Zcash.

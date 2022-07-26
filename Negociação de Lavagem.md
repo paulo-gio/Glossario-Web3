@@ -1,3 +1,3 @@
-### Negociação de Lavagem (Wash Trading)
+# Negociação de Lavagem (Wash Trading)
 
 Negociação de lavagem é um tipo de manipulação de mercado. Ocorre quando um _trader_ ou uma entidade compra e vende criptomoedas com o único propósito de criar condições de mercado enganosas. A negociação de lavagem geralmente envolve um comerciante e um corretor em conluio entre si, com um atuando como comprador e o outro como vendedor. No entanto, em alguns casos, um único investidor também pode atuar como comprador e vendedor. Embora esse tipo de atividade seja ilegal ao negociar títulos nos EUA e outros países, ela não é regulamentada no setor de criptomoedas.

@@ -1,3 +1,3 @@
-### IPFS, InterPlanetary File System (Sistema de Arquivos Interplanetário)
+# IPFS, InterPlanetary File System (Sistema de Arquivos Interplanetário)
 
 O IPFS é um sistema descentralizado de armazenamento e referência de arquivos para a _blockchain_ Ethereum. O IFPS é um protocolo de código aberto que permite armazenar e trocar hipermídias (texto, áudio e visual) de forma distribuída sem depender de um ponto único de falha. Graças a esse sistema de arquivos distribuído, os aplicativos podem ser executados com mais rapidez, segurança e transparência.

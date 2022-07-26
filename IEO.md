@@ -1,3 +1,3 @@
-### IEO, Initial Exchange Offering (Oferta Inicial em Exchange)
+# IEO, Initial Exchange Offering (Oferta Inicial em Exchange)
 
 IEO (_Initial Exchange Offering_) é um tipo de evento de angariação de fundos realizado por uma _exchange_ de criptomoedas. Em contraste com uma oferta inicial de moedas (ICO), em que os fundos são levantados pela própria organização _blockchain_, os fundos em um IEO são levantados pela corretora em nome da _startup_. O dinheiro arrecadado dos IEOs é usado para ajudar a financiar o desenvolvimento do projeto.

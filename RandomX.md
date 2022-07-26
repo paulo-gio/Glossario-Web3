@@ -1,3 +1,3 @@
-### RandomX
+# RandomX
 
 RandomX é um algoritmo _Proof-of-Work_ criado pela criptomoeda Monero. Esse algoritmo foi projetado especificamente para ser resistente a ASIC, evitando assim que os ASICs dominem a rede. Em vez disso, o RandomX é otimizado para mineração de CPU. Embora as GPUs ainda possam ser usadas para mineração, elas são muito menos eficientes nesse algoritmo. Como a mineração de CPU é o foco principal deste algoritmo de mineração, os usuários com computadores desktop podem participar e minerar de forma lucrativa.

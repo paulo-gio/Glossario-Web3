@@ -1,3 +1,3 @@
-### Oráculos (Oracles)
+# Oráculos (Oracles)
 
 Os oráculos _Blockchain_ são serviços de terceiros que fornecem informações externas a contratos inteligentes. Eles servem como pontes entre _blockchains_ e o mundo exterior. _Blockchains_ e contratos inteligentes não podem acessar dados fora da cadeia (dados que estão fora da rede). No entanto, para muitos acordos contratuais, é vital ter informações relevantes do mundo exterior para executar o acordo. É aqui que os oráculos de _blockchain_ entram em ação, pois fornecem um _link_ entre dados _off-chain_ e _on-chain_. Os oráculos são vitais no ecossistema _blockchain_ porque ampliam o escopo no qual os contratos inteligentes podem operar. Sem os oráculos de _blockchain_, os contratos inteligentes teriam uso muito limitado, pois teriam acesso apenas aos dados de dentro de suas redes.

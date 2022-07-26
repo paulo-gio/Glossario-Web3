@@ -1,3 +1,3 @@
-### Java
+# Java
 
 Java é uma linguagem de programação orientada a objetos, o que significa que todos os programas são feitos de entidades que representam conceitos ou coisas físicas conhecidas como “objetos”. Os programas Java são encontrados em _desktops_, servidores, dispositivos móveis, _smart cards_ e discos Blu-ray (BD). Quando um programador escreve um aplicativo Java, o código compilado (conhecido como _bytecode_) é executado na maioria dos sistemas operacionais (SO), incluindo Windows, Linux e Mac OS. Java deriva muito de sua sintaxe das linguagens de programação C e C++. Java foi desenvolvido em meados da década de 1990 por James A. Gosling, um ex-cientista da computação da Sun Microsystems, juntamente com Mike Sheridan e Patrick Naughton.

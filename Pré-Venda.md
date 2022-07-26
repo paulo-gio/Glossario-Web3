@@ -1,3 +1,3 @@
-### Pré-Venda (Presale)
+# Pré-Venda (Presale)
 
 Uma pré-venda de criptomoedas, também conhecida como pré-ICO, é um evento em que uma equipe de desenvolvimento vende um certo número de _tokens_ para alguns investidores selecionados antes que a ICO seja disponibilizada ao público em geral. Como uma ICO, o objetivo de uma pré-venda é levantar um conjunto inicial de fundos para ajudar a desenvolver o projeto. As metas de arrecadação de fundos para pré-vendas são geralmente mais baixas do que a ICO principal, e o preço por _token_ geralmente é mais barato. Essas características geralmente ajudam a atrair investidores iniciais, uma vez que lucros significativos podem ser obtidos assim que o projeto for lançado.

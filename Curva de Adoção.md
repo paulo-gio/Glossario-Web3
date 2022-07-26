@@ -1,3 +1,3 @@
-### Curva de Adoção (Adoption Curve)
+# Curva de Adoção (Adoption Curve)
 
 A curva de adoção indica o ritmo de adoção de uma nova tecnologia pelas pessoas. Também pode envolver a segregação do público-alvo para entender a disposição do mercado. Ela é uma ilustração das etapas em que a adoção de uma inovação tecnológica cresce em um mercado. Quando algo novo entra no mercado, seja um novo modelo de carro ou uma ferramenta/conceito tecnológico inteiramente novo, não é adotado de uma só vez. No início, apenas algumas pessoas experimentam antes de chegar às massas. À medida que começam a ser adotadas por mais pessoas, cada geração de adotantes abre caminho para a próxima tornar a tecnologia melhor. Esse processo de adoção pode ser observado em uma variedade de mercados onde diferentes setores de um mercado entram em cena com um novo produto ou tecnologia em diferentes estágios e por diferentes motivos.

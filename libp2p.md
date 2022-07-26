@@ -1,3 +1,3 @@
-### libp2p
+# libp2p
 
 libp2p é um _framework_ de rede que permite escrever aplicativos ponto a ponto (p2p) descentralizados. Ele evoluiu do IPFS e se tornou um projeto independente. O libp2p fornece soluções flexíveis para elementos p2p essenciais, como transporte, segurança, roteamento entre pares e descoberta de conteúdo. Ele consiste em um catálogo de módulos a partir do qual os desenvolvedores de redes p2p podem selecionar e reutilizar apenas os protocolos necessários, facilitando a atualização e a interoperabilidade entre os aplicativos. libp2p tem implementações em Go, JavaScript, Rust, Python e C++.

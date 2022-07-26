@@ -1,3 +1,3 @@
-### Liquidez Bloqueada (Locked Liquidity)
+# Liquidez Bloqueada (Locked Liquidity)
 
 Em um projeto de criptomoedas, a liquidez bloqueada significa que os _tokens_ da _pool_ de liquidez estão bloqueados em um contrato inteligente de bloqueio de tempo. Isso geralmente envolve o uso de algum tipo de serviço externo para impedir que a _pool_ de liquidez seja acessada por qualquer pessoa, incluindo os desenvolvedores do projeto. Portanto, os _tokens_ bloqueados na _pool_ não podem ser gastos ou movidos antes do tempo especificado. Deve-se notar que a liquidez bloqueada não significa que a equipe de desenvolvimento desistiu da propriedade da _pool_, significa simplesmente que eles não podem tocar nos _tokens_ dentro de um período de tempo específico.

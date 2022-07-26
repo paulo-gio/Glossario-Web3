@@ -1,3 +1,3 @@
-### Sidechain (Blockchain Lateral, Blockchain Secundária, Cadeia Lateral)
+# Sidechain (Blockchain Lateral, Blockchain Secundária, Cadeia Lateral)
 
 Uma _sidechain_ é uma _blockchain_ conectada ou vinculada a outra _blockchain_ por meio de um protocolo de valores fixos bidirecionais. Isso significa que se pode mover um valor da primeira _blockchain_ para a segunda e vice-versa, bloqueando o valor na primeira _blockchain_ e desbloqueando-o na outra. Através deste conceito, é provável que tenhamos uma rede interoperável de computadores no futuro.

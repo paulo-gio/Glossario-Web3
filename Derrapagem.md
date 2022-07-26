@@ -1,3 +1,3 @@
-### Derrapagem (Slippage)
+# Derrapagem (Slippage)
 
 No mundo das criptomoedas, a derrapagem é a diferença entre o preço que você definiu para um pedido e o preço pelo qual o pedido realmente é executado. A derrapagem geralmente é expressa como uma porcentagem, por exemplo, 0,5%, 1% ou 10%. As _exchanges_ descentralizadas, como Uniswap e PancakeSwap, geralmente exigem que os usuários insiram um valor de derrapagem antes de negociar. A derrapagem pode ser vista como sua tolerância à flutuação de preços. Em outras palavras, quanto aumento/diminuição de preço você está disposto a aceitar ao comprar/vender. Por exemplo, se você comprar um _token_ com preço de R$1,00 com uma derrapagem de 10%, isso significa que seus pedidos podem ser atendidos a preços entre R$1,00 e R$1,10. Se o preço do _token_ exceder sua tolerância de derrapagem enquanto o pedido estiver em andamento, seu pedido não será executado.

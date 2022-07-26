@@ -1,3 +1,3 @@
-### Crowdfunding (Financiamento Coletivo)
+# Crowdfunding (Financiamento Coletivo)
 
 _Crowdfunding_ é o uso de pequenas quantias de capital de um grande número de indivíduos para financiar um novo empreendimento. O _crowdfunding_ faz uso da fácil acessibilidade de vastas redes de pessoas por meio de mídias sociais e sites de _crowdfunding_ para reunir investidores e empreendedores, com o potencial de aumentar o empreendedorismo, expandindo este conjunto de investidores para além do círculo tradicional de proprietários, investidores e capitalistas de risco.

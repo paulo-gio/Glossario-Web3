@@ -1,3 +1,3 @@
-### Moeda Fiduciária (Fiat Money)
+# Moeda Fiduciária (Fiat Money)
 
 Uma moeda fiduciária é uma moeda que foi estabelecida como uma forma válida de dinheiro, normalmente apoiada por um regulamento governamental que a declara ter curso legal. O termo _fiat_ vem do latim e como uma palavra usada para descrever um decreto, ordem ou resolução do governo. Por definição, a moeda fiduciária é uma moeda que não possui nenhum valor intrínseco, pois não é apoiada por uma mercadoria física e geralmente é feita de um material sem valor ou de baixo valor (como um pequeno pedaço de papel). Mesmo assim, o dinheiro fiduciário é amplamente aceito como meio de pagamento.
