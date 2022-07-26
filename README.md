@@ -1,4 +1,4 @@
-## Glossário     
+# Glossário Web3
 
 Bem-vindo! :blue_book:
 
