@@ -1,6 +1,4 @@
-# Glossário Web3
-
-Bem-vindo! :blue_book:
+# Bem-vindos!
 
 Este glossário possui termos e palavras relacionadas com novas tendências e evoluções das Tecnologias da Informação, Interatividade e Finanças, como Web3, Blockchain, Criptomoedas e Tokens, NFTs, Sistemas Descentralizados, Metaverso, Contratos Inteligentes, IoT, IA, Sistemas Interplanetários, e mais.
 
