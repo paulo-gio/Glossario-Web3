@@ -1,3 +1,7 @@
+# Glossário Web3
+
+* [Read Me](readme.md)
+
 ## A
 
 * [ABI, Application Binary Interface (Interface Binária de Aplicativos)](ABI.md)
