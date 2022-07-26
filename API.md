@@ -1,3 +1,3 @@
-### API - Interface de Programação de Aplicativos (Application Programming Interface)
+# API - Interface de Programação de Aplicativos (Application Programming Interface)
 
 Uma interface de programação de aplicativos, ou API, permite que as empresas abram os dados e a funcionalidade de seus aplicativos para desenvolvedores externos de terceiros, parceiros de negócios e departamentos internos de suas empresas. Isso permite que serviços e produtos se comuniquem e aproveitem os dados e a funcionalidade uns dos outros por meio de uma interface documentada. Os desenvolvedores não precisam saber como uma API é implementada; eles simplesmente usam a interface para se comunicar com outros produtos e serviços. O uso de APIs aumentou na última década, a ponto de muitos dos aplicativos da _web_ mais populares hoje não seriam possíveis sem APIs.
