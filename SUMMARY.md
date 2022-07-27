@@ -250,6 +250,7 @@
 * [Hard Cap (Limite Máximo de Capitalização)](Hard%20Cap.md)
 * [Hard Fork](Hard%20Fork.md)
 * [Hardware](Hardware.md)
+* [Hashcash](Hashcash.md)
 * [Hiperinflação (Hyperinflation)](Hiperinfla%C3%A7%C3%A3o.md)
 * [HODL](HODL.md)
 * [Honeypot Scam (Golpe Honeypot, Golpe do Pote de Mel)](Honeypot%20Scam.md)
