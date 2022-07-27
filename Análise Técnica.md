@@ -1,3 +1,3 @@
-# Análise Técnica (TA, Technical Analysis)
+# Análise Técnica, AT (TA, Technical Analysis)
 
-TA é um acrônimo para _Technical Analysis_. A análise técnica é definida como um grupo de técnicas usadas para avaliar o valor de uma criptomoeda com base em estatísticas, volume e gráficos de preços. Envolve fazer negócios usando dados obtidos de ferramentas que realizam vários cálculos matemáticos. O objetivo final da AT é identificar tendências e padrões de mercado específicos para auxiliar na tomada de decisões financeiras.
+A análise técnica é definida como um grupo de técnicas usadas para avaliar o valor de uma criptomoeda com base em estatísticas, volume e gráficos de preços. Envolve fazer negócios usando dados obtidos de ferramentas que realizam vários cálculos matemáticos. O objetivo final da AT é identificar tendências e padrões de mercado específicos para auxiliar na tomada de decisões financeiras.
