@@ -1,0 +1,3 @@
+# Hashcash  
+
+Hashcash é um sistema [_Proof-of-Work_](Proof-of-Work.md) (prova de trabalho) usado para limitar _spam_ de e-mails e ataques de negação de serviço (DoS) e, mais recentemente, tornou-se conhecido por seu uso no [bitcoin](Bitcoin.md) (e outras criptomoedas) como parte do algoritmo de [mineração](Minera%C3%A7%C3%A3o.md). Hashcash foi proposto em 1997 por [Adam Back](Adam%20Back.md) e descrito mais formalmente no artigo de Back de 2002 "_Hashcash - A Denial of Service Counter-Measure_".
