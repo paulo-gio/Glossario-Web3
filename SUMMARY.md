@@ -192,6 +192,7 @@
 
 * [Economia dos Memes (Meme Economy)](Economia%20dos%20Memes.md)
 * [EEA, Enterprise Ethereum Alliance](EEA.md)
+* [EIP-1](EIP-1.md)
 * [Endereço Blockchain (Blockchain Address)](Endere%C3%A7o%20Blockchain.md)
 * [Endereço Personalizado (Vanity Address)](Endere%C3%A7o%20Personalizado.md)
 * [Endereço Sigiloso (Stealth Address)](Endere%C3%A7o%20Sigiloso.md)
@@ -199,6 +200,7 @@
 * [Equipamento de Mineração (Mining Rig, Mining Equipment)](Equipamento%20de%20Minera%C3%A7%C3%A3o.md)
 * [ERC-20](ERC-20.md)
 * [ERC-721](ERC-721.md)
+* [ERC-777](ERC-777.md)
 * [ERC-1155](ERC-1155.md)
 * [Escrow (Custódia)](Escrow.md)
 * [Esquema Ponzi (Ponzi Scheme)](Esquema%20Ponzi.md)
@@ -231,6 +233,7 @@
 
 * [GAFAM (Big Tech)](GAFAM.md)
 * [GameFi](GameFi.md)
+* [Gancho (Hook)](Gancho.md)
 * [Ganhos (Gains)](Ganhos.md)
 * [Gas](Gas.md)
 * [Gasto Duplo (Double Spending)](Gasto%20Duplo.md)
