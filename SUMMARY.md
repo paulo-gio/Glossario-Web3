@@ -62,7 +62,7 @@
 * [BEP-721](BEP-721.md)
 * [Bid-Ask Spread (Spread Bid-Ask)](Bid-Ask%20Spread.md)
 * [Binance](Binance.md)
-* [Binance Chain, BSC](Binance%20Chain.md)
+* [Binance Chain, BC](Binance%20Chain.md)
 * [Binance Labs](Binance%20Labs.md)
 * [Binace Launchpad](Binance%20Launchpad.md)
 * [Binance Smart Chain, BSC](Binance%20Smart%20Chain.md)
