@@ -91,6 +91,7 @@
 * [Bloco Canônico (Canonical Block)](Bloco%20Can%C3%B4nico.md)
 * [Bloco Gênesis (Genesis Block)](Bloco%20G%C3%AAnesis.md)
 * [Bloco Órfão (Orphan Block)](Bloco%20%C3%93rf%C3%A3o.md)
+* [BNB, Binance Coin](BNB.md)
 * [Bolha (Bubble)](Bolha.md)
 * [Bored Ape Yatch Club](Bored%20Ape%20Yacht%20Club.md)
 * [Bot](Bot.md)

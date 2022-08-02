@@ -1,0 +1,3 @@
+# BNB, Binance Coin
+
+A Binance Coin é a [criptomoeda](Criptomoedas.md) emitida pela [_exchange_](Exchange.md) [Binance](Binance.md) e é negociada com o símbolo BNB. Até o segundo trimestre de 2022, a Binance Exchange é considerada a maior exchange de criptomoedas do mundo, com um volume de US$ 7,6 bilhões. O BNB foi inicialmente baseado na rede [Ethereum](Ethereum.md), mas agora é a moeda nativa da própria _blockchain_ da Binance, a [Binance Chain](Binance%20Chain.md). A cada trimestre, a Binance usa um quinto de seus lucros para recomprar e destruir permanentemente, ou "queimar", as moedas BNB mantidas em seu tesouro.
