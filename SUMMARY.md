@@ -412,7 +412,7 @@
 * [Proof-of-Developer, PoD (Prova de Desenvolvedor)](Proof-of-Developer.md)
 * [Proof-of-Stake, PoS (Prova de Stake, Prova de Participação)](Proof-of-Stake.md)
 * [Proof-of-Work, PoW (Prova de Trabalho)](Proof-of-Work.md)
-* [Proposta de Melhoria da Ethereum (EIP, Ethereum Improvement Proposal)](Proposta%20de%20Melhoria%20Ethereum.md)
+* [Proposta de Melhoria da Ethereum (EIP, Ethereum Improvement Proposal)](Proposta%20de%20Melhoria%20da%20Ethereum.md)
 * [Proposta de Melhoria do Bitcoin (Bitcoin Improvement Proposal, BIP)](Proposta%20de%20Melhoria%20do%20Bitcoin.md)
 * [Protocolo 0x (0x Protocol)](Protocolo%200x.md)
 * [Prova de Conhecimento Zero, Protocolo de Conhecimento Zero (Zero Knowledge Proof, ZKP)](Prova%20de%20Conhecimento%20Zero.md)
