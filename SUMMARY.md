@@ -160,7 +160,7 @@
 * [Crowdsourcing (Terceirização Coletiva)](Crowdsourcing.md)
 * [Cruz da Morte (Death Cross)](Cruz%20da%20Morte.md)
 * [Cruz Dourada (Golden Cross)](Cruz%20Dourada.md)
-* [Cryptjacking](Cryptojacking.md)
+* [Cryptojacking](Cryptojacking.md)
 * [CryptoPunks](CryptoPunks.md)
 * [Cunhagem (Minting)](Cunhagem.md)
 * [Curva de Adoção (Adoption Curve)](Curva%20de%20Ado%C3%A7%C3%A3o.md)
