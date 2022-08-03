@@ -503,6 +503,7 @@
 * [Token de Reflexão (Reflection Token)](Token%20de%20Reflex%C3%A3o.md)
 * [Token de Segurança (Security Token)](Token%20de%20Seguran%C3%A7a.md)
 * [Token Encapsulado (Wrapped Token)](Token%20Encapsulado.md)
+* [Token Gating (Restrição por Token)](Token%20Gating.md)
 * [Token Lastreado (Asset-Backed Token)](Token%20Lastreado.md)
 * [Token Metrics (Métricas de Divisão de Tokens)](Token%20Metrics.md)
 * [Token Utilitário (Utility Token)](Token%20Utilit%C3%A1rio.md)
