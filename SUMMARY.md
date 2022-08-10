@@ -251,7 +251,7 @@
 ## H
 
 * [Hacker Black Hat, Hacker de Chapéu Preto, Hacker Malicioso (Black Hat Hacker)](Hacker%20Black%20Hat.md)
-* [Hacker White Hat, Hacker de Chapéu Branco, Hacker Ético (White Hat Hacker))](Hacker%20White%20Hat.md)
+* [Hacker White Hat, Hacker de Chapéu Branco, Hacker Ético (White Hat Hacker)](Hacker%20White%20Hat.md)
 * [Hal Finney](Hal%20Finney.md)
 * [Halving (Redução à Metade)](Halving.md)
 * [Hard Cap (Limite Máximo de Capitalização)](Hard%20Cap.md)
