@@ -1,3 +1,3 @@
 # Camada 3 (Layer 3)
 
-A _blockchain_ de Camada 3 também é chamada de “Camada de Aplicativos”. A principal tarefa desta camada é hospedar os dApps e muitos outros protocolos que habilitam outros aplicativos. Aqui, o protocolo _blockchain_ é dividido em duas subcamadas significativas, ou seja, aplicação e execução. É a solução mais diminuta e ao mesmo tempo mais potente, feita para separar _blockchains_ com recursos _cross-chain_ e para atingir o objetivo de interoperabilidade real.
+A _blockchain_ de Camada 3 também é chamada de “Camada de Aplicativos”. A principal tarefa desta camada é hospedar os [dApps](dApp.md) e muitos outros protocolos que habilitam outros aplicativos. Aqui, o protocolo _blockchain_ é dividido em duas subcamadas significativas, ou seja, aplicação e execução. É a solução mais diminuta e ao mesmo tempo mais potente, feita para separar _blockchains_ com recursos [_cross-chain_](Cross-Chain.md) e para atingir o objetivo de interoperabilidade real.

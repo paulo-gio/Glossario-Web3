@@ -1,3 +1,3 @@
 # Camada 1 (Layer 1)
 
-A _blockchain_ de Camada 1 é um avanço da Camada 0. Sob essa camada, a rede _blockchain_ é mantida funcionalmente. No entanto, o dimensionamento é uma limitação na _blockchain_ de Camada 1. Quaisquer alterações e problemas que surjam no novo protocolo da Camada 0 também afetarão a Camada 1. Também é chamada de Camada de Implementação. Exemplos de _blockchain_ de Camada 1 são Bitcoin, Ethereum, Cardano, Ripple, etc.
+A _blockchain_ de Camada 1 é um avanço da [Camada 0](Camada%200.md). Sob essa camada, a rede _blockchain_ é mantida funcionalmente. No entanto, o dimensionamento é uma limitação na _blockchain_ de Camada 1. Quaisquer alterações e problemas que surjam no novo protocolo da Camada 0 também afetarão a Camada 1. Também é chamada de Camada de Implementação. Exemplos de _blockchain_ de Camada 1 são [Bitcoin](Bitcoin.md), [Ethereum](Ethereum.md), Cardano, Ripple, etc.
