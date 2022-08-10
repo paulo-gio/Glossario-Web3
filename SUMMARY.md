@@ -103,7 +103,6 @@
 ## C
 
 * [Cabeçalho do Bloco (Block Header)](Cabe%C3%A7alho%20do%20Bloco.md)
-* [Cadeia Cruzada (Cross-Chain)](Cadeia%20Cruzada.md)
 * [Camada 0 (Layer 0)](Camada%200.md)
 * [Camada 1 (Layer 1)](Camada%201.md)
 * [Camada 2 (Layer 2)](Camada%202.md)
@@ -155,6 +154,7 @@
 * [CRDT, Conflict-Free Replicated Data Type (Tipo de Dado Replicado Sem Conflito)](CRDT.md)
 * [Criptografia, Encriptação, Cifragem (Cryptography, Encryption, Ciphering)](Criptografia.md)
 * [Criptomoeda (Cryptocurrency)](Criptomoedas.md)
+* [Cross-Chain (Cadeia Cruzada)](Cross-Chain.md)
 * [Crowdfunding (Financiamento Coletivo)](Crowdfunding.md)
 * [Crowdsale (Venda Coletiva)](Crowdsale.md)
 * [Crowdsourcing (Terceirização Coletiva)](Crowdsourcing.md)
