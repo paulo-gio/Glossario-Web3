@@ -149,7 +149,7 @@
 * [ConsenSys](ConsenSys.md)
 * [Conta (Account)](Conta.md)
 * [Conta-Contrato (Contract Account)](Conta-Contrato.md)
-* [Contato Inteligente (Smart Contract)](Contrato%20Inteligente.md)
+* [Contrato Inteligente (Smart Contract)](Contrato%20Inteligente.md)
 * [Correção (Correction)](Corre%C3%A7%C3%A3o.md)
 * [CRDT, Conflict-Free Replicated Data Type (Tipo de Dado Replicado Sem Conflito)](CRDT.md)
 * [Criptografia, Encriptação, Cifragem (Cryptography, Encryption, Ciphering)](Criptografia.md)
