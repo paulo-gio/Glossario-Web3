@@ -37,7 +37,7 @@
 * [Ataque de Força Bruta (Brute Force Attack, BFA)](Ataque%20de%20For%C3%A7a%20Bruta.md)
 * [Ataque de Poeira, Ataque de Empoeiramento (Dusting Attack, Dust Attack)](Ataque%20de%20Poeira.md)
 * [Ataque dos 51% (51% Attack, Majority Attack)](Ataque%20dos%2051%25.md)
-* [Atomic Swap](Atomic%20Swap.md)
+* [Atomic Swap, Token Swap (Troca Atômica, Troca de Tokens, Swap de Tokens)](Atomic%20Swap.md)
 * [AtomicDEX](AtomicDEX.md)
 * [Ator (Actor)](Ator.md)
 * [Auditoria de Tokens (Token Audit)](Auditoria%20de%20Tokens.md)
@@ -212,8 +212,7 @@
 * [EVM, Ethereum Virtual Machine (Máquina Virtual Ethereum)](EVM.md)
 * [Exchange, Fiat On-Ramp (Corretora de Ativos, Bolsa de Ativos)](Exchange.md)
 * [Explorações de Falhas, Explorações de Bugs (Bug Exploit)](Explora%C3%A7%C3%B5es%20de%20Falhas.md)
-* [Explorador de Blockchain (Blockchain Explorer)](Explorador%20de%20Blockchain.md)
-* [Explorador de Blocos (Block Explorer)](Explorador%20de%20Blocos.md)
+* [Explorador de Blockchain, Explorador de Blocos (Blockchain Explorer, Block Explorer)](Explorador%20de%20Blockchain.md)
 
 ## F
 

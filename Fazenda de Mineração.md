@@ -1,3 +1,3 @@
 # Fazenda de Mineração (Mining Farm)
 
-Uma fazenda de mineração é uma sala ou armazém dedicado à mineração de criptomoedas. A fazenda pode ser o porão de uma casa com 2 máquinas ASIC ou um grande armazém com vários GPUs e ASICs. As maiores fazendas de mineração contêm grandes fontes de alimentação, grandes ventiladores para resfriar os equipamentos, dezenas, centenas ou até milhares de processadores e várias pessoas na operação.
+Uma fazenda de [mineração](Minera%C3%A7%C3%A3o.md) é uma sala ou armazém dedicado à mineração de [criptomoedas](Criptomoedas.md). A fazenda pode ser o porão de uma casa com 2 máquinas [ASIC](ASIC.md) ou um grande armazém com vários GPUs e ASICs. As maiores fazendas de mineração contêm grandes fontes de alimentação, grandes ventiladores para resfriar os equipamentos, dezenas, centenas ou até milhares de processadores e várias pessoas na operação.

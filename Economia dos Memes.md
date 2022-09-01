@@ -1,3 +1,3 @@
 # Economia dos Memes (Meme Economy)
 
-A economia dos memes é uma noção satírica e uma subcultura online na qual os memes são tratados em linguagem financeira como se fossem mercadorias ou bens de capital com preços variados. Ela gerou uma série de empreendimentos derivados, construídos em torno da infraestrutura do mercado de memes falsos desde a sua criação como um comunidade controversa do Reddit, */r/memeEconomy*, em 2016.
+A economia dos memes é uma noção satírica e uma subcultura online na qual os memes são tratados em linguagem financeira como se fossem mercadorias ou bens de capital com preços variados. Ela gerou uma série de empreendimentos derivados, construídos em torno da infraestrutura do mercado de memes falsos desde a sua criação como um comunidade controversa do Reddit, [memeEconomy](https://www.reddit.com/r/MemeEconomy/), em 2016.
