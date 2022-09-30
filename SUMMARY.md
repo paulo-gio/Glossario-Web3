@@ -242,7 +242,7 @@
 * [Gemas (Gems)](Gemas.md)
 * [GitHub](GitHub.md)
 * [Golpe de Saída (Exit Scam)](Golpe%20de%20Sa%C3%ADda.md)
-* [Governança On-Chain (On-Chain Governance)](Governan%C3%A7a%20On-Chain.md)
+* [Governança On-Chain, Governança na Blockchain (On-Chain Governance)](Governan%C3%A7a%20On-Chain.md)
 * [Gráfico de Velas (Candlestick Chart)](Gr%C3%A1fico%20de%20Velas.md)
 * [Grafo Acíclico Dirigido (DAG, Directed Acyclic Graph)](Grafo%20Ac%C3%ADclico%20Dirigido.md)
 * [GWEI](GWEI.md)

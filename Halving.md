@@ -1,3 +1,3 @@
 # Halving (Redução à Metade)
 
-No espaço das criptomoedas, o termo _halving_ refere-se a um processo que reduz pela metade a taxa de emissão de novas moedas, quando um limite pré-estabelecido é atingido. Mais precisamente, o _halving_ é a redução periódica da recompensa do bloco fornecido aos mineradores. O _halving_ garante que um criptoativo seguirá uma taxa de emissão constante até que sua oferta máxima seja atingida.
+No espaço das [criptomoedas](Criptomoedas.md), o termo _halving_ refere-se a um processo que reduz pela metade a taxa de emissão de novas moedas, quando um limite pré-estabelecido é atingido. Mais precisamente, o _halving_ é a redução periódica da recompensa do bloco fornecido aos [mineradores](Minerador.md). O _halving_ garante que um criptoativo seguirá uma [taxa de emissão](Taxa%20de%20Emiss%C3%A3o.md) constante até que sua [oferta máxima](Oferta%20M%C3%A1xima.md) seja atingida.
