@@ -199,7 +199,7 @@
 * [Endereço Blockchain (Blockchain Address)](Endere%C3%A7o%20Blockchain.md)
 * [Endereço Personalizado (Vanity Address)](Endere%C3%A7o%20Personalizado.md)
 * [Endereço Sigiloso (Stealth Address)](Endere%C3%A7o%20Sigiloso.md)
-* [Epoch](Epoch.md)
+* [Época (Epoch)](Epoch.md)
 * [Equipamento de Mineração (Mining Rig, Mining Equipment)](Equipamento%20de%20Minera%C3%A7%C3%A3o.md)
 * [ERC-20](ERC-20.md)
 * [ERC-721](ERC-721.md)
@@ -217,7 +217,6 @@
 ## F
 
 * [Fan Token (Tokens de Fãs)](Fan%20Token.md)
-* [Faucet (Torneira)](Faucet.md)
 * [Fazenda de Mineração (Mining Farm)](Fazenda%20de%20Minera%C3%A7%C3%A3o.md)
 * [Firmware](Firmware.md)
 * [FOMO, Fear Of Missing Out (Medo de Perder uma Oportunidade)](FOMO.md)
@@ -508,6 +507,7 @@
 * [Token Utilitário (Utility Token)](Token%20Utilit%C3%A1rio.md)
 * [Tokenização (Tokenization)](Tokeniza%C3%A7%C3%A3o.md)
 * [Tokenomics (Tokenomia)](Tokenomics.md)
+* [Torneira (Faucet))](Faucet.md)
 * [Touro (Bull)](Touro.md)
 * [TPS, Transações por Segundo (Transactions per Second)](TPS.md)
 * [Trading Bot (Robô de Trading, Bot de Trading)](Trading%20Bot.md)
