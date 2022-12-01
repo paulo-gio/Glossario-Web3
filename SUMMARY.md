@@ -507,7 +507,7 @@
 * [Token Utilitário (Utility Token)](Token%20Utilit%C3%A1rio.md)
 * [Tokenização (Tokenization)](Tokeniza%C3%A7%C3%A3o.md)
 * [Tokenomics (Tokenomia)](Tokenomics.md)
-* [Torneira (Faucet))](Torneira.md)
+* [Torneira (Faucet)](Torneira.md)
 * [Touro (Bull)](Touro.md)
 * [TPS, Transações por Segundo (Transactions per Second)](TPS.md)
 * [Trading Bot (Robô de Trading, Bot de Trading)](Trading%20Bot.md)
