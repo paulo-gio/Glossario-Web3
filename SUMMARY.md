@@ -545,7 +545,7 @@
 
 ## Y
 
-* [Yield Farming (Agricultura de Rendimento)](Yield%20Farming.md)
+* [Yield Farming (Agricultura de Rendimento, Cultivo de Rendimento)](Yield%20Farming.md)
 
 
 
