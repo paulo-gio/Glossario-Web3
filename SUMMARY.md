@@ -189,7 +189,7 @@
 * [Dogecoin, DOGE](Dogecoin.md)
 * [Dominância do Bitcoin (Bitcoin Dominance, BTCD)](Domin%C3%A2ncia%20do%20Bitcoin.md)
 * [Dump (Despejo)](Dump.md)
-* [DYOR, Do Your Own Research (Faça Sua Própria Pesquisa)R](DYOR.md)
+* [DYOR, Do Your Own Research (Faça Sua Própria Pesquisa)](DYOR.md)
 
 ## E
 
