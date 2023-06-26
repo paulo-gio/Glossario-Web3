@@ -466,7 +466,7 @@
 * [Shitcoin (Moeda “Inferior”)](Shitcoin.md)
 * [Sidechain (Blockchain Lateral, Blockchain Secundária, Cadeia Lateral)](Sidechain.md)
 * [Silk Road](Silk%20Road.md)
-* [Sistema de Necessidade Mínima de Confiança, Sistema Trustless (Trustless System)](Sistema%20de%20Necessidade%20M%C3%ADnima%20de%20Confian%C3%A7a.md)
+* [Sistema sem Necessidade Mínima de Confiança, Sistema Trustless (Trustless System)](Sistema%20de%20Necessidade%20M%C3%ADnima%20de%20Confian%C3%A7a.md)
 * [Sniper Bot (Robô Sniper, Robô Franco-Atirador)](Sniper%20Bot.md)
 * [Sniping](Sniping.md)
 * [Sobrevendido (Oversold)](Sobrevendido.md)
