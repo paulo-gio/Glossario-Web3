@@ -92,7 +92,7 @@
 * [Bloco Órfão (Orphan Block)](Bloco%20%C3%93rf%C3%A3o.md)
 * [BNB, Binance Coin](BNB.md)
 * [Bolha (Bubble)](Bolha.md)
-* [Bored Ape Yatch Club](Bored%20Ape%20Yacht%20Club.md)
+* [Bored Ape Yacht Club](Bored%20Ape%20Yacht%20Club.md)
 * [Bot (Robô)](Bot.md)
 * [BTD, Buy the Dip (Comprar a Queda, Comprar o Mergulho)](BTD.md)
 * [Bullish (Otimismo Relacionado ao Mercado, Sentimento Altista)](Bullish.md)
