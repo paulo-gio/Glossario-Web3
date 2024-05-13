@@ -1,3 +1,19 @@
-# Buy Wall (Parede de Compra, Muro de Compra) 
+# Buy Wall (Muro de Compra) 
 
-Uma _buy wall_ é uma grande [ordem de compra](Ordem%20de%20Compra.md) colocada em um [livro de ordens](Livro%20de%20Ordens.md) para evitar que uma criptomoeda caia abaixo de um preço específico. Ao colocar um pedido significativo de compra a um preço especificado no livro de ordens, um indivíduo (ou grupo de indivíduos) pode garantir que o preço não fique abaixo do valor definido, a menos que o pedido de compra seja completamente preenchido.
+>"*A estratégia Buy Wall, ou Muro de Compra, é utilizada no mercado de criptomoedas para criar suporte de preço e evitar que o valor de uma moeda digital caia abaixo de um patamar pré-estabelecido. Consiste em alocar uma grande ordem de compra em um livro de ordens a um preço específico, criando uma barreira para as compras no mercado. A buy wall pode desacelerar uma queda nos preços, pois os vendedores podem hesitar em vender abaixo do preço estipulado.*"
+
+Em meio às operações com criptomoedas, uma estratégia que tem despertado a atenção de investidores é a chamada Buy Wall, ou Muro de Compra, que é utilizada como mecanismo para criar suporte de preço e prevenir que o valor de uma moeda digital caia abaixo de um patamar pré-estabelecido. Esta estratégia baseia-se na alocação de uma grande ordem de compra em um livro de ordens a um preço específico, criando uma barreira, ou "muro", para as compras no mercado.
+
+Uma buy wall pode ser implantada por um único investidor ou por um grupo de investidores que demonstram uma forte intenção de adquirir uma quantidade significativa de uma criptomoeda a um preço pré-determinado. Este tipo de ordem pode ter impacto na percepção dos demais participantes do mercado, ao transmitir uma sensação de suporte e confiança em relação ao preço.
+
+A existência de uma buy wall pode frear ou retardar uma queda nos preços. Se houver uma buy wall em vigor, os vendedores podem hesitar em vender suas criptomoedas abaixo do preço estipulado pelo muro de compra. Se o preço da moeda digital cair abaixo do nível da ordem de compra, os vendedores podem ser forçados a uma pressão de venda intensa, o que poderia desencadear um grande volume de negociação a preços mais baixos.
+
+Porém, é importante frisar que a existência de uma buy wall não é garantia de que o preço da moeda não irá cair abaixo do nível estabelecido. Se a pressão vendedora for mais intensa do que a capacidade da buy wall de absorver as vendas, o preço pode, ainda assim, despencar. Outro ponto a se observar é que as buy walls também podem ser desfeitas ou canceladas pelos investidores a qualquer momento, o que pode gerar mudanças abruptas nas condições do mercado.
+
+Geralmente, a criação de uma buy wall exige consideráveis recursos e, por isso, é mais comum entre investidores institucionais ou grupos de investidores com grande poder de compra. Estes agentes possuem a capacidade de influenciar o mercado com suas ordens de compra e, consequentemente, usar a estratégia de buy wall para obter vantagens comerciais.
+
+Apesar de todas estas considerações, os investidores precisam estar atentos ao fato de que a presença de uma buy wall não assegura automaticamente que o preço da criptomoeda irá permanecer acima do nível estabelecido. O mercado de criptomoedas é notoriamente volátil e pode ser influenciado por diversos fatores, como notícias, eventos econômicos e até mesmo o sentimento geral dos investidores.
+
+Outro ponto a ser levado em conta é que as buy walls podem ser usadas como uma estratégia de manipulação do mercado. Investidores com grandes recursos podem criar ordens de compra significativas para gerar uma falsa sensação de suporte, levando outros investidores a acreditar que há uma demanda mais forte do que a realidade demonstra.
+
+Esta forma de manipulação pode levar a uma superavaliação artificial do preço, seguida de uma queda abrupta quando a buy wall é removida ou ultrapassada. Assim, é importante que os investidores estejam cientes desta possibilidade e conduzam suas próprias pesquisas antes de fazerem movimentações baseadas em buy walls.

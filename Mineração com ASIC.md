@@ -1,0 +1,27 @@
+# Mineração com ASICs (ASIC Mining)
+
+>"*A mineração com ASICs, ou Circuitos Integrados Específicos de Aplicação, é um método altamente especializado e eficiente para minerar criptomoedas, envolvendo o uso de hardware projetado especificamente para essa finalidade. Os ASICs são capazes de resolver enigmas de forma rápida e eficaz, mas são caros e levantam preocupações relacionadas à centralização da mineração e ao consumo de energia. Alternativas, como mineração com GPU e CPU, bem como o surgimento de criptomoedas resistentes a ASIC, buscam abordar essas preocupações e promover maior descentralização na mineração de criptomoedas.*"
+
+A mineração de criptomoedas tornou-se um empreendimento altamente especializado nos últimos anos. Essas moedas são geradas através do processo chamado "mineração", que envolve o uso de computadores para resolver enigmas complexos. O desenvolvimento de Circuitos Integrados Específicos de Aplicação, ou ASICs, revolucionou a mineração de criptomoedas, permitindo um processo mais eficiente e rápido.
+
+ASICs são hardwares de computador projetados para realizar uma tarefa muito específica - neste caso, a mineração de criptomoedas. Eles são programados para executar o algoritmo de Prova de Trabalho (PoW) usado por várias criptomoedas. A eficiência e a velocidade desses dispositivos os tornam uma opção muito mais atraente do que a mineração com um computador tradicional (CPU) ou GPUs.
+
+Esses dispositivos trabalham resolvendo enigmas complexos para validar transações e adicionar novos blocos à blockchain. Quando um desses enigmas é resolvido, novas criptomoedas são geradas e concedidas ao minerador que resolveu o enigma. Isso é conhecido como recompensa do bloco.
+
+Por exemplo, a mineração de Bitcoin com ASIC é popular porque esses dispositivos são muito mais eficientes em termos de energia do que outros métodos. No entanto, sua eficiência vem com um custo - eles são muito caros e geralmente estão fora do alcance do minerador médio. Além disso, como os ASICs são projetados para uma tarefa específica, eles são inúteis para qualquer outra coisa além da tarefa.
+
+A mineração de criptomoedas com ASICs tornou-se uma corrida para ter o equipamento mais rápido e eficiente. Em muitos casos, os mineradores juntam-se em pools de mineração, onde combinam seu poder de processamento para resolver os enigmas mais rapidamente. As recompensas de blocos são então distribuídas entre os membros do pool, proporcionando um retorno mais estável e previsível.
+
+No entanto, a mineração de ASIC tem suas desvantagens. Os dispositivos ASIC são notoriamente caros, e a eletricidade necessária para operá-los pode custar mais do que as recompensas de mineração que eles geram. Além disso, a mineração com ASIC é muito menos descentralizada do que a mineração com GPU ou CPU, pois as grandes operações de mineração podem comprar esses dispositivos em grandes quantidades e dominar a rede.
+
+Além disso, o debate ambiental em torno da mineração de criptomoedas tem crescido. O consumo de energia de uma operação de mineração ASIC pode ser substancial, e há preocupações sobre o impacto ambiental disso. Além disso, à medida que a dificuldade de mineração aumenta, também aumenta a demanda por energia.
+
+Além das preocupações ambientais, a mineração de ASIC também levanta questões de centralização. Como mencionado anteriormente, as grandes operações de mineração têm recursos para adquirir grandes quantidades de dispositivos ASIC, o que lhes confere uma vantagem significativa sobre os mineradores individuais. Isso pode levar a uma maior centralização da rede, onde um pequeno número de entidades controla a maior parte do poder de mineração, potencialmente comprometendo a descentralização e a segurança da rede.
+
+Como resposta a essas preocupações, surgiram alternativas à mineração de criptomoedas com ASIC. Uma delas é a mineração com GPU (unidade de processamento gráfico), que utiliza placas de vídeo poderosas para realizar os cálculos necessários. Embora as GPUs sejam menos eficientes em termos de energia do que os ASICs, elas são mais versáteis e podem ser usadas para outras tarefas além da mineração de criptomoedas.
+
+Outra alternativa é a mineração com CPU (unidade de processamento central), que utiliza os processadores dos computadores convencionais para a mineração. No entanto, a mineração com CPU é significativamente mais lenta e menos eficiente em comparação com as outras opções.
+
+Uma tendência recente é o surgimento de criptomoedas projetadas para oferecer resistência à mineração com ASICs, conhecidas como "moedas resistentes a ASIC". Essas criptomoedas são desenvolvidas com algoritmos de mineração que são mais amigáveis às GPUs ou CPUs, dificultando o desenvolvimento de ASICs especializados para mineração. O objetivo é promover uma maior descentralização e participação mais ampla na mineração.
+
+A Prova de Trabalho eventualmente pode se tornar obsoleta, o que tornaria a mineração ASIC obsoleta por extensão. Existem novos métodos de geração de criptomoedas que não requerem mineração ASIC, como a Prova de Participação (PoS). Por meio desse método, os validadores precisam depositar moedas que já possuem para validar novos blocos de informações e não precisam resolver enigmas complexos, como fazem os mineradores de PoW. A Ethereum, por exemplo, realizou a migração do algoritmo de consenso de PoW para PoS em setembro de 2022, em um evento chamado "The Merge", ou "A Fusão". Desde então, a Ethereum opera utilizando esse novo método de consenso.

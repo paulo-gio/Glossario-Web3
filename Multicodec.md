@@ -1,0 +1,21 @@
+# Multicodec
+
+>"*O Multicodec é uma especificação técnica fundamental para o IPFS (InterPlanetary File System) e IPLD (InterPlanetary Linked Data), definindo códigos de identificação padronizados para diferentes formatos de serialização e codecs. Esses códigos são essenciais para a interoperabilidade e compatibilidade entre sistemas que suportam múltiplos codecs. No IPFS e IPLD, o Multicodec é usado para identificar e manipular os formatos de serialização dos dados, permitindo que os nós e aplicativos compreendam e processem adequadamente os dados, independentemente do codec utilizado. Isso promove a interoperabilidade e a expansão contínua desses sistemas descentralizados.*"
+
+O Multicodec é uma especificação técnica essencial no contexto do IPFS (InterPlanetary File System) e IPLD (InterPlanetary Linked Data), sistemas que possibilitam o armazenamento e a troca de informações descentralizadas. Essa especificação estabelece um conjunto de códigos de identificação padronizados para diferentes formatos de serialização e codecs, desempenhando um papel crucial na interoperabilidade e na compatibilidade entre sistemas que suportam múltiplos codecs.
+
+No IPFS, o Multicodec é utilizado para identificar e manipular diferentes formatos de serialização e codecs aplicados aos dados armazenados e trocados na rede. Cada dado no IPFS recebe uma identificação única chamada CID (Content Identifier), composta por um Multihash (identificador de conteúdo) e um código de identificação do Multicodec.
+
+Esse código Multicodec presente no CID indica o formato de serialização ou codec utilizado para representar os dados. Por exemplo, um CID com o código Multicodec DAG-CBOR indica que os dados estão serializados utilizando o formato Concise Binary Object Representation (CBOR). Da mesma forma, um CID com o código DAG-PB indica que os dados estão serializados em formato Protobuf (Protocol Buffers).
+
+Ao incluir o código Multicodec no CID, os nós e aplicativos do IPFS podem identificar corretamente o formato de serialização dos dados e utilizar o codec apropriado para a desserialização. Isso permite a interoperabilidade entre diferentes nós do IPFS, garantindo que os dados possam ser devidamente compreendidos e processados, independentemente do codec utilizado para a serialização.
+
+No IPLD, o Multicodec desempenha um papel semelhante. Ele é utilizado para identificar e manipular diferentes formatos de serialização e codecs aplicados aos dados vinculados na estrutura do IPLD. Através do Multicodec, é possível representar e trocar dados vinculados em diferentes formatos e codecs.
+
+Por exemplo, um código Multicodec definido como RAW pode ser utilizado para representar um objeto de dados não serializado em formato bruto dentro de uma estrutura de dados do IPLD. Essa identificação permite que os aplicativos IPLD compreendam a representação e o formato dos dados, permitindo a navegação e o acesso apropriados.
+
+Como outro exemplo da utilização do Multicodec, vamos considerar uma caso de uso comum. Suponha que um usuário do IPFS queira armazenar um documento JSON na rede. Ao serializar o documento JSON, o usuário associará o código Multicodec DAG-JSON ao CID resultante. Esse CID pode então ser utilizado para referenciar e recuperar o documento JSON de outros nós do IPFS. Ao receber esse CID, os nós e aplicativos do IPFS entenderão que o documento está serializado em formato JSON e usarão o codec apropriado para desserializá-lo e recuperar os dados originais.
+
+O Multicodec também permite a evolução e expansão do IPFS e do IPLD, pois novos codecs e formatos de serialização podem ser adicionados ao conjunto de códigos padronizados. Isso significa que à medida que novas tecnologias e padrões de codificação surgem, é possível incorporá-los ao ecossistema existente, garantindo a compatibilidade e a interoperabilidade contínuas entre os sistemas.
+
+A padronização proporcionada pelo Multicodec é crucial para a descentralização e a interoperabilidade dos sistemas baseados em IPFS e IPLD. Ele permite que diferentes implementações e sistemas independentes se comuniquem de forma eficiente, trocando informações sem ambiguidade sobre os formatos de serialização e codecs utilizados.

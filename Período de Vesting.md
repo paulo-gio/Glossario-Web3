@@ -1,3 +1,0 @@
-# Período de Vesting, Período de Impedimento (Vesting Period)
-
-Nos lançamentos de criptomoedas, o período de _vesting_ é o período de tempo em que os _tokens_ vendidos na pré-venda são impedidos de serem vendidos no mercado aberto. Isso é feito usando contratos inteligentes que limitam a capacidade de gastos de determinados endereços de carteiras. O impedimento geralmente se aplica a desenvolvedores e outros membros da equipe do projeto. No entanto, alguns investidores de pré-venda ou venda privada também podem ser impedidos e proibidos de vender por um período específico após o lançamento. O período de _vesting_ geralmente é determinado pelos desenvolvedores do projeto e é feito por vários motivos, incluindo estabilização de preço e liquidez.

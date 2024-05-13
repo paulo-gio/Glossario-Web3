@@ -1,3 +1,27 @@
-# Capitalização de Mercado (Market Capitalization)
+# Capitalização de Mercado (Market Capitalization, Market Cap)
 
-A capitalização de mercado é uma medida do valor total em dólares de um projeto de [criptomoeda](Criptomoedas.md) ou _blockchain_. É calculado multiplicando o número de moedas atualmente em circulação pelo último preço unitário da moeda ou _token_. É normalmente usado como uma métrica para classificar e avaliar o tamanho e o valor de um ativo de criptomoeda. Na verdade, a maioria dos sites de rastreamento de preços de criptomoedas classifica as criptomoedas de acordo com seu valor de mercado por padrão.
+>"*A capitalização de mercado é uma métrica fundamental usada para avaliar o valor de mercado de uma entidade ou ativo, seja uma empresa no mercado de ações ou uma criptomoeda no mundo digital. Ela é calculada multiplicando o número total de ações ou moedas em circulação pelo preço atual de cada unidade. Essa métrica fornece uma indicação do tamanho e estabilidade de uma empresa ou ativo, permitindo comparações relativas e insights sobre sua posição competitiva.*"
+
+A Capitalização de Mercado, ou Market Cap, é uma métrica fundamental utilizada no universo financeiro para avaliar o valor de mercado de uma entidade ou de ativos financeiros, sejam empresas no mercado de ações ou criptomoedas no mundo digital. Esse valor é derivado da multiplicação do número total de ações ou unidades do ativo pelo preço atual dessas unidades.
+
+No mercado financeiro tradicional, a capitalização de mercado de uma empresa fornece uma indicação do tamanho e da estabilidade da empresa. Corporações de grande porte como Amazon, Apple e Microsoft têm uma capitalização de mercado que atinge a marca dos trilhões de dólares. Isso não apenas reflete o tamanho substancial dessas empresas, mas também sugere um grau de segurança - essas empresas são consideradas menos arriscadas para investimentos em comparação com empresas menores com capitalizações de mercado menores.
+
+Mas o valor da capitalização de mercado vai além de simplesmente indicar o tamanho de uma empresa. Ela também é uma ferramenta útil para comparações relativas, permitindo aos investidores comparar o tamanho relativo de diferentes empresas e calcular a participação de mercado de uma empresa em relação ao valor total do mercado em que opera. Isso pode oferecer insights valiosos sobre a posição competitiva de uma empresa e seu potencial de crescimento.
+
+No contexto de ativos financeiros, mais especificamente no campo das criptomoedas e blockchains, o conceito de capitalização de mercado é semelhante, mas a aplicação difere um pouco. No lugar de ações de empresas, lidamos com tokens ou moedas digitais. Portanto, a capitalização de mercado de uma criptomoeda é calculada multiplicando o número total de moedas ou tokens em circulação pelo preço atual de cada moeda ou token.
+
+Assim como em outros mercados, a capitalização de mercado é uma métrica importante no ecossistema de criptomoedas. Ela fornece uma indicação do valor total de uma criptomoeda e é frequentemente usada para classificá-las em termos de tamanho relativo e importância total no mercado.
+
+No entanto, é importante ressaltar que a capitalização de mercado, embora útil, tem suas limitações e não deve ser usada isoladamente ao avaliar uma criptomoeda. Primeiro, a capitalização de mercado não considera a liquidez do mercado. Uma criptomoeda pode ter uma alta capitalização de mercado porque possui um grande número de moedas em circulação, mas se essas moedas não estão sendo ativamente negociadas, a liquidez dessa criptomoeda será baixa.
+
+Em segundo lugar, a capitalização de mercado não revela a distribuição de propriedade de uma criptomoeda. Em algumas circunstâncias, uma pequena quantidade de atores, conhecidos como "baleias", pode possuir uma grande porcentagem de todas as moedas em circulação. Isso pode levar a uma manipulação de mercado, criando uma falsa impressão de liquidez e valor.
+
+Além disso, a capitalização de mercado não leva em consideração outros fatores importantes que podem influenciar o valor intrínseco de uma criptomoeda. Isso inclui a qualidade da tecnologia blockchain subjacente, a competência e confiabilidade da equipe de desenvolvimento, a utilidade e demanda potencial do token, e a viabilidade a longo prazo do projeto.
+
+Ainda nesse contexto, a volatilidade é uma característica definidora e isso se reflete na capitalização de mercado. O preço das criptomoedas pode sofrer flutuações dramáticas em curtos períodos de tempo devido a eventos de notícias, mudanças regulatórias, manipulação de mercado, mudanças na percepção dos investidores, e outros fatores. Essas flutuações de preços afetam diretamente a capitalização de mercado.
+
+No que diz respeito aos aspectos técnicos, o cálculo da capitalização de mercado é relativamente simples, mas pode haver variações na maneira como diferentes plataformas contabilizam o fornecimento total de moedas. Algumas plataformas podem considerar apenas as moedas que foram mineradas e estão em circulação, enquanto outras podem incluir moedas que ainda não foram mineradas ou que estão bloqueadas em contratos inteligentes.
+
+A capitalização de mercado totalmente diluída é outra métrica que considera a capitalização de mercado que uma criptomoeda teria se todas as moedas ou tokens possíveis fossem emitidos. Esta é uma métrica importante para criptomoedas que têm um mecanismo de emissão programado ou controlado.
+
+A capitalização de mercado é uma ferramenta vital para avaliar o valor total e a importância relativa de uma criptomoeda. No entanto, ela deve ser usada em conjunto com outras métricas e análises para obter uma compreensão mais completa e precisa do valor e do potencial de um ativo digital. E, como sempre, os investidores devem fazer sua própria pesquisa e possivelmente procurar o conselho de consultores financeiros antes de fazer um investimento.

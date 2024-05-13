@@ -1,0 +1,31 @@
+# Multihash
+
+>"*O Multihash é um protocolo essencial que padroniza a identificação de funções de hash criptográficas, permitindo que várias funções de hash coexistam e tornando as aplicações à prova de futuro. Ele utiliza uma estrutura que inclui o código da função de hash, o tamanho do resumo e o próprio resumo em uma representação binária ou codificada. Isso é valioso para sistemas como o IPFS e IPLD, onde diferentes funções de hash podem ser usadas para endereçar conteúdo de forma descentralizada e garantir a resiliência e adaptabilidade dessas redes. O Multihash é uma peça fundamental na construção de uma internet descentralizada e distribuída.*"
+
+O Multihash é um protocolo desenvolvido para diferenciar saídas de várias funções de hash criptográficas bem estabelecidas, lidando com considerações de tamanho e codificação. Esse protocolo é útil para escrever aplicações que tornam seu uso de hashes à prova de futuro e permitem que várias funções de hash coexistam. O Multihash oferece uma maneira robusta e flexível de gerenciar hashes, fornecendo um sistema à prova de futuro que pode se adaptar às mudanças e evoluções nas tecnologias de hash.
+
+A estrutura de um Multihash consiste em três partes principais: o código da função de hash, o tamanho do resumo (digest) e o próprio resumo. Cada parte é representada em `varint`, que é uma representação binária de um número inteiro que usa um número variável de bytes. A estética preferida coloca o código da função primeiro, seguido pelo tamanho do resumo e, em seguida, pelo resumo em si.
+
+Vamos considerar um exemplo binário simples para entender melhor o formato. Suponha que temos um código de função de hash '00010001' representando SHA-1, um tamanho de resumo '00000100' representando 4 bytes, e um resumo '10110110 11111000 01011100 10110101'. Essas três partes combinadas formam nosso Multihash.
+
+Os Multihashes podem ser codificados em várias bases, incluindo hexadecimal, base32, base58 e base64. A adoção do Multihash implica a aceitação de uma tabela de funções. No entanto, essa não é uma barreira significativa, pois já existe uma necessidade de concordar com as funções. A tabela deixa espaço para códigos de função personalizados, proporcionando flexibilidade e capacidade de expansão.
+
+O Multihash é implementado em uma variedade de linguagens de programação, incluindo Clojure, C++, Dart, Elixir, Go, Haskell, JavaScript, Java, Kotlin, .NET, Nim, OCaml, PHP, Python, Ruby, Rust, Scala e Swift. Isso demonstra a versatilidade e a ampla aceitação do Multihash na comunidade de desenvolvimento.
+
+Uma nota importante é que, embora o Multihash inclua funções de hash obsoletas e depreciadas como MD4, MD5 e SHA-1, essas funções não devem ser usadas para propósitos criptográficos. Elas são incluídas apenas porque muitos desses hashes já existem e não fornecem o mesmo nível de segurança que as funções de hash mais modernas, como SHA-256, SHA-3, BLAKE2, entre outras.
+
+O Multihash também é projetado para ser à prova de futuro. Isso significa que, caso novos algoritmos de hash sejam desenvolvidos no futuro, o protocolo pode ser estendido para acomodar esses algoritmos adicionais. Isso evita a necessidade de modificar as aplicações existentes que usam hashes, proporcionando uma maior flexibilidade e adaptabilidade.
+
+Além disso, é importante observar que o Multihash é destinado a funções de hash criptográficas bem estabelecidas, pois funções de hash não criptográficas não são adequadas para sistemas de endereçamento de conteúdo. No entanto, há casos em que pode ser desejável identificar funções de hash não criptográficas ou seus resumos usando o Multihash. Por exemplo, em cenários onde a identificação única de diferentes algoritmos de hash é necessária, independentemente de serem criptográficos ou não.
+
+O Multihash também desempenha um papel crucial em projetos como IPFS (InterPlanetary File System) e IPLD (InterPlanetary Linked Data), que são projetos focados em criar uma internet mais descentralizada e distribuída.
+
+O IPFS é um protocolo e uma rede projetada para criar um método descentralizado e distribuído de armazenamento e compartilhamento de dados de hipermídia. Em vez de localizar dados com base em onde eles estão armazenados (como um URL), o IPFS busca os dados com base no que eles são, usando um hash do conteúdo. Isso significa que qualquer pessoa que tenha os dados pode fornecê-los, em vez de confiar em um único servidor centralizado. Isso tem implicações significativas para a velocidade, a eficiência e a resiliência da web.
+
+Aqui é onde o Multihash entra. Em vez de confiar em um único algoritmo de hashing, o IPFS usa o Multihash para permitir uma variedade de funções de hash. Isso significa que o IPFS pode suportar novos algoritmos de hash à medida que são criados, ou descontinuar os algoritmos de hash mais antigos quando eles se tornam inseguros. E assim, a capacidade do Multihash de "prova de futuro" se torna inestimável. O IPFS pode, portanto, se adaptar às mudanças e evoluções na tecnologia de hashing sem ter que redesenhar seu sistema de endereçamento.
+
+Já o IPLD é uma abstração sobre dados que permite a criação de estruturas de dados complexas em diferentes tipos de armazenamento distribuído. É uma forma de tornar todos os tipos de dados vinculáveis, permitindo que eles sejam navegados e manipulados de maneira uniforme, independentemente de onde ou como eles são armazenados.
+
+No IPLD, cada bloco de dados é identificado por um CID (identificador de conteúdo), que é um hash do bloco. Semelhante ao IPFS, o IPLD usa o Multihash para essa identificação de conteúdo, permitindo o uso de uma variedade de funções de hash e, portanto, tornando o sistema mais robusto e flexível.
+
+Essas aplicações do Multihash nos projetos IPFS e IPLD demonstram a importância do protocolo em construir uma internet descentralizada e robusta. Ao possibilitar a flexibilidade nos algoritmos de hashing, o Multihash ajuda a garantir que esses sistemas possam se adaptar e evoluir com a tecnologia, garantindo que estejam prontos para enfrentar os desafios futuros.

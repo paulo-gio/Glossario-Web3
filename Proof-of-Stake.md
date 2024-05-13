@@ -1,3 +1,0 @@
-# Proof-of-Stake, PoS (Prova de Stake, Prova de Participação)
-
-_Proof-of-stake_ é um tipo de algoritmo pelo qual uma _blockchain_ de criptomoedas atinge o consenso distribuído. O conceito de PoS é que o criador do próximo bloco (ou seja, grupo de transações validadas) é selecionado com base em critérios específicos, incluindo a quantidade da criptomoeda que eles possuem (ou seja, sua participação), e se essa participação atingiu o mínimo para ser aceita na rede. Em contraste, os algoritmos de consenso de _Proof-of-Work_ exigem que os mineradores resolvam funções matemáticas computacionalmente intensivas para validar transações e criar novos blocos.

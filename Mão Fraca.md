@@ -1,3 +1,19 @@
 # Mão Fraca (Weak Hand)
 
-Mão fraca é um termo usado para descrever um indivíduo que vende suas criptomoedas ao primeiro sinal de queda de preços. Em contraste, uma pessoa mão forte é alguém que segura (não vende) suas moedas ou fichas apesar da queda dos preços.
+>"*"Mão fraca" é um termo do mercado financeiro e das criptomoedas usado para descrever investidores que vendem seus ativos rapidamente em resposta a declínios de preço ou volatilidade. Originário do poker, refere-se a jogadores com mãos inferiores e, no contexto financeiro, a investidores que agem impulsivamente por medo de perdas. Enquanto isso se contrapõe à "mão forte", que mantém ativos apesar da volatilidade, nem sempre possuir uma mão fraca é negativo, pois decisões de venda podem ser sábias dependendo do contexto.*"
+
+No universo das criptomoedas, bem como no mercado financeiro em geral, o termo "mão fraca" é usado para descrever investidores que se desfazem de suas posições diante de oscilações de preço negativas ou volatilidade do mercado. Esses investidores tendem a agir impulsivamente em resposta a sinais de curto prazo, vendendo seus ativos para evitar mais perdas potenciais.
+
+A designação "mão fraca" deriva do mundo do poker, onde se refere a um jogador com uma mão de cartas provavelmente inferior às dos outros jogadores. No mercado de criptomoedas, essa analogia é utilizada para descrever investidores que carecem de convicção em suas posições e, portanto, são mais propensos a vender em resposta a movimentos de preço negativos.
+
+A lógica subjacente ao comportamento de mão fraca é muitas vezes baseada no medo de perder. Em face de uma queda de preço, um investidor com uma mão fraca pode temer que o preço continue a cair, levando a perdas ainda maiores. Como resultado, eles optam por vender seus ativos na tentativa de mitigar as perdas.
+
+Por exemplo, considere um investidor que comprou Bitcoin em dezembro de 2017, quando o preço estava perto de seu pico histórico de 20.000 dólares. Quando o preço começou a cair no início de 2018, esse investidor, com medo de uma perda ainda maior, poderia ter vendido seu Bitcoin a um preço significativamente menor. Esta é uma característica de uma mão fraca, pois o investidor reagiu a sinais de curto prazo e a emoções, em vez de se ater a uma estratégia de investimento de longo prazo.
+
+Este comportamento contrasta com a "mão forte", que é um termo usado para descrever investidores que mantêm suas posições, apesar da volatilidade do mercado ou de uma queda de preço. Estes investidores acreditam no valor a longo prazo de suas criptomoedas e estão dispostos a suportar a volatilidade de curto prazo na esperança de um retorno a longo prazo.
+
+No entanto, é importante observar que ter uma mão fraca não é inerentemente uma coisa ruim. Em algumas situações, vender em resposta a uma queda de preço pode ser uma decisão de investimento sábia, especialmente se houver evidências claras de que o valor do ativo continuará a cair. A chave é que essa decisão deve ser baseada em uma análise cuidadosa do mercado e do ativo, e não apenas em reações impulsivas à volatilidade do mercado.
+
+Adicionalmente, a designação de "mão fraca" e "mão forte" não deve ser usada para justificar decisões de investimento sem a devida diligência. Enquanto uma mão forte pode ser admirada por sua resiliência e convicção, segurar um ativo que está perdendo valor sem uma boa razão estratégica é apenas uma má decisão de investimento. Da mesma forma, enquanto uma mão fraca pode ser criticada por sua falta de convicção, vender um ativo que provavelmente continuará a perder valor pode ser a decisão correta.
+
+A distinção entre mão fraca e mão forte é apenas uma maneira de descrever diferentes comportamentos de investimento. Cada investidor deve fazer sua própria análise do mercado e tomar decisões de investimento com base em seus próprios objetivos e tolerância ao risco, e não se basear em rótulos.

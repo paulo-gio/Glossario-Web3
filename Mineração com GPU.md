@@ -1,0 +1,23 @@
+# Mineração com GPU (GPU Mining)
+
+>"*A mineração com GPU, ou Unidade de Processamento Gráfico, é uma evolução significativa no campo da mineração de criptomoedas. Ao contrário dos primórdios, quando a mineração era possível com computadores domésticos, o processo atual requer hardware mais robusto. As GPUs, devido à sua capacidade de processamento paralelo, provaram ser altamente eficientes nessa tarefa. Comparadas às CPUs convencionais, as GPUs podem realizar uma grande quantidade de cálculos simultâneos devido à presença de centenas ou até milhares de núcleos de processamento. Essa capacidade paralela acelera consideravelmente o processo de mineração, tornando as GPUs uma escolha popular para mineradores de criptomoedas.*"
+
+A mineração de criptomoedas passou por uma evolução notável desde o surgimento do Bitcoin em 2009. Inicialmente, qualquer pessoa com um computador doméstico poderia se envolver no processo de mineração e obter Bitcoins como recompensa. No entanto, com o aumento da popularidade das criptomoedas e o crescimento da rede, tornou-se necessário um hardware mais poderoso e eficiente para enfrentar os desafios computacionais envolvidos na mineração.
+
+Uma das soluções encontradas foi a utilização de Unidades de Processamento Gráfico (GPUs). As GPUs são responsáveis pela renderização de gráficos em computadores e, devido à sua capacidade de processamento paralelo, mostraram-se altamente eficientes na mineração de criptomoedas. 
+
+Comparadas às Unidades Centrais de Processamento (CPUs) convencionais, as GPUs conseguem realizar um grande número de cálculos simultâneos, o que acelera o processo de mineração. Essa vantagem se deve à estrutura interna das GPUs, que possuem centenas ou até mesmo milhares de núcleos de processamento, conhecidos como "CUDA Cores" (no caso das GPUs NVIDIA) ou "Stream Processors" (no caso das GPUs AMD), que executam tarefas em paralelo.
+
+Tanto a Nvidia quanto a AMD têm desempenhado um papel importante no fornecimento de hardware para a mineração de criptomoedas. Ambas as empresas têm lançado produtos específicos para atender às demandas dos mineradores, otimizando o desempenho e a eficiência energética.
+
+Por exemplo, uma GPU lançada recentemente no mercado pela Nvidia, a GeForce RTX 4090, possui 16.384 CUDA cores, capazes de realizar uma quantidade muito impressionante de cálculos em um curto período de tempo. Além disso, as GPUs são projetadas com memórias de vídeo de alta velocidade, o que as torna adequadas para o processamento intenso exigido pela mineração de criptomoedas.
+
+No entanto, à medida que a mineração de criptomoedas se tornou mais competitiva, surgiram tecnologias ainda mais especializadas. Os Circuitos Integrados Específicos de Aplicação (ASICs) entraram em cena como uma opção ainda mais eficiente para a mineração. 
+
+Os ASICs são projetados exclusivamente para tarefas de mineração de criptomoedas específicas, o que os torna mais eficientes em termos de consumo de energia e poder de processamento. Por exemplo, os ASICs desenvolvidos para a mineração do Bitcoin são capazes de atingir taxas de hash impressionantes, o que supera em muito o desempenho das GPUs.
+
+Apesar da superioridade dos ASICs em muitos casos, as GPUs ainda têm um papel importante na mineração de certas criptomoedas. Algumas criptomoedas adotam algoritmos que são resistentes aos ASICs, favorecendo a mineração com GPUs. Isso ocorre porque esses algoritmos são projetados para equilibrar o poder de mineração entre diferentes tipos de hardware, evitando assim a centralização do poder de mineração em mãos de poucos. Dessa forma, a mineração com GPUs ainda pode ser lucrativa e viável em determinadas situações.
+
+Outro ponto a considerar é a disponibilidade de GPUs no mercado. Devido à popularidade da mineração de criptomoedas e à alta demanda por GPUs, houve momentos em que os preços das placas de vídeo dispararam e a disponibilidade ficou escassa. Isso ocorreu principalmente durante o chamado "boom" das criptomoedas, quando houve um aumento significativo no interesse e na adoção em massa dessas moedas digitais. No entanto, é importante ressaltar que o mercado de GPUs é volátil e está sujeito a flutuações de preço e disponibilidade.
+
+É crucial lembrar que o investimento em criptomoedas e mineração é altamente arriscado e especulativo. A rápida evolução tecnológica na indústria das criptomoedas implica que o que é considerado padrão hoje pode se tornar obsoleto amanhã. Portanto, antes de tomar qualquer decisão financeira nesse campo, é sempre recomendado buscar a orientação de um profissional qualificado.

@@ -1,3 +1,17 @@
 # Spread
 
-Em finanças, o _spread_ geralmente refere-se à diferença entre dois preços, taxas ou rendimentos. Em uma das definições mais comuns, o _spread_ é a diferença entre os preços de compra e venda de um título ou ativo, como ações, criptomoedas, títulos ou _commodities_. Isso é conhecido como _spread bid-ask_.
+>"*O spread é um conceito financeiro que representa a diferença entre dois preços, taxas ou rendimentos, sendo crucial para entender a dinâmica do mercado e o custo das transações. Frequentemente utilizado para indicar a diferença entre o preço de compra (bid) e o preço de venda (ask) de ativos, o spread pode revelar a liquidez e a volatilidade do mercado.*"
+
+O Spread é um termo amplamente utilizado em finanças para se referir à diferença entre dois preços, taxas ou rendimentos. É comumente usado no mercado financeiro para medir a diferença entre o preço de compra e o preço de venda de um ativo, como uma ação ou um contrato de câmbio. O spread também pode se referir à diferença entre as taxas de juros de diferentes títulos, como títulos do governo ou títulos corporativos. Além disso, o spread pode ser usado para medir a diferença entre os rendimentos de diferentes ativos, como diferentes tipos de fundos de investimento. 
+
+O spread pode ser usado para medir a diferença entre os preços de compra e venda de um ativo em diferentes mercados ou plataformas de negociação. Por exemplo, o spread entre o preço de compra de uma ação em uma bolsa de valores e o preço de venda da mesma ação em outra bolsa de valores pode ser usado como uma medida da liquidez e da facilidade de negociação da ação em cada mercado.
+
+Além disso, o spread também pode ser usado como uma forma de avaliar o risco de um investimento. Por exemplo, o spread entre o preço de compra e o preço de venda de um título corporativo com baixa classificação de crédito pode ser maior do que o spread de um título corporativo com classificação de crédito mais alta, refletindo o maior risco de inadimplência do primeiro título.
+
+Outro exemplo de uso do spread é na negociação de contratos de câmbio (forex). Neste caso, o spread é a diferença entre o preço de compra e o preço de venda de uma moeda estrangeira, e é usado como uma forma de avaliar a liquidez e a volatilidade do mercado de câmbio.
+
+Além da diferença entre preços, taxas ou rendimentos, o spread também pode ser usado para se referir à diferença entre o preço de oferta de um ativo e o preço de demanda. Isso é conhecido como spread bid-ask e é comumente usado em mercados como o de ações e câmbio. O spread bid-ask representa a diferença entre o preço pelo qual um comprador está disposto a adquirir um ativo (bid) e o preço pelo qual um vendedor está disposto a vender o mesmo ativo (ask). O tamanho do spread bid-ask pode ser usado como uma medida da liquidez do mercado e da disponibilidade de compradores e vendedores.
+
+Outro tipo comum de spread é o spread de crédito, que é a diferença entre as taxas de juros de títulos de diferentes qualidades de crédito. Por exemplo, o spread de crédito entre títulos do Tesouro dos EUA (que são considerados de alta qualidade de crédito) e títulos corporativos de grau de investimento (que são considerados de menor qualidade de crédito) pode ser usado como uma medida do risco de crédito no mercado.
+
+O spread também pode ser usado em outros contextos, como na comparação dos rendimentos de diferentes tipos de investimentos. Por exemplo, o spread entre o rendimento de um fundo de ações e o rendimento de um fundo de renda fixa pode ser usado como uma medida da relação risco-retorno dos dois investimentos.

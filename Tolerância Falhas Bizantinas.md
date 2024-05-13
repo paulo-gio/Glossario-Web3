@@ -1,0 +1,19 @@
+# Tolerância a Falhas Bizantinas (BFT, Byzantine Fault Tolerance)
+
+>"*A Tolerância a Falhas Bizantinas (BFT) é uma característica crucial em sistemas distribuídos, especialmente em blockchains, permitindo que a rede mantenha sua operação mesmo na presença de nós maliciosos ou com falhas. Originada do Problema dos Generais Bizantinos, a BFT garante que o sistema possa chegar a um consenso, mesmo que alguns participantes ajam de maneira incorreta. Protocolos como o PBFT, dBFT e FBA são exemplos de abordagens para alcançar a BFT em ambientes distribuídos, cada um com suas vantagens e desvantagens.*"
+
+No contexto das redes de computadores e sistemas distribuídos, a confiabilidade é um aspecto crítico. Quando se trata de uma rede de milhares ou mesmo milhões de nós (como é o caso das blockchains), manter a rede funcionando de forma consistente, mesmo na presença de falhas ou entidades mal-intencionadas, é uma questão desafiadora. Um aspecto crucial dessa confiabilidade é a tolerância a falhas, e uma categoria específica de tolerância a falhas é a Tolerância a Falhas Bizantinas (BFT).
+
+A BFT, originada do Problema dos Generais Bizantinos, é um termo utilizado para descrever a capacidade de um sistema distribuído de resistir a falhas bizantinas, ou seja, cenários em que alguns nós (participantes da rede) funcionam de maneira incorreta, seja devido a um erro honesto, um defeito ou uma ação mal-intencionada.
+
+O Problema dos Generais Bizantinos é um dilema teórico que demonstra as dificuldades de se chegar a um consenso em um sistema onde alguns dos participantes podem agir de maneira enganosa. Nesse problema, vários generais precisam concordar sobre uma estratégia de batalha. No entanto, alguns dos generais podem ser traidores e tentar confundir os outros com informações falsas. O desafio é que todos os generais leais concordem com um plano comum, mesmo na presença de traidores.
+
+A BFT, portanto, é a capacidade de um sistema continuar a operar corretamente e chegar a um consenso, mesmo que alguns dos nós estejam fornecendo informações incorretas ou agindo de maneira enganosa. A capacidade de um sistema distribuído de lidar com esses cenários é um aspecto essencial da segurança e da confiabilidade da rede.
+
+Dentro do espaço de criptomoedas, a BFT é uma característica central de muitos protocolos de consenso, incluindo alguns tipos de Prova de Participação (PoS) e algoritmos de consenso de Prova de Histórico (PoH). Estes algoritmos de consenso são projetados para permitir que a rede chegue a um acordo sobre o estado da blockchain (por exemplo, a ordem das transações), mesmo na presença de nós maliciosos ou com falhas.
+
+Um exemplo de protocolo BFT é o algoritmo de consenso de Tolerância a Falhas Bizantinas Práticas (PBFT). O PBFT é um protocolo de consenso projetado especificamente para lidar com falhas bizantinas em um ambiente síncrono, onde há um limite máximo no tempo de comunicação entre os nós. Ele funciona exigindo que cada nó na rede comunique sua decisão para todos os outros nós. Uma vez que um número suficiente de nós (geralmente mais da metade) tenham comunicado a mesma decisão, essa decisão é aceita como o consenso.
+
+Embora o PBFT seja extremamente eficiente na prevenção de falhas bizantinas, ele tem desvantagens. Por exemplo, ele requer uma grande quantidade de comunicação entre os nós, o que pode ser ineficiente em redes de grande escala. Além disso, ele assume um ambiente síncrono, o que pode não ser realista em muitas redes blockchain de grande escala.
+
+Outros protocolos BFT, como o Consenso de Tolerância a Falhas Bizantinas Delegadas (dBFT) usado na NEO, ou o algoritmo de consenso Acordo Bizantino Federado (FBA) usado na Stellar, oferecem abordagens alternativas para alcançar a BFT em um ambiente blockchain. Esses algoritmos variam em seus detalhes, mas todos compartilham o objetivo comum de permitir que a rede alcance um consenso na presença de falhas bizantinas.

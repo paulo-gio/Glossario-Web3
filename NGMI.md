@@ -1,3 +1,19 @@
-# NGMI, Not Going to Make It (Não Vou Conseguir)
+# NGMI, Not Gonna Make It (Não Vai Conseguir)
 
-NGMI é uma abreviação que significa "_Not Going to Make It_" (não vou conseguir). No espaço das criptomoedas, essa gíria é usada para se referir a alguém que toma uma decisão impopular ou ruim. Como resultado dessa decisão, espera-se que a pessoa sofra perdas e, portanto, não fará investimentos ou negociações. NGMI também é usado quando alguém expressa uma opinião que não segue a opinião popular.
+>"*NGMI, sigla para "Not Gonna Make It" (em tradução livre, "Não Vai Conseguir"), é um termo popular na comunidade de criptomoedas, indicando que um indivíduo ou projeto não alcançará o sucesso desejado. Originado no volátil ambiente das criptomoedas, o termo é frequentemente usado para destacar decisões de investimento mal orientadas ou opiniões contrárias à norma. Contudo, o uso do NGMI pode ser sarcástico e mal interpretado, refletindo as incertezas do setor. O termo serve como um alerta para riscos e a necessidade de pesquisa e avaliação cuidadosa no mundo das criptomoedas.*"
+
+NGMI é uma sigla que tem sido popularizada na comunidade de criptomoedas, representando "Not Gonna Make It" ("Não Vai Conseguir", ou "Não Vai ter Sucesso" em tradução livre). O termo é amplamente usado para expressar a ideia de que um indivíduo ou um projeto não atingirá o sucesso esperado ou necessário, seja devido a uma decisão impopular, uma estratégia de investimento mal concebida ou até mesmo uma perspectiva ou opinião que é contrária à norma.
+
+A origem do termo está intrinsecamente ligada ao ambiente dinâmico e imprevisível do mundo das criptomoedas. O espaço da criptomoeda é caracterizado por altos níveis de volatilidade, e as fortunas podem ser feitas ou perdidas em questão de horas. Para alguns, o risco é atraente, oferecendo a promessa de grandes recompensas. Para outros, no entanto, pode levar a decisões mal orientadas e potencialmente desastrosas. É neste contexto que o termo NGMI encontrou sua casa.
+
+Um exemplo de como o termo pode ser usado na comunidade de criptomoedas pode ser: "Se você comprou Shiba Inu no pico, NGMI". Isso sugere que o indivíduo que comprou a criptomoeda Shiba Inu em seu ponto mais alto de valorização pode sofrer perdas significativas e, portanto, não conseguirá obter o retorno do investimento esperado. Alternativamente, pode ser usado para expressar a opinião de que um determinado projeto não vai conseguir ter sucesso. Por exemplo: "Esse projeto não tem utilidade real, é pura especulação. NGMI."
+
+No entanto, é importante salientar que NGMI, como muitas outras expressões usadas no espaço das criptomoedas, é frequentemente usada de forma sarcástica ou jocosa e pode ser mal interpretado. Por exemplo, se alguém expressa uma opinião que é contrária à crença popular, os outros podem dizer NGMI para indicar que essa pessoa está indo contra a corrente e pode se dar mal.
+
+Essa abreviação também tem sido adotada por traders e investidores em criptomoedas para destacar possíveis erros ou má gestão de investimentos. Na avaliação de estratégias de trading, NGMI pode ser usado para sinalizar um mau investimento ou uma má decisão de trading. Por exemplo, um investidor que vendeu suas moedas durante uma queda de preço pode ser rotulado como NGMI se a comunidade acredita que o preço vai subir novamente.
+
+Além disso, NGMI tem sido usado como um termo de alerta para outros membros da comunidade. Em um espaço onde a desinformação pode levar a perdas significativas, o termo pode servir como um aviso para aqueles que podem estar prestes a fazer um investimento mal orientado. Por exemplo, alguém poderia dizer, "Aquele projeto é uma fraude, se você colocar dinheiro lá, NGMI."
+
+O uso de NGMI pode refletir as pressões e as incertezas que muitos enfrentam no ambiente das criptomoedas. Como a maioria das coisas no espaço cripto, é essencial fazer uma pesquisa cuidadosa e ponderada antes de tomar qualquer decisão. Afinal, o que pode parecer uma decisão ruim para alguns pode acabar sendo uma decisão lucrativa para outros.
+
+Embora NGMI possa ser usado para destacar decisões potencialmente falhas ou impopulares, também deve ser visto como um lembrete da importância do pensamento crítico, da avaliação de riscos e da tomada de decisões informadas no espaço cripto.

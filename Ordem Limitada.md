@@ -1,0 +1,21 @@
+# Ordem Limitada, Ordem Limite (Limit Order)
+
+>"*Ordens limitadas são ferramentas essenciais para traders e investidores no mundo volátil dos ativos financeiros, especialmente criptomoedas. Elas permitem estabelecer transações a preços específicos, oferecendo proteção contra oscilações súbitas de mercado e garantindo mais controle sobre as operações. Apesar de sua eficácia, é crucial entender que essas ordens não asseguram execução, sendo necessário um conhecimento adequado para sua utilização otimizada.*"
+
+Ordens limitadas são fundamentais na estratégia de muitos traders e investidores, pois proporcionam um nível de controle que as ordens de mercado não conseguem oferecer. Em um ambiente de negociação tão complexo e dinâmico como o dos ativos financeiros, o uso correto dessa ferramenta pode ser a diferença entre o sucesso e o fracasso.
+
+A origem das ordens limitadas remonta aos primórdios das negociações financeiras, quando os investidores desejavam garantir que suas transações fossem realizadas a preços específicos, protegendo-se assim de oscilações súbitas no mercado. Com o advento das criptomoedas e sua natureza altamente volátil, essa ferramenta se mostrou ainda mais crucial.
+
+Por exemplo, se considerarmos um cenário hipotético em que notícias sobre uma nova regulamentação governamental para criptomoedas surgem de repente. Neste cenário, é provável que muitos traders entrem em pânico e comecem a vender suas posições, causando uma queda acentuada nos preços. Um trader informado e estratégico que tenha estabelecido previamente ordens limitadas de compra a preços mais baixos pode se beneficiar dessa volatilidade, adquirindo criptomoedas a preços favoráveis quando muitos estão vendendo em pânico.
+
+Mas as ordens limitadas não são apenas úteis em cenários de queda. Em um mercado em alta, onde a confiança e o otimismo predominam, um trader pode querer capitalizar sobre uma tendência ascendente estabelecendo ordens limitadas de venda em pontos estratégicos. Assim, se o trader acredita que o Bitcoin, após atingir 70.000 dólares, pode enfrentar uma resistência e potencialmente retrair, ele pode estabelecer uma ordem limitada de venda nesse valor, garantindo lucros antes de uma possível correção.
+
+Além disso, é vital entender o conceito de derrapagem. Em mercados de alta liquidez, uma ordem limitada geralmente é preenchida exatamente no preço especificado. No entanto, em mercados menos líquidos, pode haver uma discrepância entre o preço desejado e o preço de execução real. As ordens limitadas ajudam a mitigar esse risco, garantindo que os traders não comprem ou vendam a preços muito diferentes dos desejados.
+
+Outra técnica popular entre os traders é o uso combinado de ordens stop e ordens limitadas. Por exemplo, um trader pode estabelecer uma ordem stop para vender Bitcoin se o preço cair abaixo de 55.000 dólares, mas também definir uma ordem limitada para que essa venda não ocorra por menos de 54.500 dólares. Isso garante que, mesmo em um mercado em queda, o trader tenha alguma proteção contra vender a um preço indesejavelmente baixo.
+
+Dentro das exchanges modernas, os traders também têm à disposição as "ordens OCO" (One Cancels the Other). Em uma ordem OCO, um trader pode definir tanto uma ordem limitada de venda quanto uma ordem stop, e se uma delas for executada, a outra é automaticamente cancelada. Essa é uma forma de os traders se protegerem em ambas as direções do mercado.
+
+É importante notar que, enquanto as ordens limitadas oferecem um maior controle sobre as operações, elas não garantem a execução. Se o preço do mercado nunca atingir o preço especificado na ordem limitada, a ordem não será executada, e o trader pode perder oportunidades no mercado.
+
+Para os novatos, o universo das criptomoedas pode parecer intimidante devido à sua volatilidade e complexidade. No entanto, com ferramentas como ordens limitadas e a compreensão adequada de como e quando usá-las, traders e investidores podem navegar pelo mercado com mais confiança, otimizando seus retornos e minimizando riscos.

@@ -1,3 +1,19 @@
 # Ordem de Mercado (Market Order)
 
-Uma ordem de mercado é uma instrução para comprar ou vender uma certa quantidade de criptomoedas ao melhor preço disponível no mercado atual. Uma ordem de mercado é o método mais rápido e conveniente de comprar e vender criptomoedas em _exchanges_, pois as ordens são preenchidas quase automaticamente.
+>"*Uma ordem de mercado permite que investidores e traders comprem ou vendam ativos imediatamente pelo melhor preço disponível, sem fixar um preço específico. É uma ferramenta útil para transações rápidas, em contraste com as ordens limitadas que aguardam preços específicos. Mais especificamente, dada a volatilidade das criptomoedas, impulsionada por fatores como regulamentações e movimentações de grandes investidores, o preço de execução pode variar consideravelmente. É vital que os operadores compreendam profundamente o funcionamento das ordens de mercado e os riscos associados.*"
+
+Uma Ordem de Mercado é uma instrução dada por um investidor ou trader, um profissional que opera no mercado financeiro, para comprar ou vender uma determinada quantidade de ativos, como criptomoedas, ao melhor preço disponível no mercado no exato momento da solicitação. Estas ordens são fundamentais no dinâmico financeiro e diferem significativamente das ordens limitadas, onde se especifica um preço exato para a transação.
+
+Mais especificamente, no vasto ecossistema das criptomoedas, existem diversas ferramentas e mecanismos de negociação à disposição dos operadores. A ordem de mercado é uma das mais utilizadas, principalmente devido à sua natureza imediata. Ela é especialmente útil para quem busca agilidade, sem ter o desejo ou a paciência de aguardar que o mercado alcance um determinado preço.
+
+Para compreender melhor, é útil visualizar um cenário prático. Imagine um investidor ávido por adquirir 1 Bitcoin devido a uma notícia emergente que prevê um aumento significativo no seu valor. Ele não está disposto a correr o risco de perder essa oportunidade devido a flutuações de preço, então decide colocar uma ordem de mercado. Se, nesse exato momento, o preço mais baixo de venda for de 50.000 dólares, sua ordem será imediatamente satisfeita, garantindo-lhe o Bitcoin desejado.
+
+Da mesma forma, no universo de vendas, um trader que possui uma quantia substancial de Ether, por exemplo 10 unidades, e percebe uma tendência de queda iminente, pode querer vender rapidamente para minimizar perdas. Uma ordem de mercado é sua melhor amiga neste cenário, pois ela garante a venda imediata dos ativos pelo preço de compra mais elevado disponível naquele instante.
+
+Mas, como tudo no mundo das finanças e, especialmente, no volátil mercado de criptomoedas, existe uma complexidade subjacente. Quando alguém coloca uma ordem de compra de grande volume, essa ação pode absorver várias ofertas de venda menores, resultando em vários preços de execução. Este fenômeno é conhecido como derrapagem e é uma consideração crucial ao se lidar com ordens de grande magnitude.
+
+A volatilidade do mercado de criptomoedas é notória. Mudanças de preço de dois dígitos em questão de horas ou até minutos não são incomuns. Essa volatilidade pode ser impulsionada por uma variedade de fatores: anúncios de regulamentações governamentais, movimentações de grandes players (conhecidos como "baleias" no jargão cripto), lançamentos tecnológicos, entre outros.
+
+Considerando esta volatilidade, é crucial para quem opera no mercado ter consciência de que o preço de execução final de uma ordem de mercado pode ser surpreendentemente diferente do preço inicialmente visualizado. Isso destaca a necessidade de educação e pesquisa constantes no mundo das criptomoedas.
+
+Assim, as ordens de mercado, com sua natureza rápida e direta, são ferramentas valiosas no arsenal de um trader de criptomoedas. No entanto, como qualquer ferramenta poderosa, elas devem ser usadas com discernimento e compreensão. A rapidez e eficiência vêm com seu próprio conjunto de riscos, tornando essencial uma profunda compreensão do mercado para operar de forma eficaz e segura.

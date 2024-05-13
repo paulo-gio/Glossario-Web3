@@ -1,3 +1,23 @@
 # ConsenSys
 
-A ConsenSys é uma empresa de tecnologia _blockchain_ que fornece plataformas de desenvolvedor e soluções corporativas.
+>"*A ConsenSys é uma empresa líder no setor de tecnologia blockchain e criptomoedas, fundada por um dos co-fundadores da Ethereum. Ela é composta por duas entidades, ConsenSys AG e ConsenSys Software Inc. A empresa oferece uma variedade de produtos e serviços, incluindo o Infura, que é uma plataforma de infraestrutura de blockchain como serviço; a MetaMask, uma carteira de criptomoedas baseada em navegador; e a Suíte Truffle, um conjunto de ferramentas para desenvolvimento na blockchain Ethereum.*"
+
+A ConsenSys, fundada em 2015 por Joseph Lubin, um dos co-fundadores da Ethereum, emergiu como uma das principais empresas na vanguarda da tecnologia blockchain e das criptomoedas. Com uma ampla gama de produtos e serviços, a empresa tem sido fundamental no avanço da adoção da blockchain e na construção do ecossistema Ethereum.
+
+A ConsenSys é dividida em duas entidades principais: ConsenSys AG e ConsenSys Software Inc. A ConsenSys AG atua como uma incubadora para startups de blockchain, oferecendo suporte e recursos para empresas emergentes no espaço blockchain. Por outro lado, a ConsenSys Software Inc. é responsável pelo desenvolvimento de produtos de software para empresas e desenvolvedores. Entre seus produtos mais notáveis estão o Infura, MetaMask e a Suíte Truffle.
+
+O Infura é uma plataforma de infraestrutura de blockchain como serviço (BaaS) que oferece acesso confiável e escalável à Ethereum e outras redes blockchain. Ela permite aos desenvolvedores se conectarem à blockchain sem precisar lidar com a complexidade de gerenciar e manter seus próprios nós. O Infura fornece aos usuários as ferramentas necessárias, como APIs, para interagir com a blockchain, desempenhando um papel crucial no suporte ao desenvolvimento e implantação de aplicações descentralizadas (dApps) na rede Ethereum.
+
+Outra solução amplamente adotada da ConsenSys é a MetaMask, uma carteira de criptomoedas baseada em navegador que permite aos usuários interagir com dApps na blockchain Ethereum. Ela atua como uma ponte entre os usuários e a blockchain Ethereum, facilitando a gestão segura e conveniente de identidades digitais e ativos na rede.
+
+A Suíte Truffle, por sua vez, é um conjunto de ferramentas voltadas para o desenvolvimento na blockchain Ethereum. Ela oferece uma estrutura de testes, um ambiente de desenvolvimento e outras utilidades para facilitar a criação de contratos inteligentes e dApps. A Suíte Truffle permite que os desenvolvedores criem, testem e implementem contratos inteligentes e dApps de maneira eficiente e eficaz.
+
+Na esfera das soluções corporativas, a divisão ConsenSys Quorum desempenha um papel importante. Quorum é uma plataforma de blockchain de código aberto, baseada na Ethereum, projetada especificamente para aplicações corporativas. Ela permite a criação de redes privadas de blockchain, combinando os recursos avançados da Ethereum com a privacidade e o controle necessários no ambiente empresarial.
+
+Para abordar a necessidade de educação e treinamento em blockchain, a ConsenSys lançou a ConsenSys Academy. A Academy oferece uma variedade de programas de treinamento, tanto online quanto presencial, focados no desenvolvimento de habilidades em Ethereum e outras tecnologias blockchain.
+
+Complementando suas atividades principais, a ConsenSys também opera a ConsenSys Ventures, um fundo de capital de risco que investe em startups promissoras no espaço blockchain. Além disso, a empresa demonstra seu compromisso com projetos sociais através do ConsenSys Social Impact, que busca usar a blockchain para enfrentar problemas globais complexos.
+
+A ConsenSys tem desempenhado um papel inegável no avanço da tecnologia Ethereum. A empresa tem trabalhado com outras organizações para melhorar a blockchain da Ethereum, com foco na melhoria da velocidade, escalabilidade e eficiência energética. Além disso, a ConsenSys tem se engajado ativamente com governos, empresas e organizações em todo o mundo para implementar soluções blockchain e fomentar o desenvolvimento contínuo da tecnologia.
+
+A ConsenSys é mais do que apenas uma empresa de blockchain. Ela é uma das forças motrizes no avanço da tecnologia blockchain e do ecossistema Ethereum. Através de seus produtos e serviços, a ConsenSys está desempenhando um papel crucial na promoção da adoção da blockchain, capacitação de desenvolvedores, avanço da tecnologia Ethereum e exploração de seu potencial para resolver problemas globais complexos. O impacto e a influência da ConsenSys continuarão a crescer à medida que a adoção da blockchain se expande e as possibilidades da tecnologia se tornam cada vez mais aparentes.

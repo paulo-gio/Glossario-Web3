@@ -1,3 +1,19 @@
 # Binance
 
-Binance é uma _exchange_ de criptomoedas, e é a maior corretora do mundo em termos de volume diário de negociação de criptomoedas. Foi fundada em 2017 e está registrada nas Ilhas Cayman.
+>"*A Binance é uma das principais e mais confiáveis exchanges de criptomoedas do mundo, fundada em 2017 por Changpeng Zhao (CZ). Além das operações de trading padrão, a Binance oferece uma ampla variedade de serviços, incluindo negociação à vista, negociação de margem, futuros de criptomoedas, pool de mineração, staking e economia de criptomoedas. A empresa desenvolveu suas próprias blockchains, a Binance Smart Chain e a Binance Chain, oferecendo recursos para contratos inteligentes e transações rápidas.*"
+
+Fundada em 2017 por Changpeng Zhao, também conhecido como CZ, a Binance se estabeleceu rapidamente como uma das maiores e mais confiáveis exchanges de criptomoedas do mundo. Como uma plataforma de negociação globalmente reconhecida, a Binance é conhecida por seu grande volume de negociações e extensa lista de criptomoedas suportadas.
+
+No entanto, a Binance oferece muito mais do que apenas operações de trading padrão. A empresa possui uma ampla gama de serviços, incluindo negociação à vista, negociação de margem, futuros de criptomoedas, pool de mineração, staking e economia de criptomoedas. Além disso, a Binance desenvolveu suas próprias blockchains: a Binance Smart Chain, que suporta o desenvolvimento de contratos inteligentes e aplicativos descentralizados, e a Binance Chain, que proporciona transações extremamente rápidas.
+
+Um dos principais pontos fortes da Binance é a alta liquidez e a grande seleção de pares de negociação. Sua plataforma é acessível tanto para novos usuários quanto para traders experientes, graças a uma interface intuitiva que oferece acesso fácil a uma variedade de ferramentas de negociação. Além disso, a Binance suporta a negociação via API, o que permite aos desenvolvedores criar seus próprios bots de negociação automatizados.
+
+No coração da plataforma da Binance está o Binance Coin (BNB), seu token nativo. O BNB é versátil e pode ser usado para pagar taxas de negociação com desconto, participar em novos lançamentos de token através da Binance Launchpad e fazer staking na Binance Smart Chain, entre outros usos. O valor do BNB tem aumentado consistentemente ao longo do tempo, acompanhando o sucesso e a expansão da Binance.
+
+Embora a sede da Binance esteja registrada nas Ilhas Cayman, a empresa opera de forma verdadeiramente global, com presença em diversos países ao redor do mundo. Além disso, a Binance se empenha em cumprir com as regulamentações locais em cada jurisdição em que opera. A empresa segue rigorosamente os requisitos de KYC (Know Your Customer) e AML (Anti-Money Laundering), para garantir um ambiente de negociação seguro e confiável para seus usuários.
+
+No entanto, a ambição da Binance vai além de apenas ser uma plataforma de negociação líder. A empresa continua expandindo seus serviços e estabelecendo novas parcerias. Constantemente, novas criptomoedas são adicionadas à plataforma, permitindo que os usuários negociem uma variedade cada vez maior de ativos digitais. A Binance também lançou sua própria carteira de criptomoedas, a Binance Wallet, que permite aos usuários armazenar e gerenciar seus ativos de forma segura.
+
+No espaço blockchain, a Binance tem se envolvido ativamente em iniciativas de desenvolvimento da indústria. A empresa investe em projetos promissores e estabelece parcerias estratégicas para ajudar a impulsionar a adoção e inovação de blockchain. Porém, é importante notar que a Binance tem enfrentado desafios regulatórios em alguns países. 
+
+Alguns governos e agências reguladoras expressaram preocupações sobre a conformidade da empresa com as leis e requisitos regulatórios locais. Como resultado, a Binance tem se empenhado em fortalecer suas medidas de conformidade, trabalhando em parceria com empresas de conformidade regulatória para aumentar a segurança e a transparência de suas operações. Portanto, a empresa deve continuar a navegar cuidadosamente no ambiente regulatório em constante mudança para garantir seu sucesso a longo prazo.

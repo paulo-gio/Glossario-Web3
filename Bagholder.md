@@ -1,3 +1,21 @@
 # Bagholder
 
-Um _bagholder_, é um investidor que continua segurando sua bolsa de moedas ou _tokens_ que diminuíram significativamente de valor. As moedas mantidas pelos _bagholders_ são vistas como inúteis ou estão em uma espiral descendente em direção a (ou perto de) $0.
+>"*Bagholder é o termo usado para descrever um investidor que continua detendo um ativo que sofreu uma queda significativa de valor, muitas vezes sem perspectivas de recuperação. Esses investidores mantêm suas posições, mesmo com prejuízos expressivos, podendo ser resultado de diversos fatores, como mudanças no mercado, falta de adoção ou problemas técnicos.*"
+
+No contexto financeiro e das criptomoedas, o termo "Bagholder" é uma denominação para aquele investidor que permanece em posse de um ativo cujo valor sofreu queda significativa, geralmente com pouca ou nenhuma esperança de recuperação. Essencialmente, um bagholder é o sujeito que "segura a sacola" após a forte desvalorização de um ativo.
+
+Imagine, por exemplo, um cenário no mercado de criptomoedas onde um investidor adquire tokens quando o preço está elevado. O mercado passa por uma fase de correção, o preço dos tokens cai drasticamente, mas o investidor decide manter as moedas, alimentando a esperança de que o valor se recupere. Entretanto, muitas vezes, esses ativos prosseguem numa trajetória de perda de valor, causando prejuízos expressivos ao bagholder.
+
+Geralmente, os ativos mantidos pelos bagholders são vistos como de baixo valor ou em constante declínio, potencialmente atingindo um valor próximo a zero. A desvalorização pode ser decorrente de múltiplos fatores: mudanças bruscas no mercado, falta de adoção, problemas técnicos ou, em casos extremos, até fraude.
+
+Apesar de cada situação de investimento possuir suas peculiaridades e, ocasionalmente, a manutenção de um ativo de baixo desempenho possa parecer sensata dependendo das circunstâncias individuais, a figura do bagholder é frequentemente associada a uma conotação negativa. Isso ocorre porque sugere a falta de uma estratégia de investimento eficaz ou a incapacidade de estancar perdas quando necessário.
+
+Encontrar-se na posição de um bagholder pode ser uma experiência desagradável, porém ela serve como um lembrete das práticas fundamentais de investimento que todo investidor deve ter em mente. Para evitar tornar-se um bagholder, é crucial seguir algumas estratégias importantes, como a diversificação de ativos, a pesquisa e a devida diligência, o gerenciamento de risco, entre outros.
+
+A diversificação é um princípio básico de qualquer carteira de investimentos. Colocar todos os ovos na mesma cesta pode levar a perdas catastróficas caso o único investimento realizado apresente performance ruim. A realização de pesquisas e diligência prévia são etapas fundamentais antes de qualquer decisão de investimento. Isso envolve a compreensão do potencial uso do ativo, a equipe responsável por ele, além de sua viabilidade a longo prazo.
+
+Uma prática saudável de gerenciamento de risco envolve a definição de limites de perdas (stop loss) para evitar prejuízos expressivos, além de estabelecer o hábito de realizar lucros periodicamente. Evite a realização de compras impulsivas. Muitos investidores são atraídos para comprar um ativo quando seu preço está em alta acelerada, porém essa prática pode ser arriscada. Frequentemente, quando o preço de um ativo sobe muito rapidamente, ele pode cair na mesma velocidade.
+
+Ter paciência é um atributo valioso no universo dos investimentos, principalmente em mercados voláteis como o das criptomoedas. É crucial resistir ao pânico durante quedas acentuadas nos preços. Por fim, sempre lembre-se de que nenhum investimento está isento de riscos e existe a possibilidade de perdas. Portanto, é vital ser cuidadoso e realizar sua própria pesquisa antes de tomar qualquer decisão de investimento. 
+
+Quando necessário, procure a orientação de um profissional financeiro qualificado, capaz de fornecer conselhos personalizados de acordo com sua situação financeira e objetivos de investimento. Mesmo com todas as precauções, pode-se encontrar na posição de bagholder, mas a aplicação cuidadosa dessas estratégias pode minimizar o risco e maximizar o potencial de lucro no dinâmico mercado de criptomoedas.

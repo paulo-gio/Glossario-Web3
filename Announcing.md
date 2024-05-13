@@ -1,3 +1,19 @@
-# Announcing (Anunciar)
+# Announcing (Anunciando)
 
-_Announcing_ é uma função da camada de rede [IPFS](IPFS.md) em [libp2p](libp2p.md), em que um par pode informar a outros pares que possui blocos de dados disponíveis.
+>"*Em redes ponto a ponto (p2p), "announcing" refere-se ao processo em que um par ou nó comunica sua presença e disponibilidade para compartilhar ou obter recursos aos outros pares da rede. Essa função é essencial para redes descentralizadas, como o IPFS (InterPlanetary File System), pois permite que os pares identifiquem onde os dados estão armazenados, promovendo o compartilhamento eficiente de recursos e garantindo a integridade e segurança dos dados distribuídos em vários pontos da rede.*"
+
+Em redes ponto a ponto (p2p), o termo "Announcing" refere-se a um processo em que um par (ou nó) da rede informa aos outros pares sobre sua presença e disponibilidade para compartilhar ou obter recursos. Especificamente, isso ocorre em redes descentralizadas, onde os pares (dispositivos conectados) têm capacidades iguais e podem agir tanto como clientes quanto como servidores.
+
+Quando um novo par entra na rede ou quando um par existente deseja disponibilizar algum recurso (como arquivos, serviços, informações, etc.), ele anuncia sua presença e capacidades para os outros pares. Esse anúncio normalmente inclui informações sobre os recursos que o par pode oferecer, sua localização e outras informações relevantes para o funcionamento da rede.
+
+O announcing é uma função importante na arquitetura de rede IPFS (InterPlanetary File System) em libp2p, que é uma biblioteca de rede descentralizada. A função permite que um par na rede IPFS informe a outros pares que possui blocos de dados disponíveis para serem compartilhados. Isso permite que outros pares na rede saibam que podem acessar esses dados e permite que a rede IPFS distribua o conteúdo de forma eficiente.
+
+A função de announcing é uma das principais características que torna o IPFS uma rede descentralizada. Ao contrário das redes centralizadas, em que um servidor central armazena todos os dados, a rede IPFS depende da colaboração dos pares na rede para compartilhar e armazenar os dados. O announcing permite que os pares saibam onde os dados estão armazenados e como acessá-los, permitindo que a rede IPFS forneça acesso rápido e eficiente aos dados.
+
+Além disso, o announcing é uma das maneiras pelas quais o IPFS garante a integridade e segurança dos dados armazenados na rede. Como os dados são distribuídos em vários pares, é mais difícil para um atacante comprometer a integridade dos dados armazenados. Além disso, como os dados são armazenados em vários lugares, é menos provável que eles sejam perdidos ou corrompidos.
+
+O announcing também é importante para a descentralização da rede IPFS. Como os dados são armazenados em vários pares na rede, a função de announcing permite que a rede IPFS evite a centralização de dados em um único servidor ou ponto de controle. Isso é particularmente importante para a preservação de conteúdos digitais que são considerados importantes e precisam ser compartilhados globalmente, mas também precisam ser protegidos contra a exclusão ou a manipulação.
+
+A função do announcing no libp2p é semelhante ao recurso de announcing em outras redes descentralizadas, como BitTorrent. No entanto, a função de announcing do IPFS é mais avançada do que a de outras redes, pois é possível especificar quais blocos de dados estão disponíveis e quais não estão, permitindo que os pares da rede escolham quais dados eles precisam. Essa granularidade de controle também ajuda a otimizar o desempenho da rede, pois os pares podem escolher quais blocos de dados são mais relevantes para eles.
+
+No IPFS, a função de announcing é executada em conjunto com outros recursos, como a rede de roteamento DHT (Distributed Hash Table) e o mecanismo de troca de blocos Gossipsub. O DHT permite que os pares encontrem outros pares na rede, enquanto o Gossipsub permite que os pares compartilhem informações sobre os blocos de dados que possuem. Em conjunto, esses recursos permitem que a rede IPFS funcione de forma descentralizada e eficiente, permitindo o compartilhamento global de conteúdo digital.

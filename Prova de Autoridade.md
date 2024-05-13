@@ -1,0 +1,31 @@
+# Prova de Autoridade (Proof-of-Authority, PoA)
+
+>"*A Prova de Autoridade (PoA) é um algoritmo de consenso para blockchains que se destaca por sua alta performance e resistência a falhas, conferindo a validadores autenticados previamente o direito de gerar novos blocos. Comparado a Prova de Trabalho (PoW) e Prova de Participação (PoS), o PoA é mais eficiente e previsível, resistindo bem a ataques comuns. Embora seja ideal para blockchains permissionadas, como em ambientes corporativos e governamentais, sua centralização potencial e possíveis preocupações com privacidade podem ser desvantagens em alguns contextos.*"
+
+Prova de Autoridade (PoA) é um algoritmo de consenso nas blockchains que proporciona alta performance e tolerância a falhas. Distinto dos algoritmos de consenso de Prova de Trabalho (PoW) e Prova de Participação (PoS), que exigem prova de recursos computacionais gastos ou um "stake" existente respectivamente, o PoA tem várias vantagens notáveis.
+
+A característica marcante do PoA é que o direito de gerar novos blocos é concedido a nós que comprovaram sua autoridade para tal. Esses nós, conhecidos como "validadores", operam o software que lhes permite colocar transações em blocos. O processo é automatizado e não exige que os validadores monitorem constantemente seus computadores, mas requer que mantenham o computador seguro e não comprometido. Para ganhar essa autoridade e o direito de gerar novos blocos, um nó deve passar por uma autenticação de identidade preliminar.
+
+Em comparação com o PoW, o PoA não exige que os nós gastem recursos computacionais resolvendo tarefas matemáticas complexas. Além disso, o intervalo de tempo no qual novos blocos são gerados é previsível, o que é uma melhoria em relação aos consensos PoW e PoS, onde esse tempo varia. Outro aspecto positivo do PoA é a alta taxa de transação. Os blocos são gerados em sequência em intervalos de tempo designados pelos nós de rede autorizados, aumentando a velocidade de validação das transações.
+
+O PoA também é resistente a nós comprometidos e maliciosos, desde que 51% dos nós não estejam comprometidos. Isso o torna um mecanismo de consenso atraente para blockchains permissionadas, onde todos os nós são pré-autenticados. Isso contrasta com blockchains não permissionadas, onde qualquer um pode se tornar um nó.
+
+Várias estratégias de ataque comuns à blockchain são mitigadas pelo PoA. Por exemplo, um ataque de negação de serviço (DoS), onde um atacante envia um grande número de transações e blocos para um nó de rede específico para tentar interromper sua operação, é menos eficaz contra o PoA. Como os nós de rede são pré-autenticados, os direitos de geração de blocos podem ser concedidos apenas a nós que podem resistir a ataques de DoS. Além disso, se um nó estiver indisponível por um certo período, ele pode ser excluído da lista de nós validadores.
+
+Da mesma forma, um ataque de 51% requer que um atacante obtenha controle sobre 51% dos nós de rede no PoA. Isso é diferente de um ataque de 51% para os tipos de consenso de Prova de Trabalho, onde um atacante precisa obter 51% do poder computacional da rede. Obter o controle dos nós em uma rede blockchain permissionada é muito mais difícil do que obter poder computacional.
+
+Os validadores do PoA são incentivados a manter sua posição com a reputação. O PoA permite apenas a aprovação de blocos não consecutivos de qualquer validador, o que significa que o risco de danos sérios é centralizado para o nó de autoridade. O PoA é uma tentativa de tornar os sistemas centralizados mais eficientes.
+
+A aplicação da Prova de Autoridade é diversa. Essa abordagem é especialmente útil em ambientes corporativos, onde existe uma alta confiança entre os participantes e é necessário um controle mais centralizado sobre a geração de blocos. Uma área em que o PoA tem sido amplamente utilizado é a logística e cadeia de suprimentos. 
+
+Nesses setores, é crucial garantir a autenticidade e integridade das informações registradas, além de manter a privacidade dos dados de cada empresa envolvida. O PoA permite que as empresas participantes da rede blockchain sejam validadoras dos blocos, garantindo a confiabilidade das transações e a rastreabilidade dos produtos ao longo de toda a cadeia.
+
+Outra implementação notável do PoA é a plataforma Microsoft Azure, que adotou esse algoritmo de consenso para suas redes blockchain em nuvem. Com o PoA, a Microsoft oferece uma solução eficiente e de alta velocidade para implementações corporativas que exigem uma governança mais centralizada e um melhor desempenho em comparação com outras alternativas de consenso.
+
+Além das aplicações corporativas, o PoA também pode ser usado em ambientes governamentais, como governos locais, onde a confiança entre as partes é alta e é necessária uma governança mais centralizada. A adoção do PoA nessas situações pode facilitar a implementação de soluções baseadas em blockchain para registros públicos, identidade digital e votação eletrônica, proporcionando maior segurança e transparência.
+
+Embora o PoA ofereça várias vantagens, é importante mencionar novamente que sua implementação é mais adequada para casos de uso específicos, como as blockchains permissionadas e privadas. Em ambientes mais abertos e descentralizados, como blockchains públicas, o uso de algoritmos de consenso como a Prova de Trabalho ou a Prova de Participação pode ser mais apropriado.
+
+O PoA também apresenta algumas limitações e preocupações potenciais. Uma delas é a centralização de poder, uma vez que apenas um número limitado de nós validadores possui autoridade para criar novos blocos. Isso pode levar a um cenário em que o controle sobre a blockchain está concentrado nas mãos desses validadores autorizados, o que pode gerar preocupações sobre a possibilidade de abuso ou influência indevida. 
+
+Além disso, outra possível limitação do PoA é a necessidade dos validadores revelarem suas identidades reais. Em algumas implementações do PoA, os validadores precisam passar por um processo de autenticação que pode exigir a divulgação de informações pessoais. Isso pode levantar preocupações sobre a privacidade dos participantes, especialmente em casos em que a confidencialidade é crucial. É importante avaliar cuidadosamente essas considerações ao decidir utilizar o algoritmo de consenso PoA em um determinado contexto.

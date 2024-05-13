@@ -1,3 +1,19 @@
 # Mão Forte (Strong Hand)
 
-Mão forte é um termo usado para descrever um indivíduo ou indivíduos que detêm (não vendem) suas criptomoedas apesar da queda dos preços. Em contraste, mão fraca é aquele que vende ao primeiro sinal de queda nos preços.
+>"*O termo "mão forte" refere-se a investidores que mantêm suas posições em um ativo, mesmo diante de adversidades de mercado, como volatilidade ou quedas de preço, baseando-se na crença no valor ou no potencial de longo prazo do ativo. Essa abordagem contrasta com a "mão fraca", que vende ativos rapidamente diante de quedas. Embora a resiliência de uma mão forte seja muitas vezes admirada, é crucial que os investidores avaliem cuidadosamente os riscos, não ignorem sinais de mercado e compreendam plenamente os fundamentos do ativo em que estão investindo.*"
+
+O termo "mão forte", oriundo do universo do poker, foi adotado pelo mercado financeiro e, mais recentemente, pelo universo das criptomoedas para descrever investidores que mantêm suas posições, mesmo em face de adversidades de mercado como volatilidade e quedas de preço. No contexto das criptomoedas, o investidor com uma mão forte é aquele que retém suas moedas mesmo diante de uma queda significativa no preço, acreditando no valor intrínseco ou no potencial de longo prazo do ativo.
+
+A ideia por trás da mão forte é a crença fundamental de que o ativo detido tem valor substancial e, como tal, as oscilações de curto prazo no preço do mercado são de pouca importância. Isso é particularmente relevante no mercado de criptomoedas, que é conhecido por sua volatilidade.
+
+Vamos considerar um exemplo para ilustrar. Em dezembro de 2017, o preço do Bitcoin atingiu um pico histórico, chegando a quase 20.000 dólares. No entanto, em dezembro de 2018, o preço do Bitcoin caiu para cerca de 3.200 dólares. Um investidor com "mão forte" nessa situação teria mantido seu Bitcoin durante essa queda de preço, acreditando no potencial de longo prazo do ativo. E de fato, aqueles que mantiveram seu Bitcoin através dessas turbulências do mercado foram recompensados quando o preço do Bitcoin se recuperou e atingiu novos picos nos anos subsequentes.
+
+Esse comportamento é contrastado com a "mão fraca", que é um termo usado para descrever os investidores que vendem seus ativos ao primeiro sinal de queda nos preços. Esses investidores tendem a ser mais reativos às mudanças de curto prazo no mercado e podem vender seus ativos na tentativa de evitar perdas maiores.
+
+No entanto, enquanto a mão forte é frequentemente elogiada pela sua resiliência e convicção, é importante notar que essa estratégia não é isenta de riscos. Os mercados de criptomoedas são notoriamente voláteis e imprevisíveis, e manter um ativo durante uma queda de preço pode levar a perdas significativas. Os investidores devem sempre fazer sua própria pesquisa e considerar seus próprios objetivos de investimento e tolerância ao risco ao decidir se devem manter ou vender um ativo.
+
+É igualmente crucial lembrar que o conceito de mão forte não deve ser usado para justificar a manutenção de um ativo que tem pouco ou nenhum valor intrínseco, ou cujas perspectivas a longo prazo são ruins. Embora a ideia por trás da mão forte seja a convicção no valor do ativo, ela não deve ser usada como uma desculpa para ignorar sinais de mercado ou informações negativas sobre o ativo em questão.
+
+Além disso, é importante destacar que a estratégia da mão forte pode não ser adequada para todos os investidores. Cada pessoa tem sua própria tolerância ao risco e objetivos de investimento, e diferentes abordagens podem ser mais apropriadas dependendo das circunstâncias individuais.
+
+É fundamental para os investidores entenderem os fundamentos e o potencial de longo prazo de qualquer ativo em que desejam investir. Isso envolve fazer pesquisas aprofundadas, analisar o histórico de preços e o desempenho passado, avaliar as perspectivas futuras e considerar fatores macroeconômicos e regulatórios que possam afetar o mercado.
