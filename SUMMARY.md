@@ -52,7 +52,7 @@
 * [Baholder](Bagholder.md)
 * [Baleia-Urso (Bearwhale)](Baleia-Urso.md)
 * [Baleia (Whale)](Baleia.md)
-* [Bandas de Bollinger, Análise de Bollinger (Bollinger Bands)](An%C3%A1lise%20de%20Bollinger.md)
+* [Bandas de Bollinger, Análise de Bollinger (Bollinger Bands)](Bandas%20de%20bollinger.md)
 * [Banho de Sangue (Bloodbath)](Banho%20de%20Sangue.md)
 * [Beacon Chain](Beacon%20Chain.md)
 * [Bearish (Pessimismo em Relação ao Mercado, Sentimento Baixista)](Bearish.md)
