@@ -424,7 +424,7 @@
 * [Ponte (Bridge)](Pontes.md)
 * [Ponto a Ponto, Par a Par (Peer-to-Peer, P2P)](Ponto%20a%20Ponto.md)
 * [Ponto de Extremidade (Endpoint)](Ponto%20de%20Extremidade.md)
-* [Ponto de Extremidade de API (API Endpoint)](Ponto%20de%20Extremidade.md)
+* [Ponto de Extremidade de API (API Endpoint)](Ponto%20de%20Extremidade%20de%20API.md)
 * [Pool de Liquidez (Liquidity Pool)](Pools%20de%20Liquidez.md)
 * [Pool de Mineração (Mining Pool)](Pool%20de%20Minera%C3%A7%C3%A3o.md)
 * [Portfólio (Portfolio)](Portf%C3%B3lio.md)
