@@ -117,7 +117,7 @@
 * [Carteira de Papel (Paper Wallet)](Carteira%20de%20Papel.md)
 * [Carteira de Software (Software Wallet, Desktop Wallet)](Carteira%20de%20Software.md)
 * [Carteira Fria, Carteira de Armazenamento a Frio (Cold Wallet, Cold Storage Wallet)](Carteira%20Fria.md)
-* [Carteira Não Custodial (Non-Custodial Wallet)](Carteira%20Não%20custodial.md)
+* [Carteira Não Custodial (Non-Custodial Wallet)](carteira-nao-custodial.md)
 * [Carteira Quente, Carteira de Armazenamento a Quente (Hot Wallet, Hot Storage Wallet)](Carteira%20Quente.md)
 * [CAS, Content Addressable Storage (Armazenamento Endereçável de Conteúdo)](CAS.md)
 * [Casper (Casper-FFG, Casper the Friendly Finality Gadget)](Casper.md)
